@@ -1,0 +1,326 @@
+<html>
+
+<head>
+    <style>
+        table,
+        th,
+        td {
+            border: 2px solid black;
+            border-collapse: collapse;
+            margin-right: 0px;
+            margin-left: 0px;
+            margin-bottom: 0px;
+            font-size: 11px;
+            padding: 5px;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        font {
+            margin-left: 0px;
+            margin-right: 0px;
+            /* font-size: 16px; */
+            font-family: 'Segoe UI', sans-serif;
+            margin-bottom: 1px;
+        }
+
+        .sinhala-font {
+            font-size: 9px;
+        }
+
+        .tamil-font {
+            font-size: 9px;
+        }
+    </style>
+</head>
+
+<body>
+    <section class="form-body">
+        <header class="form-header">
+            <table width="100%" height="8%" style="border: 0;">
+                <tr style="border: 0;">
+                    <td style="border: 0;">
+                        <center><span style="font-size:12px;"><b>පො.කො.ප. 4 ආකෘති පත්‍රය<br>කොන්ත්‍රාත්තුව ලියාපදිංචි
+                                    කිරීමේ සහතිකය</b></span><br><b><span style="font-size:15px;">FORM PCA 4</span> <br><span
+                                    style="font-size:14px;">Certificate
+                                    of Registration of Contract</span></b></center>
+                    </td>
+                </tr>
+            </table>
+            <hr width="20%" color="#000000">
+
+            <table style="border:0;">
+                <tr style="border:0;">
+                    <td style="text-indent: 30;border:0; line-height: 2" class="sinhala-font">
+                        1987 අංක 3 දරන පොදු කොන්ත්‍රාත් ගිවිසුම් පනතේ 11(1) වගන්තිය පරිදි (අ)<br>
+                        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;හි
+                        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                        හා (ආ) <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                        හි
+                        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;අතර
+                        බැඳුනු,
+                        දෙදහස් &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;ක්
+                        වූ
+                        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                        මස
+                        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                        වැනි දින දරන
+                        (ඇ)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                        පොදු කොන්ත්‍රාත් ගිවිසුම අද දින ලියාපදිංචි කරන බවත්, මෙම සහතිකය
+                        මෙහි සඳහන් දින සිට එක් අවුරුදු කාලයක් සඳහා වලංගු විය යුතු බවත් මම මෙයින් සහතික කරමි.
+                    </td>
+                </tr>
+                <tr style="border:0;">
+                    <td style="text-indent: 30;border:0;  line-height: 2">
+                        I hereby certify that a Public Contract for (c) <br>dated the &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; day of&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Two Thousand
+                        and<br> enetered into between(a)<br> of<br> and(b)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; of is this day registered pursuant to Section 11(1) of
+                        the Public Contracts Act No.3 of 1987 and this Certificate shall remain in force for a period
+                        of one year from the date hereof
+                    </td>
+                </tr>
+            </table>
+
+            <table width="100%" style="border:0;">
+                <tr style="border:0;">
+                    <td width="5%" style="border:0;" class="sinhala-font"></td>
+                    <td width="95%" style=" border:0;">දෙදහස්&emsp;&emsp;&emsp;&emsp;&emsp; ක් වූ
+                        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                        මස&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; වැනි දින වන අද දින කොළඹ දී අත්සන් කර
+                        දුනිමි.</td>
+                </tr>
+                <tr style="border:0;">
+                    <td width="5%" style="border:0;"></td>
+                    <td width="95%" style=" border:0;">Given under my hand at Colombo
+                        this&emsp;&emsp;&emsp;&emsp;&emsp; day of
+                        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                        Two Thousand</td>
+                </tr>
+            </table>
+            <br>
+            <br>
+
+            <table width="100%" style="border:0;">
+                <tr>
+                    <td width="60%" style="border:0; padding: 0;"></td>
+                    <td width="40%" style="border:0; padding: 0;">
+                        <center>................................................................</center>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="60%" style="border:0; padding: 0;"></td>
+                    <td width="40%" style="border:0; padding: 0;">
+                        <center><span class="sinhala-font">පොදු කොන්ත්‍රාත් ගිවිසුම් රෙජිස්ට්‍රාර්.</span><br><span
+                                class="tamil-font">சமாதான நீதிவான்</span><br>Registrar of Public
+                            Contracts</center>
+                    </td>
+                </tr>
+            </table>
+            <hr width="40%" color="#000000" align="left">
+
+            <table width="100%" style="border: 0;">
+                <tr style="border: 0; padding: 0;">
+                    <td width="2%" style="border: 0; padding: 0; " class="sinhala-font">(අ)</td>
+                    <td width="45%" style="border: 0; padding: 0; " class="sinhala-font">කොන්ත්‍රාත්තුව ප්‍රදානය කරන
+                        තැනැත්තාගේ නම සහ ලිපිනය</td>
+                    <td width="43%" style="border: 0; padding: 0;"></td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="2%" style="border: 0;padding: 0;" class="tamil-font">(அ)</td>
+                    <td width="40%" style="border: 0; padding: 0; " class="tamil-font">கைள்விதரரின் பெயர்</td>
+                    <td width="56%" style="border: 0; padding: 0;"></td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="2%" style="border: 0;padding: 0;">(a)</td>
+                    <td width="40%" style="border: 0; padding: 0;">Name and address of person awarding
+                        contract</td>
+                    <td width="56%" style="border: 0; padding: 0;"></td>
+                </tr>
+            </table>
+            <br>
+
+            <table width="100%" style="border: 0;">
+                <tr style="border: 0; padding: 0;">
+                    <td width="2%" style="border: 0; padding: 0; padding: 0;" class="sinhala-font">(ආ)</td>
+                    <td width="40%" style="border: 0; padding: 0; " class="sinhala-font">කොන්ත්‍රාත්කරුගේ නම සහ ලිපිනය</td>
+                    <td width="58%" style="border: 0; padding: 0;"></td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="2%" style="border: 0;padding: 0;" class="tamil-font">(அ)</td>
+                    <td width="40%" style="border: 0; padding: 0; " class="tamil-font">கைள்விதரரின் பெயர்</td>
+                    <td width="56%" style="border: 0; padding: 0;"></td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="2%" style="border: 0;padding: 0;">(b)</td>
+                    <td width="40%" style="border: 0; padding: 0;">Name and Address of Contractor</td>
+                    <td width="56%" style="border: 0; padding: 0;"></td>
+                </tr>
+            </table>
+            <br>
+
+            <table width="100%" style="border: 0;">
+                <tr style="border: 0; padding: 0;">
+                    <td width="2%" style="border: 0; padding: 0; padding: 0;" class="sinhala-font">(ඇ)</td>
+                    <td width="40%" style="border: 0; padding: 0; " class="sinhala-font">කොන්ත්‍රාත්තුවේ ස්වභාවය</td>
+                    <td width="58%" style="border: 0; padding: 0;"></td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="2%" style="border: 0;padding: 0;" class="tamil-font">(அ)</td>
+                    <td width="40%" style="border: 0; padding: 0; " class="tamil-font">கைள்விதரரின் பெயர்</td>
+                    <td width="56%" style="border: 0; padding: 0;"></td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="2%" style="border: 0;padding: 0;">(c)</td>
+                    <td width="40%" style="border: 0; padding: 0;">Nature of Contract</td>
+                    <td width="56%" style="border: 0; padding: 0;"></td>
+                </tr>
+            </table>
+            <br>
+
+            <table style="border: 0;">
+                <tr style="border: 0;">
+                    <td style="border: 0;"><span class="sinhala-font">අළුත්කිරීම්</span><br>Renewals:-</td>
+                </tr>
+            </table>
+
+            <table width="100%" style="border: 0;">
+                <tr style="border: 0;">
+                    <td width="1%" style="border: 0; padding: 0; padding: 0;" class="sinhala-font"></td>
+                    <td style="border: 0; padding: 0" class="sinhala-font">1 වැනි.............................. දින සිට
+                        අවුරුද්දක කාලයක් සඳහා අළුත් කරන ලදී</td>
+                    <td style="border: 0;"></td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="1%" style="border: 0; padding: 0; padding: 0;"></td>
+                    <td style="border: 0;padding: 0">1st Renewal for a period of one year from.............</td>
+                    <td style="border: 0;"></td>
+                </tr>
+                <tr>
+                    <td width="1%" style="border: 0; padding: 0;padding: 0;"></td>
+                    <td style="border: 0;"></td>
+                    <td style="border:0; padding: 0;">
+                        <center>................................................................</center>
+                    </td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="1%" style="border: 0; padding: 0;padding: 0;"></td>
+                    <td style="border: 0;"></td>
+                    <td style="border: 0;">
+                        <center><span class="sinhala-font">පොදු කොන්ත්‍රාත් ගිවිසුම් රෙජිස්ට්‍රාර්.</span><br>Registrar
+                            of Public Contracts</center>
+                    </td>
+                </tr>
+            </table>
+
+            <table width="100%" style="border: 0;">
+                <tr style="border: 0; padding: 0;">
+                    <td width="2%" style="border: 0; padding: 0; " class="sinhala-font">දිනය</td>
+                    <td width="2%" style="border: 0; padding: 0;" rowspan="3"><img src="{{asset('/form-images/right-brace.png')}}"
+                            width="15px;" height="auto" alt=""></td>
+                    <td width="78%" style="border: 0; padding: 0;" rowspan="3">.............</td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="2%" style="border: 0; padding: 0; " class="tamil-font">பெயர்</td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="2%" style="border: 0; padding: 0;">Date</td>
+                </tr>
+            </table>
+
+            <table width="100%" style="border: 0;">
+                <tr style="border: 0;">
+                    <td width="1%" style="border: 0;padding: 0;"></td>
+                    <td style="border: 0; padding: 0" class="sinhala-font">2 වැනි.............................. දින සිට
+                        අවුරුද්දක කාලයක් සඳහා අළුත් කරන ලදී</td>
+                    <td style="border: 0;"></td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="1%" style="border: 0;padding: 0;"></td>
+                    <td style="border: 0; padding: 0">2nd Renewal for a period of one year from.............</td>
+                    <td style="border: 0;"></td>
+                </tr>
+                <tr>
+                    <td width="1%" style="border: 0;padding: 0;"></td>
+                    <td style="border: 0;"></td>
+                    <td style="border:0; padding: 0;">
+                        <center>................................................................</center>
+                    </td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="1%" style="border: 0;padding: 0;"></td>
+                    <td style="border: 0;"></td>
+                    <td style="border: 0; ">
+                        <center><span class="sinhala-font">පොදු කොන්ත්‍රාත් ගිවිසුම් රෙජිස්ට්‍රාර්.</span><br>Registrar
+                            of Public Contracts</center>
+                    </td>
+                </tr>
+            </table>
+            <br>
+            <br>
+            <br>
+            <br>
+
+
+            <table width="100%" style="border: 0;">
+                <tr style="border: 0; padding: 0;">
+                    <td width="2%" style="border: 0; padding: 0; " class="sinhala-font">දිනය</td>
+                    <td width="2%" style="border: 0; padding: 0;" rowspan="3"><img src="{{asset('/form-images/right-brace.png')}}"
+                            width="15px;" height="auto" alt=""></td>
+                    <td width="78%" style="border: 0; padding: 0;" rowspan="3">.............</td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="2%" style="border: 0; padding: 0; " class="tamil-font">பெயர்</td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="2%" style="border: 0; padding: 0;">Date</td>
+                </tr>
+            </table>
+
+
+            <table width="100%" style="border: 0;">
+                <tr style="border: 0;">
+                    <td width="1%" style="border: 0; padding: 0"></td>
+                    <td style="border: 0; padding: 0" class="sinhala-font">3 වැනි.............................. දින සිට
+                        අවුරුද්දක කාලයක් සඳහා අළුත් කරන ලදී</td>
+                    <td style="border: 0;"></td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="1%" style="border: 0; padding: 0; padding: 0;"></td>
+                    <td style="border: 0; padding: 0">3rd Renewal for a period of one year from.............</td>
+                    <td style="border: 0;"></td>
+                </tr>
+                <tr>
+                    <td width="1%" style="border: 0; padding: 0; padding: 0;"></td>
+                    <td style="border: 0;"></td>
+                    <td style="border:0; padding: 0;">
+                        <center>................................................................</center>
+                    </td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="1%" style="border: 0; padding: 0;padding: 0;"></td>
+                    <td style="border: 0;"></td>
+                    <td style="border: 0;">
+                        <center><span class="sinhala-font">පොදු කොන්ත්‍රාත් ගිවිසුම් රෙජිස්ට්‍රාර්.</span><br>Registrar
+                            of Public Contracts</center>
+                    </td>
+                </tr>
+            </table>
+
+            <table width="100%" style="border: 0;">
+                <tr style="border: 0; padding: 0;">
+                    <td width="2%" style="border: 0; padding: 0; " class="sinhala-font">දිනය</td>
+                    <td width="2%" style="border: 0; padding: 0;" rowspan="3"><img src="{{asset('/form-images/background1.jpg')}}"
+                            width="15px;" height="auto" alt=""></td>
+                    <td width="78%" style="border: 0; padding: 0;" rowspan="3">.............</td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="2%" style="border: 0; padding: 0;" class="tamil-font">பெயர்</td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="2%" style="border: 0; padding: 0;">Date</td>
+                </tr>
+            </table>
+
+
+
+</body>
+
+</html>
