@@ -30,7 +30,7 @@
 
 return [
 	// ...
-	'format'           => 'Legal', // See https://mpdf.github.io/paging/page-size-orientation.html
+	'format'           => 'A4', // See https://mpdf.github.io/paging/page-size-orientation.html
 	'font_path' => base_path('resources/fonts/'),
 	'font_data' => [
 		'SegoeUI' => [
@@ -42,13 +42,21 @@ return [
 			//'useKashida' => 75,  // required for complicated langs like Persian, Arabic and Chinese
 		],
 		'examplefont' => [
-			'R'  => 'kaputaunicode.ttf',    // regular font
-			'B'  => 'kaputaunicode.ttf',       // optional: bold font
-			'I'  => 'kaputaunicode.ttf',     // optional: italic font
-			'BI' => 'kaputaunicode.ttf' // optional: bold-italic font
-			//'useOTL' => 0xFF,    // required for complicated langs like Persian, Arabic and Chinese
-			//'useKashida' => 75,  // required for complicated langs like Persian, Arabic and Chinese
-		]
+			'R'  => 'iskpota.ttf',    // regular font
+			'B'  => 'iskpota.ttf',       // optional: bold font
+			'I'  => 'iskpota.ttf',     // optional: italic font
+			'BI' => 'iskpota.ttf', // optional: bold-italic font
+			'useOTL' => 0xFF,    // required for complicated langs like Persian, Arabic and Chinese
+			'useKashida' => 75,  // required for complicated langs like Persian, Arabic and Chinese
+		],
+		'latha' => [
+			'R'  => 'latha.ttf',    // regular font
+			'B'  => 'latha.ttf',       // optional: bold font
+			'I'  => 'latha.ttf',     // optional: italic font
+			'BI' => 'latha.ttf' ,// optional: bold-italic font
+			'useOTL' => 0xFF,    // required for complicated langs like Persian, Arabic and Chinese
+			'useKashida' => 75,  // required for complicated langs like Persian, Arabic and Chinese
+		],
 		// ...add as many as you want.
 	]
 	// ...

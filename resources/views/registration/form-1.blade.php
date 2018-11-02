@@ -158,7 +158,7 @@
         </table>
         <br>
 
-        <table style="border-color: #FFFFFF; border-top-color: #000000;" width="100%">
+        <!-- <table style="border-color: #FFFFFF; border-top-color: #000000;" width="100%">
             <tbody>
                 <tr>
                     <td style="border:0; color:  #212121;">
@@ -177,11 +177,20 @@
                         as a directory of a company</td>
                 </tr>
             </tbody>
-        </table>
+        </table> -->
         <br>
 
          <table style="border: 1" width="100%">
             <tbody>
+                <tr style="border:0;">
+                <td style="border-bottom:1px solid #000; border-top:1px solid #fff; border-left:1px solid #fff; border-right:1px solid #fff; font-size:13px;" colspan="5">The following persons are the
+                        initial directors of the proposed company and 
+                        signify their consent  by signing below <br>and certify that each
+                        one
+                        of them is not disqualified from being appointed or holding
+                        office
+                        as a directory of a company</td>
+                </tr>
                 <tr style="border-bottom: 0;" >
                     <td width="3.3%" height="0.5cm" rowspan="2" style="border-bottom: 0; "> </td>
                     <td width="21.4%" height="0.5cm" rowspan="2" class="bg-color">Full Name </td>

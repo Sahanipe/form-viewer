@@ -2,6 +2,8 @@
 
 <head>
     <style>
+
+        
         table,
         th,
         td {
@@ -10,7 +12,7 @@
             margin-right: 0px;
             margin-left: 0px;
             margin-bottom: 0px;
-            font-size: 13px;
+            font-size: 16px;
             padding: 0px;
             font-family: 'Segoe UI', sans-serif;
         }
@@ -18,7 +20,7 @@
         font {
             margin-left: 0px;
             margin-right: 0px;
-            /* font-size: 16px; */
+            font-size: 16px;
             font-family: 'Segoe UI', sans-serif;
             margin-bottom: 1px;
         }
@@ -30,12 +32,12 @@
         }
 
         .sinhala-font {
-            font-size: 13px;
+            font-size: 19px;
             font-family: 'kaputaunicode', sans-serif;
         }
 
         .tamil-font {
-            font-size: 13px;
+            font-size: 16px;
         }
     </style>
 </head>
@@ -89,38 +91,51 @@
             <td width="20%">
                 <table>
                     <tbody>
-                        <tr>
-                            <td  width="10%"style="font-size:10px; font-family: 'kaputaunicode', sans-serif;">මිල</td>
-                            <td  width="5%" rowspan="3" style="font-size:30px;">
+                        <!-- <tr>
+                            <td  width="18%"style="font-size:14px; font-family: 'kaputaunicode', sans-serif;">මිල රු.</td>
+                            <td  width="5%" rowspan="3" style="font-size:35px;">
                             &#125;
                             </td>
-                            <td  width="85%" rowspan="3" style="font-size:10px;">&nbsp;&nbsp;  රු./Ta./Rs. 10/-</td>
+                            <td  width="77%" rowspan="3" style="font-size:12px;">&nbsp;&nbsp;   5/-</td>
                         </tr>
                         <tr>
-                            <td style="font-size:10px;">Tamil</td>
+                            <td style="font-size:14px;">Tamil /Ta.</td>
                         </tr>
                         <tr>
-                            <td style="font-size:10px;">Price</td>
-                        </tr>
+                            <td style="font-size:14px;">Price /Rs.</td>
+                        </tr> -->
+                        <tr>
+                        <td style="font-size:14px; font-family: 'kaputaunicode', sans-serif;">මිල රු.</td>
+                        <td rowspan="3" style="font-size:38px;">
+                        &#125;
+                        </td>
+                        <td rowspan="3" style="font-size:14px;">&nbsp;&nbsp; 5/-</td>
+                    </tr>
+                    <tr>
+                        <td style="font-size:14px;">Tamil</td>
+                    </tr>
+                    <tr>
+                        <td style="font-size:14px;">Price Rs.</td>
+                    </tr>
                     </tbody>
                 </table> 
             </td>
-            <td width="74%"></td>
-            <td width="6%">
+            <td width="72%"></td>
+            <td width="8%">
                 <table>
                 <tbody>
                     <tr>
-                        <td style="font-size:10px; font-family: 'kaputaunicode', sans-serif;">සමාගම්</td>
-                        <td rowspan="3" style="font-size:30px;">
+                        <td style="font-size:14px; font-family: 'kaputaunicode', sans-serif;">සමාගම්</td>
+                        <td rowspan="3" style="font-size:44px;">
                         &#125;
                         </td>
-                        <td rowspan="3" style="font-size:10px;">&nbsp;&nbsp; 78/S</td>
+                        <td rowspan="3" style="font-size:14px;">&nbsp;&nbsp; 79/S</td>
                     </tr>
                     <tr>
-                        <td style="font-size:10px;">Tamil</td>
+                        <td style="font-size:14px;">Tamil</td>
                     </tr>
                     <tr>
-                        <td style="font-size:10px;">Companies</td>
+                        <td style="font-size:14px;">Companies</td>
                     </tr>
                 </tbody>
             </table>
@@ -131,23 +146,23 @@
     <br>
     <!-- <div style=" margin-top:30px;"> -->
 
-        <table width="20%" height="50px;" style="border: 1px solid black" align="right">
+        <table width="21%" height="50px;" style="border: 1px solid black" align="right">
             <tbody>
                 <tr>
                     <td width="8%"></td>
-                    <td style="font-size:10px;">ගාස්තුව රු.</td>
-                    <td style="font-size:30px;" rowspan="3">
+                    <td style="font-size:15px; font-family: 'kaputaunicode', sans-serif;">ගාස්තුව රු.</td>
+                    <td style="font-size:38px;" rowspan="3">
                         &#125;
                     </td>
-                    <td rowspan="3" style="font-size:10px;">&nbsp;&nbsp; 2,500/=</td>
+                    <td rowspan="3" style="font-size:14px;">&nbsp;&nbsp; 250/=</td>
                 </tr>
                 <tr>
                     <td width="8%"></td>
-                    <td style="font-size:10px;">Tamil</td>
+                    <td style="font-size:12px;">Tamil</td>
                 </tr>
                 <tr>
                     <td width="8%"></td>
-                    <td style="font-size:10px;">Fee Rs.</td>
+                    <td style="font-size:12px;">Fee Rs.</td>
                 </tr>
             </tbody>
         </table>
@@ -159,22 +174,20 @@
     <br>
     <table width="100%">
         <tr>
-            <td align="center" style="font-size:14px; font-family: 'kaputaunicode', sans-serif;"><b>1987 සමාගම් (ලේකම්වරයන් පිලිබඳ නියෝග</b></td>
+            <td align="center" style="font-size:20px; font-family: 'kaputaunicode', sans-serif;"><b>1987 සමාගම් (ලේකම්වරයන් පිලිබඳ) නියෝග</b></td>
         </tr>
         <tr>
             <td align="center"><b>1987 Tamil</b></td>
         </tr>
         <tr>
-            <td align="center" style="font-size:14px;"><b>THE COMPANIES (SECRETARIES) REGULATIONS 1987</b></td>
+            <td align="center" style="font-size:16px;"><b>THE COMPANIES (SECRETARIES) REGULATIONS 1987</b></td>
         </tr>
     </table>
     <br>
     <table width="100%">
         <tr>
             <!-- <td width="10%"></td> -->
-            <td width="100%" align="center" style="font-size: 24px; font-family: 'kaputaunicode', sans-serif;"><b>පුද්ගලයෙකු විසින් ලේකම්වරයෙකු වශයෙන්<br>
-                    ලියාපදිංචි
-                    කරන ලෙස ඉල්ලීම<br><span style="font-size: 16px;">(6(2) නියෝගයට අනතුරුවයි)</span></b></td>
+            <td width="100%" align="center" style="font-size: 32px; font-family: 'kaputaunicode', sans-serif;"><b>ව්‍යාපාරික ආයතනයේ හෝ සංස්ථාපිත ආයතනයක් විසින් ලේකම්වරයෙකු වශයෙන් ලියාපදිංචි කරන ලෙස ඉල්ලීම<br><span style="font-size: 18px;">(6(2) නියෝගයට අනතුරුවයි)</span></b></td>
             <!-- <td width="10%"></td> -->
         </tr>
         <tr height="20px;">
@@ -182,7 +195,7 @@
         </tr>
         <tr>
             <!-- <td width="10%"></td> -->
-            <td width="100%" align="center" style="font-size: 20px;"><b>Tamil<span><br>Tamil</span></b></td>
+            <td width="100%" align="center" style="font-size: 28px;"><b>Tamil<span><br>Tamil</span></b></td>
             <!-- <td width="10%"></td> -->
         </tr>
         <tr height="20px;">
@@ -191,9 +204,9 @@
     </table>
     <table width="100%">
         <tr>
-            <td width="100%" align="center" style="font-size: 18px; font-family: 'Times New Roman', Times, serif"><b>APPLICATION
+            <td width="100%" align="center" style="font-size: 22px;"><b>APPLICATION
                     FOR THE REGISTRATION AS A SECRETARY<br>
-                    BY A FIRM OR CORPORATE BODY<br><span style="font-size: 14px;">(Pursuant to Regulation 6(2))</span></b></td>
+                    BY A FIRM OR CORPORATE BODY<br><span style="font-size: 18px;">(Pursuant to Regulation 6(2))</span></b></td>
         </tr>
     </table>
     <br>
@@ -201,17 +214,17 @@
     <table width="100%">
         <tr>
             <td width="72%"></td>
-            <td width="11%" style="font-size: 10px; font-family: 'kaputaunicode', sans-serif;">අයදුම්පත් අංකය</td>
-            <td style="font-size:32px;" width="2%" rowspan="3">&#125;</td>
-            <td width="15%" rowspan="3"></td>
+            <td width="13%" style="font-size: 14px; font-family: 'kaputaunicode', sans-serif;">අයදුම්පත් අංකය:</td>
+            <td style="font-size:42px;" width="2%" rowspan="3">&#125;</td>
+            <td width="13%" rowspan="3"></td>
         </tr>
         <tr>
             <td width="72%"></td>
-            <td width="11%" style="font-size: 10px;">Tamil</td>
+            <td width="13%" style="font-size: 14px;">Tamil:</td>
         </tr>
         <tr>
             <td width="72%"></td>
-            <td width="11%" style="font-size: 10px;">Application No.</td>
+            <td width="13%" style="font-size: 12px;">Application No:</td>
         </tr>
     </table>
     <br>
@@ -219,17 +232,17 @@
     <table width="100%">
         <tr>
             <td width="72%"></td>
-            <td width="11%" style="font-size: 10px; font-family: 'kaputaunicode', sans-serif;">ලියාපදිංචි අංකය</td>
-            <td style="font-size:32px;" width="2%" rowspan="3">&#125;</td>
-            <td width="15%" rowspan="3"></td>
+            <td width="13%" style="font-size: 14px; font-family: 'kaputaunicode', sans-serif;">ලියාපදිංචි අංකය:</td>
+            <td style="font-size:40px;" width="2%" rowspan="3">&#125;</td>
+            <td width="13%" rowspan="3"></td>
         </tr>
         <tr>
             <td width="72%"></td>
-            <td width="11%" style="font-size: 10px;">Tamil</td>
+            <td width="13%" style="font-size: 14px;">Tamil:</td>
         </tr>
         <tr>
             <td width="72%"></td>
-            <td width="11%" style="font-size: 10px;">Registration No.</td>
+            <td width="13%" style="font-size: 12px;">Registration No:</td>
         </tr>
     </table>
     <br>
@@ -237,9 +250,9 @@
     <table width="100%">
         <tr>
             <td width="2%" class="sinhala-font">1.</td>
-            <td width="32%" class="sinhala-font">ව්‍යාපාරික ආයතනයේ/ සංස්ථාපිත ආයතනයේ නම :</td>
-            <td style="font-size:46px;" width="2%" rowspan="3">&#125;</td>
-            <td width="64%"></td>
+            <td width="46%" class="sinhala-font">ව්‍යාපාරික ආයතනයේ/ සංස්ථාපිත ආයතනයේ නම :</td>
+            <td style="font-size:50px;" width="2%" rowspan="3">&#125;</td>
+            <td width="50%"></td>
         </tr>
         <tr>
             <td width="2%" class="tamil-font"></td>
@@ -253,53 +266,56 @@
         </tr>
     </table>
     <br>
+    <br>
 
     <table width="100%">
         <tr>
             <td width="2%" class="sinhala-font">2.</td>
-            <td width="40%" class="sinhala-font">ව්‍යාපාරික ආයතනයේ/ සංස්ථාපිත ආයතනයේ ලියාපදිංචි අංකය :</td>
-            <td style="font-size:45px;" width="2%" rowspan="3">&#125;</td>
-            <td width="56%"></td>
+            <td width="58%" class="sinhala-font">ව්‍යාපාරික ආයතනයේ/ සංස්ථාපිත ආයතනයේ ලියාපදිංචි අංකය :</td>
+            <td style="font-size:50px;" width="2%" rowspan="3">&#125;</td>
+            <td width="38%"></td>
         </tr>
         <tr>
             <td width="2%" class="tamil-font"></td>
-            <td width="40%" class="tamil-font">Tamil</td>
-            <td width="56%"> blank</td>
+            <td width="58%" class="tamil-font">Tamil</td>
+            <td width="38%"> blank</td>
         </tr>
         <tr>
             <td width="2%"></td>
-            <td width="40%">Registration Number of Firm/Corporation:</td>
-            <td width="56%"></td>
+            <td width="58%">Registration Number of Firm/Corporation:</td>
+            <td width="38%"></td>
         </tr>
     </table>
+    <br>
     <br>
 
     <table width="100%">
         <tr>
             <td width="2%" class="sinhala-font">3.</td>
-            <td width="26%" class="sinhala-font">ව්‍යාපාරයේ/ සංස්ථාවේ
+            <td width="32%" class="sinhala-font">ව්‍යාපාරයේ/ සංස්ථාවේ
                 ලිපිනය :</td>
-            <td style="font-size:45px;" width="2%" rowspan="3">&#125;</td>
-            <td width="70%" rowspan="3"> blank</td>
+            <td style="font-size:50px;" width="2%" rowspan="3">&#125;</td>
+            <td width="63%" rowspan="3"> blank</td>
         </tr>
         <tr>
             <td width="2%" class="tamil-font"></td>
-            <td width="26%" class="tamil-font">Tamil</td>
+            <td width="32%" class="tamil-font">Tamil</td>
 
         </tr>
         <tr>
             <td width="2%"></td>
-            <td width="26%">Address of Firm/ Corporation:</td>
+            <td width="32%">Address of Firm/ Corporation:</td>
 
         </tr>
     </table>
+    <br>
     <br>
 
     <table width="100%">
         <tr>
             <td width="3%" class="sinhala-font">4.&nbsp;</td>
             <td width="97%" class="sinhala-font">ව්‍යාපාරයට / සංස්ථාවට ලේකම්වරයකු වශයෙන් කටයුතු කිරීමට ස්වකීය
-                ව්‍යාපාරයේ ස්වභාවයේ / සංස්ථාවේ සාංගාමික පත්‍රයේ ඉඩ සළසා තිබේ ද</td>
+                ව්‍යාපාරයේ ස්වභාවයේ / සංස්ථාවේ සාංගාමික පත්‍රයේ ඉඩ සළසා තිබේ ද?</td>
         </tr>
         <tr>
             <td width="3%" class="tamil-font"></td>
@@ -382,7 +398,7 @@
     <table width="100%">
         <tr>
             <td width="3%" class="sinhala-font"></td>
-            <td width="97%" class="sinhala-font">(අ) සිහිවිකල වූවෙකැයි විනිශ්චය කර තිබේ ද</td>
+            <td width="97%" class="sinhala-font">(අ) සිහිවිකල වූවෙකැයි විනිශ්චය කර තිබේ ද?</td>
         </tr>
         <tr>
             <td width="3%" class="tamil-font"></td>
@@ -487,16 +503,16 @@
 
     <table>
         <tr>
-            <td style="line-height: 2" class="sinhala-font">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ඉහත සඳහන් කරුණු හා දී ඇති උත්තර සැබෑ
+            <td style="line-height: 2; " class="sinhala-font">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ඉහත සඳහන් කරුණු හා දී ඇති උත්තර සැබෑ
                 බවත්, නිවැරදි බවත්
-                .....................................................................................<br>...............................................................
+                .................................................<br>...............................................
                 පදිංචි
-                ............................................................................................................................................................................
+                .............................................................................................................................................
                 වන මම මෙයින් දිවුරා කියා සිටිමි. / ගම්භීරතා පූර්වකව ද සත්‍ය ලෙස ප්‍රකශ කොට
                 සහතික කරමි.</td>
         </tr>
         <tr>
-            <td style=" text-indent: 600;line-height: 2" class="tamil-font">tamil<br>tamil<br>tamil</td>
+            <td style=" text-indent: 600;line-height: 2" class="tamil-font">tamil<br>tamil</td>
         </tr>
         <tr>
             <td style="text-indent: 50; line-height: 2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I
@@ -511,63 +527,111 @@
     <table width="100%">
         <tr height="30px;">
             <td width="6%"></td>
-            <td width="92%" class="sinhala-font" style="line-height: 2">19 .............................................................මස
-                ................................................................................... දින දී ය.</td>
+            <td width="92%" class="sinhala-font" style="line-height: 2">19 ....................................මස
+                ................................................. දින දී ය.</td>
         </tr>
         <tr height="30px;">
             <td width="6%"></td>
             <td width="92%" class="tamil-font" style="line-height: 2">
-                19 ................................................................மாதம்
-                ................................................................................... tamil .
+                19 .....................................மாதம்
+                .......................................................... tamil .
             </td>
         </tr>
         <tr height="30px;">
             <td width="6%"></td>
             <td width="92%" style="line-height: 2">Dated this
-                .............................................................day of
-                ................................................................................... 19</td>
+                ................................day of
+                ................................................................. 19</td>
         </tr>
     </table>
     <br>
 
-    <table >
+    <table style="height: 24px; width: 610px;">
+        <tbody>
+            <tr style="height: 23px;">
+                <td style="height: 23px; width: 197px;">&nbsp;</td>
+                <td style="height: 23px; width: 412px;">
+                    <table style="width: 200px;">
+                        <tbody>
+                            <tr>
+                                <td style="width: 161px;" align="left">
+                                    <div >
+                                        <div class="sinhala-font">අත්සන:</div>
+                                        <div>Tamil:</div>
+                                        <div style="">Signature:</div>
+                                    </div>
+                                </td>
+                                <td style="width: 50px;">&nbsp;</td>
+                                <td style="width: 10px;">
+                                    <table style="width: 206px; border: 1px solid;" >
+                                        <tbody>
+                                            <tr  >
+                                                <td style="padding-left:10px;">
+                                                    <div >
+                                                        <span class="sinhala-font">රු.</span><br>
+                                                        <span>TT.</span><br>
+                                                        <span>Rs.</span>
+                                                    </div>
+                                                </td>
+                                                <td  style="font-size: 55px; padding-right: 0px; padding-top:10px; padding-bottom:10px; padding-left:0;" >&#125;</td>
+                                                <td >2/=&nbsp;&nbsp;&nbsp;</td>
+                                                <td style="padding-right:10px">
+                                                <div >
+                                                    <span class="sinhala-font">මුද්දරයක්</span><br>
+                                                    <span>TT.</span><br>
+                                                    <span>Stamp</span>
+                                                </div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <!-- <table>
+        <tbody>
         <tr>
-            <td width=" 40%" height="300"></td>
-            <td width="2%" height="300" align="left">
-                <span class="sinhala-font">අත්සන:</span><br><span class="tamil-font">tamil</span><br>Signature:
+            <td width=" 40%" height="300" ></td>
+            <td width="5%" height="300" align="left" class="sinhala-font">
+                අත්සන:
             </td>
             <td width="16%" height="300"></td>
             <td width="2%" height="300" style="border-left: 1px solid black; border-top: 1px solid black; border-bottom: 1px solid black;"></td>
-            <td width="4%" height="300" style=" border-top: 1px solid black; border-bottom: 1px solid black;">රු. <br> Ta. <br> Rs.
-            </td>
-            <td height="300" style="font-size:30px;" width="3%" style=" border-top: 1px solid black; border-bottom: 1px solid black;">&#125;</td>
-            <td width="8%" height="300" style=" border-top: 1px solid black; border-bottom: 1px solid black;">2/= </td>
-            <td width="2%" height="300" style="border-top: 1px solid black; border-bottom: 1px solid black;">මුද්දරයක් <br> Tamil
-                <br> Stamp </td>
+            <td width="4%" height="300" style=" border-top: 1px solid black; border-bottom: 1px solid black;">රු..</td>
+            <td width="3%" height="300" style=" border-top: 1px solid black; border-bottom: 1px solid black;">&#125;</td>
+           
+            <td width="2%" height="300" style="border-top: 1px solid black; border-bottom: 1px solid black;">මුද්දරයක් </td>
             <td width="2%" height="300" style="border-right: 1px solid black; border-top: 1px solid black; border-bottom: 1px solid black;"></td>
             <td width="18%" height="300"></td>
         </tr>
-    </table>
+        </tbody>
+    </table> -->
     <br>
     <br>
     <br>
 
     <table width="100%">
         <tr height="40px;">
-            <td style="text-indent:60px; line-height: 2" class="sinhala-font">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;19
-                ........................................................................මස
-                ........................................ දින, මා ඉදිරිපිට දී
-                ...................................................................................... <br>අත්සන්
+            <td style="text-indent:60px; line-height: 1" class="sinhala-font">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;19
+                ........................................මස
+                ...................................... දින, මා ඉදිරිපිට දී
+                ........................................................... <br>අත්සන්
                 කළ බවට.<br><br></td>
         </tr>
         <tr height="40px;">
-            <td style="text-indent:60px; line-height: 2" class="tamil-font">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <td style="text-indent:60px; line-height: 1" class="tamil-font">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 19 ................................................................மாதம்
                 .................................ஆம் tamil <br> tamil.<br><br>
             </td>
         </tr>
         <tr height="40px;">
-            <td style="text-indent:60px; line-height: 2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Signed in my presence on this
+            <td style="text-indent:60px; line-height: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Signed in my presence on this
                 ......................................................... day of
                 ............................................................... 19
                 ..........................<br> at ................................</td>
@@ -593,14 +657,14 @@
     <p style="page-break-before:always"></p>
 
     <div class="sinhala-font"><b>සටහන:</b> </div>
-    <div style="font-size:10px; text-indent: 30;">මෙම අයදුම්පත පුද්ගලයෙක් සම්බන්ධයෙන් නම් ඔහු විසින් ද, නීතිගත සංස්ථාවක්
+    <div style="font-size:15px; text-indent: 30;">මෙම අයදුම්පත පුද්ගලයෙක් සම්බන්ධයෙන් නම් ඔහු විසින් ද, නීතිගත සංස්ථාවක්
         නම් එහි අධ්‍යක්ෂ කෙනෙක් හෝ ලේකම් කෙනෙකු විසින් ද, ව්‍යාපාරික ආයතනයක් සම්බන්ධයෙන් නම් එහි හවුල්කරුවන් වූ
         පුද්ගලයන් විසින් හා හවුල්කරුවන් වූ සියළුම නීතිගත සංස්ථාවල අධ්‍යක්ෂ කෙනෙකු හෝ ලේකම් විසින් ද්, අත්සන් කළ යුතු ය.
         තව ද, පසුව කියන ලද අවස්ථා දෙකෙන් කිසිවක් සම්බන්ධයෙන් නම්, අත්සන් කරන්නා විසින් ඉහත සඳහන් දිවුරුම් පෙත්සම මගින්
         එම ප්‍රකාශය ස්ථීර කළ යුතු ය.</div>
         <br>
     <div style="font-size:11px; font-family:'Segoe UI', sans-serif"><b>NOTE:</b> </div>
-    <div style="font-size:10px; text-indent: 30; font-family:'Segoe UI', sans-serif">To be signed in the case of a corporation by a Director or Secretary
+    <div style="font-size:15px; text-indent: 30; font-family:'Segoe UI', sans-serif">To be signed in the case of a corporation by a Director or Secretary
         there of and in the case of a firm either by the individuals who are partners, and by a Director or the
         Secretary of all corporations who are partners, or by some individual who is a partner, or a Director or the
         Secratary of some corporation which is a partner, and either of the last two cases must be verified by an

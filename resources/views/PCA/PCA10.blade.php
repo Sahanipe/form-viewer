@@ -2,17 +2,17 @@
 
 <head>
     <style>
-        table,
+         table,
         th,
         td {
-            border: 2px solid black;
+            border: 1px solid black;
             border-collapse: collapse;
             margin-right: 0px;
             margin-left: 0px;
             margin-bottom: 0px;
-            font-size: 12px;
+            font-size: 14px;
             padding: 5px;
-            font-family: 'Segoe UI', sans-serif;
+            font-family:'Segoe UI', sans-serif;
         }
 
         font {
@@ -22,12 +22,14 @@
             font-family: 'Segoe UI', sans-serif;
             margin-bottom: 1px;
         }
-        .sinhala-font {
-            font-size: 10px;
-        }
 
-        .tamil-font {
+        .sinhala-font{
+            font-size: 14px;
+            font-family:'examplefont', sans-serif;
+        }
+        .tamil-font{
             font-size: 9px;
+            font-family:'latha', sans-serif;
         }
     </style>
 </head>
@@ -38,7 +40,7 @@
             <table width="100%" height="8%" style="border: 0;">
                 <tr style="border: 0;">
                     <td style="border: 0;">
-                        <center><span style="font-size:15px;"><b>පො.කො.ප. 10 ආකෘති පත්‍රය</b></span><br><b> FORM PCA 10</b></center>
+                        <center><span style="font-size:16px;" class="sinhala-font"><b>පො.කො.ප. 10 ආකෘති පත්‍රය</b></span><br><b> FORM PCA 10</b></center>
                     </td>
                 </tr>
             </table>
@@ -69,20 +71,20 @@
                     <td style="border:0; padding: 0; ">The Registrar of Public Contracts,<br><br></td>
                 </tr>
                 <tr style="border:0;">
-                    <td style="border:0; text-indent: 300;line-height: 3" class="sinhala-font">හි (අ)<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                    <td style="border:0; text-indent: 300;line-height: 3" class="sinhala-font">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;හි (අ)<br> blank 
                         වන මම/අපි
-                        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;හි (ආ)<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                         blank 
                         යන අය පහත සඳහන් පොදු කොන්ත්‍රාත් ගිවිසුම සඳහා මගේ / අපගේ
-                        (ඇ)<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; වශයෙන් පත් කරන ලද බව මෙයින් සහතික
+                        (ඇ)<br> blank වශයෙන් පත් කරන ලද බව මෙයින් සහතික
                         කරමි./කරමු.<br><br></td>
                 </tr>
                 <tr style="border:0;">
-                    <td style="border:0; text-indent: 30;line-height: 3;">I/We
-                        (a)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-                        of<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; hereby certify
-                        that (b)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; of
-                        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;has been
-                        appointed as my/our (c)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; for
+                    <td style="border:0; line-height: 3;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I/We
+                        (a) blank
+                        of<br> blank hereby certify
+                        that (b) blank  of
+                        blank has been
+                        appointed as my/our (c) blank for
                         the undermentioned public contract.</td>
                 </tr>
                 <tr style="border:0;">
@@ -94,25 +96,24 @@
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; padding: 0;">
                     <td width="2%" style="border: 0; padding: 0;" class="sinhala-font"> දිනය</td>
-                    <td width="2%" style="border: 0; padding: 0;" rowspan="4"><img src="{{asset('/form-images/right-brace')}}"
-                            width="15px;" height="auto" alt=""></td>
+                    <td width="4%" style="border: 0; padding: 0; font-size:40px;" rowspan="4">&#125;</td>
                     <td width="2%" style="border: 0; padding: 0; " rowspan="4">...............</td>
-                    <td width="66%" style="border: 0; padding: 0;"></td>
+                    <td width="64%" style="border: 0; padding: 0;"></td>
                     <td width="30%" style="border: 0; padding: 0;" align="center">..................................................................................</td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0; padding: 0;" class="tamil-font"> முழுப்</td>
-                    <td width="66%" style="border: 0; padding: 0;" align="right"></td>
+                    <td width="64%" style="border: 0; padding: 0;" align="right"></td>
                     <td width="30%" style="border: 0; padding: 0;" align="center" class="sinhala-font">ටෙන්ඩර්කරුගේ අත්සන</td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0; padding: 0;">Date</td>
-                    <td width="66%" style="border: 0; padding: 0;" align="right"></td>
+                    <td width="64%" style="border: 0; padding: 0;" align="right"></td>
                     <td width="30%" style="border: 0; padding: 0;" align="center">sgedgrhrh</td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="66%" style="border: 0; padding: 0;" align="right"></td>
+                    <td width="64%" style="border: 0; padding: 0;" align="right"></td>
                     <td width="30%" style="border: 0; padding: 0;" align="center">Signature of Tenderer</td>
                 </tr>
             </table>
@@ -122,25 +123,25 @@
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; padding: 0;">
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="2%" style="border: 0; padding: 0;">(අ)</td>
+                    <td width="3%" style="border: 0; padding: 0;"  class="sinhala-font">(අ)</td>
                     <td width="30%" style="border: 0; padding: 0;" class="sinhala-font">ටෙන්ඩර්කරුගේ නම සහ ලිපිනය</td>
-                    <td width="30%" style="border: 0; padding: 0;" rowspan="3"></td>
-                    <td width="2%" style="border: 0; padding: 0;">(අ)</td>
-                    <td width="32%" style="border: 0; padding: 0;" class="sinhala-font">අනුයොජිතයාගේ විස්තර ආදිය</td>
+                    <td width="29%" style="border: 0; padding: 0;" rowspan="3"></td>
+                    <td width="3%" style="border: 0; padding: 0;"  class="sinhala-font">(අ)</td>
+                    <td width="31%" style="border: 0; padding: 0;" class="sinhala-font">අනුයොජිතයාගේ විස්තර ආදිය</td>
                 </tr>
                 <tr style="border: 0; padding: 0;">
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="2%" style="border: 0; padding: 0;">(அ)</td>
+                    <td width="3%" style="border: 0; padding: 0;"  class="tamil-font">(அ)</td>
                     <td width="30%" style="border: 0; padding: 0;" class="tamil-font">கைள்விதரரின் பெயர்</td>
-                    <td width="2%" style="border: 0; padding: 0;">(අ)</td>
-                    <td width="32%" style="border: 0; padding: 0;">fhffjhjj</td>
+                    <td width="3%" style="border: 0; padding: 0;"  class="tamil-font">(අ)</td>
+                    <td width="31%" style="border: 0; padding: 0;">fhffjhjj</td>
                 </tr>
                 <tr style="border: 0; padding: 0;">
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="2%" style="border: 0; padding: 0;">(a)</td>
+                    <td width="3%" style="border: 0; padding: 0;"  class="sinhala-font">(a)</td>
                     <td width="30%" style="border: 0; padding: 0;">Name and address of tenderer</td>
-                    <td width="2%" style="border: 0; padding: 0;">(c)</td>
-                    <td width="32%" style="border: 0; padding: 0;">Description of Agent,etc.</td>
+                    <td width="3%" style="border: 0; padding: 0;">(c)</td>
+                    <td width="31%" style="border: 0; padding: 0;">Description of Agent,etc.</td>
                 </tr>
             </table>
 

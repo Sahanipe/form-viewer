@@ -1,214 +1,200 @@
 <html>
-
 <head>
     <style>
-        table,
-        th,
-        td {
-            border: 2px solid black;
+        table,th,td {
+            border: #212121 solid 1px;
             border-collapse: collapse;
             margin-right: 0px;
             margin-left: 0px;
             margin-bottom: 0px;
-            font-size: 15px;
+            font-size: 13px;
             padding: 5px;
-            font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+            padding-left:10px;
+            font-family: 'SegoeUI';
         }
 
-        font {
+        span {
             margin-left: 0px;
             margin-right: 0px;
-            /* font-size: 16px; */
-            font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+            font-size: 14px;
+            font-family: 'SegoeUI';
             margin-bottom: 1px;
         }
+
+        .bg-color {
+      background: #D3D3D3;
+        }
+
+    .a {
+      /* height: 5cm; */
+      line-height: 12px;
+      border-bottom: #000000;
+      border-top: #000000;
+      background: #dedcdc;
+      position: relative;
+  }
+    
+    body{
+      /* margin-left: 20px; */
+      font-family: 'SegoeUI';
+
+  }
     </style>
 </head>
-
 <body>
     <section class="form-body">
         <header class="form-header">
-            <table style="border: 0; margin-left: 0; margin-right: 0; margin-bottom: 0; margin-top: 0; padding: 0;" width="100%">
+            <table width="100%" style="border:0; padding:0;">
+                <tr>
+                    <td width="10%" style="border:0; padding:0px;"><img width="100px" height="100px" src="{{asset('/form-images/govlogo.jpg')}}" alt="gov_logo"></td>
+                    <td width="69%" style="border:0; font-size: 20px; padding-top:20px; padding-left:5px " align="center"><b>FORM 44<br><br></b></td>
+                    <td width="11%" style="border:0; padding:0px; font-size: 10px;" align="left">(Section 489(d))</td>
+                    <td width="10%" style="border:0; padding:0px;"> <img width="130" height="auto" src="{{asset('/form-images/eroc.png')}}" alt="Logo EROC"></td>
+                </tr>
+                <tr>
+                    <td colspan="4" align="center" style="border:0; font-size:20px; padding:0;"><b>FULL ADDRESS OF THE REGISTERED OR PRINCIPAL OFFICE OF A COMPANY INCORPORATED OUTSIDE SRI LANKA AND ITS PRINCIPAL PLACE OF BUSINESS ESTABLISHED IN SRI LANKA </b></td>
+                </tr>
+                <tr>
+                    <td colspan="4"  style="border:0; padding:0px; font-size:13px; padding-left:230px;">The Companies Act No.7 of 2007 
+Pursuant to Sec 489(d)
+</td>
+                </tr>
+            </table>
+            <br>
+
+            <table style="border: 0;" width="100%" >
                 <tbody>
-                    <tr style="border: 0; margin-bottom: 0; padding: 0; margin-top: 0;">
-                        <td style=" border: 0;">
-                            <img src="{{asset('/form-images/govlogo.jpg')}}" width="90" height="auto" alt="eRoC logo" /></td>                       
-                        <td style="border: 0;" width="60%"></td>                        
-                        <td style=" border: 0;">
-                            <img src="{{asset('/form-images/eroc.png')}}" width="170" height="auto" alt="eRoC logo" /></td>
-                    </tr>
-                    <tr width="80%" style="border: 0; margin-top: 0; padding: 0;">
-                        <td colspan="3" style="border: 0;">
-                            <center>
-                                <font style="font-size:22px;">
-                                    <b>LICENCE BY THE REGISTRAR GENERAL OF COMPANIES</b>
-                                </font>
-                                <br>
-                                <font style="font-size:12px;">
-                                    Pursuant to Section 34 of the companies Act No.7 of 2007
-                                </font>
-                            </center>
-                        </td>
+                    <tr>
+                        <td width="30%" height="35" style="border: 0;">Number of the company </td>
+                        <td width="7%" height="35">&nbsp;</td>
+                        <td width="7%" height="35">&nbsp;</td>
+                        <td width="56%" height="35">&nbsp;</td>
                     </tr>
                 </tbody>
             </table>
             <br>
-            
-            <table width="90%" style="border: 0; margin-left: auto; margin-right: auto; " align="center">
-                <tbody>
-                    <tr style="border: 0;">
-                        <td style="border: 0;">
-                            <center>
-                                <font style="font-size: 16px;">
-                                    Where it has been provided to the satisfaction of the Registrar General of Companies that
-                                </font>
-                            </center>
-                        </td>
-                    </tr>
-                    <tr style="border: 0;">
-                        <td style="border: 0;">
-                            <center>
-                                <font style="font-size: 18px;">
-                                    AMMA WORLD ORGANISATION
-                                </font>
-                            </center>
-                        </td>
-                    </tr>
-                    <tr style="border: 0;">
-                        <td style="border:0;">
-                            <center>
-                                <font style="font-size: 16px;">
-                                    An association about to be formed as a alimited liability company under the companies Act No. 7 of 2007, is to be for the
-                                    purpose of promoting objects of the nature contemplated by Section 34 of the said Companies
-                                    Act
-                                </font>
-                            </center>
-                        </td>
-                    </tr>
-                    <tr style="border: 0;">
-                        <td style="border: 0;">
-                            <center>
-                                <font style="font-size: 16px;">
-                                    And that it is the said
-                                </font>
-                            </center>
-                        </td>
-                    </tr>
-                    <tr style="border: 0;">
-                        <td style="border: 0;">
-                            <center>
-                                <font style="font-size: 18px;">
-                                    AMMA WORLD ORGANISATION
-                                </font>
-                            </center>
-                        </td>
-                    </tr>
-                    <tr style="border: 0;">
-                        <td style="border:0;">
-                            <center>
-                                <font style="font-size: 16px;">
-                                    That the income and profit of the association whomsoever derives shall be applied solely towards the promotion of the objects
-                                    of the association as set forth in the Articles of Association of the said
-                                </font>
-                            </center>
-                        </td>
-                    </tr>
-                    <tr style="border: 0;">
-                        <td style="border: 0;">
-                            <center>
-                                <font style="font-size: 18px;">
-                                    AMMA WORLD ORGANISATION
-                                </font>
-                            </center>
-                        </td>
-                    </tr>
-                    <tr style="border: 0;">
-                        <td style="border:0;">
-                            <center>
-                                <font style="font-size: 16px;">
-                                    And that no portion thereof shall be paid to transferred directly or indirectly by the way of dividend of bonus or otherwise
-                                    howsoever by the way of profit to the members of
-                                </font>
-                            </center>
-                        </td>
-                    </tr>
-                    <tr style="border: 0;">
-                        <td style="border: 0;">
-                            <center>
-                                <font style="font-size: 18px;">
-                                    AMMA WORLD ORGANISATION
-                                </font>
-                            </center>
-                        </td>
-                    </tr>
-                    <tr style="border: 0;">
-                        <td style="border:0;">
-                            <center>
-                                <font style="font-size: 16px;">
-                                    Now there after, I, DUWALAGE NIHAL RANJAN SIRIWARDENA Registrar General of Companies, in pursuance of the power vested in
-                                    me and in consideration of the provisions and subject to the conditions contained in
-                                    the Articles of Association of the said
-                                </font>
-                            </center>
-                        </td>
-                    </tr>
-                    <tr style="border: 0;">
-                        <td style="border: 0;">
-                            <center>
-                                <font style="font-size: 18px;">
-                                    AMMA WORLD ORGANISATION
-                                </font>
-                            </center>
-                        </td>
-                    </tr>
-                    <tr style="border: 0;">
-                        <td style="border:0;">
-                            <center>
-                                <font style="font-size: 16px;">
-                                    Submitted by two members thereof on ……….. June 2018 do by </br>This License direct
-                                </font>
-                            </center>
-                        </td>
-                    </tr>
-                    <tr style="border: 0;">
-                        <td style="border: 0;">
-                            <center>
-                                <font style="font-size: 18px;">
-                                    AMMA WORLD ORGANISATION
-                                </font>
-                            </center>
-                        </td>
-                    </tr>
-                    <tr style="border: 0;">
-                        <td style="border:0;">
-                            <center>
-                                <font style="font-size: 16px;">
-                                    To be registered as a company with limited liability without the addition of the word </br>“LIMITED”
-                                    to its name </br>signed at Colombo this ………………….. day of …………… Two Thousand </br> ……………..
-                                </font>
-                            </center>
-                        </td>
-                    </tr>                   
-            </table>
 
-            <table width="100%" style="border:0; padding: 0; ">
-                <tr style="border:0; align: right; padding: 0; margin-bottom: 0;" width="60%">
-                    <td style="border:0; align: right; padding: 0;"></td>                    
-                    <td style="border:0; align: right; padding: 0;" width="40">
-                        <img src="{{asset('/form-images/dotbox.png')}}" align="right" alt="" width="230" height="auto"></td>                    
+
+            <table width="100%" height="30">
+                <tbody>
+                    <tr>
+                        <td width="30%" height="50" class="bg-color">Name of the Company </td>
+                        <td width="70%" height="50">&nbsp;</td>
+                    </tr>
+                    <tr height="20">
+                        <td width="30%" class="bg-color">Registered or Principal office address(country in which it is incorporated)</td>
+                        <td width="70%">&nbsp;</td>
+                    </tr>
+                    <tr height="20">
+                        <td width="30%" class="bg-color">principal place of Business<br> in Sri Lanka</td>
+                        <td width="70%">&nbsp;</td>
+                    </tr>
+                </tbody>
+            </table>
+            <br>
+
+
+            <!-- <table width="100%" height="30">
+                <tbody>
+                    <tr >
+                        <td width="30%" height="35" class="bg-color">Full Name </td>
+                        <td width="70%" height="35">&nbsp;</td>
+                    </tr>
+                    <tr height="20">
+                        <td width="30%" height="40" class="bg-color" style="padding-top:0; padding-bottom:0;">Passport No(indicate the Country of issue)</td>
+                        <td width="70%" height="40" >&nbsp;</td>
+                    </tr>
+                    <tr height="20">
+                        <td width="30%" height="40" class="bg-color">Resedential Address</td>
+                        <td width="70%" height="40">&nbsp;</td>
+                    </tr>
+                    <tr height="20">
+                        <td width="30%" height="40" class="bg-color">Other business or occupation/Directorships if any </td>
+                        <td width="70%" height="40" >&nbsp;</td>
+                    </tr>
+                </tbody>
+            </table>
+            <br> -->
+
+
+            <table width="100%">
+                <tbody>
+                    <tr >
+                        <td width="30%" height="80" class="bg-color">Full Name of Authorised Person</td>
+                        <td width="70%" height="80">&nbsp;</td>
+                    </tr>
+                    <tr >
+                        <td width="30%" height="50" class="bg-color">Signature of Authorised Person</td>
+                        <td width="70%" height="50">&nbsp;</td>
+                    </tr>
+                </tbody>
+            </table>
+            <br>
+
+
+            <table style="border: 0" width="100%" >
+                <tbody>
+                <tr>
+                    <td height="20"  style="border: 0"></td>
+                    <td height="20" style="border: 0"></td>
+                    <td height="20" width="4%"></td>
+                    <td height="20" width="4%"></td>
+                    <td height="20" style="border: 0"></td>
+                    <td height="20" width="4%"></td>
+                    <td height="20" width="4%"></td>
+                    <td height="20" style="border: 0"></td>
+                    <td height="20" width="4%"></td>
+                    <td height="20" width="4%"></td>
+                    <td height="20" width="4%"></td>
+                    <td height="20" width="4%"></td>
                 </tr>
-                <tr style="border:0; padding: 0; margin-top: 0;">
-                    <td style="border:0;" ma>
-                        <img src="{{asset('/form-images/QR.png')}}" align="right" width="80px;" height="auto"></td>                    
-                    <td align="center" style="border:0; font-size: 11px; padding: 0;">
-                        <center>
-                            D.N.R.Siriwardena</br>
-                            <br>සමාගම් රෙජිස්ට්‍රාර් ජනරාල්</br>fk;gdpfs; - gjpthsH ehafk;</br>
-                            <b>Registrar General of Companies</b>                            
-                        </center>
+                <tr>
+                <td width="24%" height="5" style="border: 0" align="right">Date:</td>
+                    <td width="3%" style="border: 0"> </td>
+                    <td colspan="2" class="bg-color">
+                    <center>Day</center>
+                    </td>
+                    <td width="8%" style="border: 0"></td>
+                    <td colspan="2" class="bg-color">
+                    <center>Month</center>
+                    </td>
+                    <td width="8%" style="border: 0"></td>
+                    <td colspan="4" class="bg-color">
+                    <center>Year</center>
                     </td>
                 </tr>
+                </tbody>
             </table>
+
+            <span>Presented by</span>
+
+
+            <table width="100%">
+                <tbody>
+                    <tr >
+                        <td width="28%"  height="40" class="bg-color">Full Name </td>
+                        <td width="72%" height="40" >&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td width="28%" class="bg-color">Email Address</td>
+                        <td width="72%">&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td width="28%" class="bg-color">Telephone No. </td>
+                        <td width="72%">&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td width="28%" class="bg-color" style="padding-top:10px">Mobile No </td>
+                        <td width="72%">&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td width="28%" height="60" class="bg-color">Address </td>
+                        <td width="72%" height="60">&nbsp;</td>
+                    </tr>
+                </tbody>
+            </table>
+
+
 </body>
 
 </html>

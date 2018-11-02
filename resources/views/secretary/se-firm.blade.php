@@ -29,32 +29,32 @@
         }
 
         .sinhala-font {
-            font-size: 11px;
+            font-size: 14px;
         }
 
         .tamil-font {
-            font-size: 11px;
+            font-size: 14px;
         }
     </style>
 </head>
 
 <body>
-    <div>
+    <!-- <div>
         <div style="float:left">
             <table>
                 <tbody>
                     <tr width="20">
-                        <td style="font-size:9px;">මිල</td>
-                        <td rowspan="3">
-                            <img src="{{asset('/form-images/right-brace.png')}}" width="12px;" height="auto" alt="">
+                        <td style="font-size:12px;">මිල</td>
+                        <td rowspan="3" style="font-size:40px;">
+                            &#125;
                         </td>
-                        <td rowspan="3" style="font-size:9px;">&nbsp;&nbsp; රු./Ta./Rs. 10/-</td>
+                        <td rowspan="3" style="font-size:12px;">&nbsp;&nbsp; රු./Ta./Rs. 10/-</td>
                     </tr>
                     <tr>
-                        <td style="font-size:9px;">Tamil</td>
+                        <td style="font-size:12px;">Tamil</td>
                     </tr>
                     <tr>
-                        <td style="font-size:9px;">Price</td>
+                        <td style="font-size:12px;">Price</td>
                     </tr>
                 </tbody>
             </table>
@@ -64,22 +64,68 @@
             <table>
                 <tbody>
                     <tr>
-                        <td style="font-size:9px;">සමාගම්</td>
+                        <td style="font-size:12px;">සමාගම්</td>
                         <td rowspan="3">
                             <img src="{{asset('/form-images/right-brace.png')}}" width="12px;" height="auto" alt="">
                         </td>
-                        <td rowspan="3" style="font-size:9px;">&nbsp;&nbsp; 78/S</td>
+                        <td rowspan="3" style="font-size:12px;">&nbsp;&nbsp; 78/S</td>
                     </tr>
                     <tr>
-                        <td style="font-size:9px;">Tamil</td>
+                        <td style="font-size:12px;">Tamil</td>
                     </tr>
                     <tr>
-                        <td style="font-size:9px;">Companies</td>
+                        <td style="font-size:12px;">Companies</td>
                     </tr>
                 </tbody>
             </table>
         </div>
-    </div>
+    </div> -->
+
+ <table width="100%">
+        <tr >
+            <td width="20%">
+            <table>
+                <tbody>
+                    <tr width="20">
+                        <td style="font-size:12px; font-family:'kaputaunicode', sans-serif;">මිල </td>
+                        <td rowspan="3">
+                            <img src="{{asset('/form-images/right-brace.png')}}" width="12px;" height="30px" alt="">
+                        </td>
+                        <td rowspan="3" style="font-size:12px;  font-family:'kaputaunicode', sans-serif;">&nbsp;&nbsp; රු./Ta./Rs. 10/-</td>
+                    </tr>
+                    <tr>
+                        <td style="font-size:12px;">Tamil</td>
+                    </tr>
+                    <tr>
+                        <td style="font-size:12px;">Price</td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+            <td width="73%"></td>
+            <td width="7%"> 
+            <table>
+                <tbody>
+                    <tr>
+                        <td style="font-size:12px;  font-family:'kaputaunicode', sans-serif;">සමාගම්</td>
+                        <td rowspan="3">
+                            <img src="{{asset('/form-images/right-brace.png')}}" width="12" height="30" alt="">
+                        </td>
+                        <td rowspan="3" style="font-size:12px; ">&nbsp;&nbsp; 78/S</td>
+                    </tr>
+                    <tr>
+                        <td style="font-size:12px;">Tamil</td>
+                    </tr>
+                    <tr>
+                        <td style="font-size:12px;">Companies</td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+
+    </table>
+    <br>
 
     <br>
     <div style=" margin-top:30px;">
@@ -88,19 +134,19 @@
             <tbody>
                 <tr>
                     <td width="8%"></td>
-                    <td style="font-size:9px;">ගාස්තුව රු.</td>
+                    <td style="font-size:12px;">ගාස්තුව රු.</td>
                     <td rowspan="3">
-                        <img src="{{asset('/form-images/right-brace.png')}}" width="12px;" height="auto" alt="">
+                        &#125;
                     </td>
-                    <td rowspan="3" style="font-size:9px;">&nbsp;&nbsp; 2,500/=</td>
+                    <td rowspan="3" style="font-size:12px;">&nbsp;&nbsp; 2,500/=</td>
                 </tr>
                 <tr>
                     <td width="8%"></td>
-                    <td style="font-size:9px;">Tamil</td>
+                    <td style="font-size:12px;">Tamil</td>
                 </tr>
                 <tr>
                     <td width="8%"></td>
-                    <td style="font-size:9px;">Fee Rs.</td>
+                    <td style="font-size:12px;">Fee Rs.</td>
                 </tr>
             </tbody>
         </table>
@@ -112,7 +158,7 @@
     <br>
     <table width="100%">
         <tr>
-            <td align="center" style="font-size:12px;"><b>1987 සමාගම් (ලේකම්වරයන් පිලිබඳ නියෝග</b></td>
+            <td align="center" style="font-size:16px;"><b>1987 සමාගම් (ලේකම්වරයන් පිලිබඳ නියෝග</b></td>
         </tr>
         <tr>
             <td align="center"><b>1987 Tamil</b></td>
@@ -125,9 +171,7 @@
     <table width="100%">
         <tr>
             <!-- <td width="10%"></td> -->
-            <td width="100%" align="center" style="font-size: 20px;"><b>පුද්ගලයෙකු විසින් ලේකම්වරයෙකු වශයෙන්<br>
-                    ලියාපදිංචි
-                    කරන ලෙස ඉල්ලීම<br><span style="font-size: 14px;">(6(2) නියෝගයට අනතුරුවයි)</span></b></td>
+            <td width="100%" align="center" style="font-size: 24px;"><b>ව්‍යාපාරික ආයතනයේ හෝ සංස්ථාපිත ආයතනයක් විසින් ලේකම්වරයෙකු වශයෙන් ලියාපදිංචි කරන ලෙස ඉල්ලීම<br><span style="font-size: 14px;">(6(2) නියෝගයට අනතුරුවයි)</span></b></td>
             <!-- <td width="10%"></td> -->
         </tr>
         <tr height="20px;">
@@ -144,7 +188,7 @@
     </table>
     <table width="100%">
         <tr>
-            <td width="100%" align="center" style="font-size: 18px; font-family: 'Times New Roman', Times, serif"><b>APPLICATION
+            <td width="100%" align="center" style="font-size: 20px; font-family: 'Times New Roman', Times, serif"><b>APPLICATION
                     FOR THE REGISTRATION AS A SECRETARY<br>
                     BY A FIRM OR CORPORATE BODY<br><span style="font-size: 14px;">(Pursuant to Regulation 6(2))</span></b></td>
         </tr>

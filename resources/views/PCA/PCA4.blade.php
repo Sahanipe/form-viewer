@@ -2,17 +2,17 @@
 
 <head>
     <style>
-        table,
+         table,
         th,
         td {
-            border: 2px solid black;
+            border: 1px solid black;
             border-collapse: collapse;
             margin-right: 0px;
             margin-left: 0px;
             margin-bottom: 0px;
-            font-size: 11px;
+            font-size: 12px;
             padding: 5px;
-            font-family: 'Segoe UI', sans-serif;
+            font-family:'Segoe UI', sans-serif;
         }
 
         font {
@@ -23,12 +23,13 @@
             margin-bottom: 1px;
         }
 
-        .sinhala-font {
-            font-size: 9px;
+        .sinhala-font{
+            font-size: 14px;
+            font-family:'examplefont', sans-serif;
         }
-
-        .tamil-font {
+        .tamil-font{
             font-size: 9px;
+            font-family:'latha', sans-serif;
         }
     </style>
 </head>
@@ -39,7 +40,7 @@
             <table width="100%" height="8%" style="border: 0;">
                 <tr style="border: 0;">
                     <td style="border: 0;">
-                        <center><span style="font-size:12px;"><b>පො.කො.ප. 4 ආකෘති පත්‍රය<br>කොන්ත්‍රාත්තුව ලියාපදිංචි
+                        <center><span style="font-size:16px;" class="sinhala-font"><b>පො.කො.ප. 4 ආකෘති පත්‍රය<br>කොන්ත්‍රාත්තුව ලියාපදිංචි
                                     කිරීමේ සහතිකය</b></span><br><b><span style="font-size:15px;">FORM PCA 4</span> <br><span
                                     style="font-size:14px;">Certificate
                                     of Registration of Contract</span></b></center>
@@ -50,48 +51,48 @@
 
             <table style="border:0;">
                 <tr style="border:0;">
-                    <td style="text-indent: 30;border:0; line-height: 2" class="sinhala-font">
+                    <td style="border:0; line-height: 2" class="sinhala-font">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         1987 අංක 3 දරන පොදු කොන්ත්‍රාත් ගිවිසුම් පනතේ 11(1) වගන්තිය පරිදි (අ)<br>
-                        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;හි
-                        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-                        හා (ආ) <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                        blank
+                        හා (ආ) <br> blank
                         හි
-                        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;අතර
+                        blank අතර
                         බැඳුනු,
-                        දෙදහස් &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;ක්
+                        දෙදහස්  blank ක්
                         වූ
-                        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                         blank
                         මස
-                        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                         blank
                         වැනි දින දරන
-                        (ඇ)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                        (ඇ) blank 
                         පොදු කොන්ත්‍රාත් ගිවිසුම අද දින ලියාපදිංචි කරන බවත්, මෙම සහතිකය
                         මෙහි සඳහන් දින සිට එක් අවුරුදු කාලයක් සඳහා වලංගු විය යුතු බවත් මම මෙයින් සහතික කරමි.
                     </td>
                 </tr>
                 <tr style="border:0;">
-                    <td style="text-indent: 30;border:0;  line-height: 2">
-                        I hereby certify that a Public Contract for (c) <br>dated the &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; day of&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Two Thousand
-                        and<br> enetered into between(a)<br> of<br> and(b)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; of is this day registered pursuant to Section 11(1) of
+                    <td style="text-indent: 30;border:0;  line-height: 2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        I hereby certify that a Public Contract for (c) <br>dated the  blank Two Thousand
+                        and<br> enetered into between(a)<br> of<br> and(b) blank  of is this day registered pursuant to Section 11(1) of
                         the Public Contracts Act No.3 of 1987 and this Certificate shall remain in force for a period
                         of one year from the date hereof
                     </td>
                 </tr>
             </table>
+            <br>
 
             <table width="100%" style="border:0;">
                 <tr style="border:0;">
                     <td width="5%" style="border:0;" class="sinhala-font"></td>
-                    <td width="95%" style=" border:0;">දෙදහස්&emsp;&emsp;&emsp;&emsp;&emsp; ක් වූ
-                        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-                        මස&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; වැනි දින වන අද දින කොළඹ දී අත්සන් කර
+                    <td width="95%" style=" border:0;" class="sinhala-font">දෙදහස් blank ක් වූ
+                        blank 
+                        මස blank වැනි දින වන අද දින කොළඹ දී අත්සන් කර
                         දුනිමි.</td>
                 </tr>
                 <tr style="border:0;">
                     <td width="5%" style="border:0;"></td>
                     <td width="95%" style=" border:0;">Given under my hand at Colombo
-                        this&emsp;&emsp;&emsp;&emsp;&emsp; day of
-                        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                        this blank  day of
+                        blank
                         Two Thousand</td>
                 </tr>
             </table>
@@ -119,20 +120,20 @@
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; padding: 0;">
                     <td width="2%" style="border: 0; padding: 0; " class="sinhala-font">(අ)</td>
-                    <td width="45%" style="border: 0; padding: 0; " class="sinhala-font">කොන්ත්‍රාත්තුව ප්‍රදානය කරන
+                    <td width="50%" style="border: 0; padding: 0; " class="sinhala-font">කොන්ත්‍රාත්තුව ප්‍රදානය කරන
                         තැනැත්තාගේ නම සහ ලිපිනය</td>
-                    <td width="43%" style="border: 0; padding: 0;"></td>
+                    <td width="48%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;padding: 0;" class="tamil-font">(அ)</td>
-                    <td width="40%" style="border: 0; padding: 0; " class="tamil-font">கைள்விதரரின் பெயர்</td>
-                    <td width="56%" style="border: 0; padding: 0;"></td>
+                    <td width="50%" style="border: 0; padding: 0; " class="tamil-font">கைள்விதரரின் பெயர்</td>
+                    <td width="48%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;padding: 0;">(a)</td>
-                    <td width="40%" style="border: 0; padding: 0;">Name and address of person awarding
+                    <td width="50%" style="border: 0; padding: 0;">Name and address of person awarding
                         contract</td>
-                    <td width="56%" style="border: 0; padding: 0;"></td>
+                    <td width="48%" style="border: 0; padding: 0;"></td>
                 </tr>
             </table>
             <br>
@@ -174,6 +175,7 @@
                 </tr>
             </table>
             <br>
+            <p style="page-break-before:always"></p>
 
             <table style="border: 0;">
                 <tr style="border: 0;">
@@ -212,16 +214,15 @@
 
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; padding: 0;">
-                    <td width="2%" style="border: 0; padding: 0; " class="sinhala-font">දිනය</td>
-                    <td width="2%" style="border: 0; padding: 0;" rowspan="3"><img src="{{asset('/form-images/right-brace.png')}}"
-                            width="15px;" height="auto" alt=""></td>
-                    <td width="78%" style="border: 0; padding: 0;" rowspan="3">.............</td>
+                    <td width="4%" style="border: 0; padding: 0; " class="sinhala-font">දිනය</td>
+                    <td width="4%" style="border: 0; padding: 0; font-size: 45px;" rowspan="3">&#125;</td>
+                    <td width="92%" style="border: 0; padding: 0;" rowspan="3">.............</td>
                 </tr>
                 <tr style="border: 0;">
-                    <td width="2%" style="border: 0; padding: 0; " class="tamil-font">பெயர்</td>
+                    <td width="4%" style="border: 0; padding: 0; " class="tamil-font">பெயர்</td>
                 </tr>
                 <tr style="border: 0;">
-                    <td width="2%" style="border: 0; padding: 0;">Date</td>
+                    <td width="4%" style="border: 0; padding: 0;">Date</td>
                 </tr>
             </table>
 
@@ -261,16 +262,15 @@
 
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; padding: 0;">
-                    <td width="2%" style="border: 0; padding: 0; " class="sinhala-font">දිනය</td>
-                    <td width="2%" style="border: 0; padding: 0;" rowspan="3"><img src="{{asset('/form-images/right-brace.png')}}"
-                            width="15px;" height="auto" alt=""></td>
-                    <td width="78%" style="border: 0; padding: 0;" rowspan="3">.............</td>
+                    <td width="4%" style="border: 0; padding: 0; " class="sinhala-font">දිනය</td>
+                    <td width="4%" style="border: 0; padding: 0; font-size: 45px;" rowspan="3">&#125;</td>
+                    <td width="92%" style="border: 0; padding: 0;" rowspan="3">.............</td>
                 </tr>
                 <tr style="border: 0;">
-                    <td width="2%" style="border: 0; padding: 0; " class="tamil-font">பெயர்</td>
+                    <td width="4%" style="border: 0; padding: 0; " class="tamil-font">பெயர்</td>
                 </tr>
                 <tr style="border: 0;">
-                    <td width="2%" style="border: 0; padding: 0;">Date</td>
+                    <td width="4%" style="border: 0; padding: 0;">Date</td>
                 </tr>
             </table>
 
@@ -306,16 +306,15 @@
 
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; padding: 0;">
-                    <td width="2%" style="border: 0; padding: 0; " class="sinhala-font">දිනය</td>
-                    <td width="2%" style="border: 0; padding: 0;" rowspan="3"><img src="{{asset('/form-images/background1.jpg')}}"
-                            width="15px;" height="auto" alt=""></td>
-                    <td width="78%" style="border: 0; padding: 0;" rowspan="3">.............</td>
+                    <td width="4%" style="border: 0; padding: 0; " class="sinhala-font">දිනය</td>
+                    <td width="4%" style="border: 0; padding: 0; font-size: 45px;" rowspan="3">&#125;</td>
+                    <td width="92%" style="border: 0; padding: 0;" rowspan="3">.............</td>
                 </tr>
                 <tr style="border: 0;">
-                    <td width="2%" style="border: 0; padding: 0;" class="tamil-font">பெயர்</td>
+                    <td width="4%" style="border: 0; padding: 0; " class="tamil-font">பெயர்</td>
                 </tr>
                 <tr style="border: 0;">
-                    <td width="2%" style="border: 0; padding: 0;">Date</td>
+                    <td width="4%" style="border: 0; padding: 0;">Date</td>
                 </tr>
             </table>
 
