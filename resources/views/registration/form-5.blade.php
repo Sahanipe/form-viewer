@@ -16,6 +16,10 @@
             padding: 5px;
             font-family: 'SegoeUI';
         }
+        table{
+            page-break-inside: avoid;
+            table-layout:fixed;
+        }
 
         font {
             margin-left: 0px;
@@ -61,10 +65,13 @@
         <!-- {{ $foo }} -->
         <table width="100%" style="border:0; padding:0;">
             <tr>
-                <td width="20%" style="border:0; padding:0px;"><img width="100px" height="100px" src="{{asset('/form-images/govlogo.jpg')}}" alt="gov_logo"></td>
-                <td width="52%" style="border:0; padding-left:160px; padding-top:65px; font-size: 18px;"><span><b>FORM 5</b></span><p>&nbsp;</p><p style="font-size: 13px; ">Application for </p></td>
-                <td width="8%" style="border:0; padding:0px; font-size: 10px;" align="left">(Section 32)</td>
+                <td width="20%" style="border:0; padding:0px;" rowspan="2"><img width="100px" height="100px" src="{{asset('/form-images/govlogo.jpg')}}" alt="gov_logo"></td>
+                <td width="52%" style="border:0; padding-left:170px; padding-top:65px; font-size: 18px;"><span><b>FORM 5</b></span></td>
+                <td width="8%" style="border:0; padding:0px; font-size: 9px;" align="left">(Section 32)</td>
                 <td width="20%" style="border:0; padding:0px;"> <img width="130" height="auto" src="{{asset('/form-images/eroc.png')}}" alt="Logo EROC"></td>
+            </tr>
+            <tr>
+                <td colspan="4"  style="border:0; font-size:13px; padding:0; padding-left:165px;">Application for </td>
             </tr>
             <tr>
                 <td colspan="4" align="center" style="border:0; font-size:15px; padding:0;"><b>FOR INCORPORATION OF A COMPANY LIMITED BY GURANTEE</b> </td>
@@ -125,17 +132,17 @@
                 </span>
         </div> -->
         <br>
-        <br>
+        
 
 
 
 
 
 
-        <table style="border: 0;" width="100%">
+        <table style="border: 0; " width="100%">
             <tbody>
-                <tr height="50">
-                    <td width="25%" style="border: 0; "> Number of the <br>Company </td>
+                <tr>
+                    <td width="25%" style="border: 0; font-size:14px;" height="5"> Number of the <br>Company </td>
                     <td width="7%">&nbsp;</td>
                     <td width="7%">&nbsp;</td>
                     <td width="61%">&nbsp;</td>
@@ -143,7 +150,7 @@
             </tbody>
         </table>
         <br>
-        <br>
+     
 
         <table style="--primary-text-color: #212121; " width="100%">
             <tbody>
@@ -188,7 +195,9 @@
             </tbody>
         </table>
 
-        <table style="border-color: #FFFFFF; border-top-color: #000000; font-size: 11pt; " width="100%">
+        
+
+        <!-- <table style="border-color: #FFFFFF; border-top-color: #000000; font-size: 11pt; " width="100%">
             <tbody>
                 <tr>
                     <td style="border: 0; color:  #212121;">
@@ -205,77 +214,82 @@
                         as a directory of a company:<br><br></td>
                 </tr>
             </tbody>
-        </table>
+        </table> -->
 
-        <table style="border: 1" width="100%">
+        <table style="border: 1" width="100%" autosize="1">
             <tbody>
-                <tr style="border-bottom: 0;" >
-                    <td width="3.3%" height="0.5cm" rowspan="2" style="border-bottom: 0; "> </td>
-                    <td width="21.4%" height="0.5cm" rowspan="2" class="bg-color">Full Name </td>
-                    <td width="39.3%" height="0.5cm" rowspan="2"> </td>
-                    <td width="36.1%" height="0.5cm" colspan="2" style=" border-bottom: 0" class="bg-color">
-                        <center>e Mail Address</center>
-                    </td>
-                <tr style="border-bottom: 0;">
-                    <td colspan="2" height="30"></td>
-                </tr>
-
-                <tr style="border: 0;" >
-                    <td width="3.3%" height="40" style="border-bottom: 0; border-top: 0;"> 1 </td>
-                    <td width="21.4%" height="40"  class="bg-color">NIC No/PP No & <br>Country if
-                        Foreigner</td>
-                    <td width="39.3%" height="40"> </td>
-                    <!-- <td width="5%" style="border: 1; transform: rotate(270deg) translate(-5%, -20%); position: relative; vertical-align:middle; transform-origin:0 0;" rowspan="2"> Signature</td> -->
-                    <td width="5%"height="40"  class="a" rowspan="2"  style="padding-left:10px;" >
-                    <img width="20" height="80" src="{{asset('/form-images/signature.png')}}" alt="signature"></td>
-                    <td width="36.1%" height="40" rowspan="2" style="border-bottom: 0;"></td>
-
-                </tr>
-                <tr style="border-top: 0;" >
-                    <td width="3.3%" height="60" style="border-top: 0;"> </td>
-                    <td width="21.4%"height="60" class="bg-color"> Residential Address</td>
-                    <td width="39.3%" height="60"> </td>
-                    <!-- <td width="5%" height="30" style="border-top: 0;"></td> -->
-                    <!-- <td width="36.1%" height="60" style="border-top: 0;"> </td> -->
-                </tr>
-                <tr style="border-bottom: 0;" >
-                    <td width="3.3%" rowspan="2" style="border-bottom: 0; "> </td>
-                    <td width="21.4%" rowspan="2"  class="bg-color">Full Name </td>
-                    <td width="39.3%" rowspan="2"> </td>
-                    <td width="36.1%" colspan="2" style="border-bottom: 0" class="bg-color">
-                        <center>e Mail Address</center>
-                    </td>
-                <tr style="border-bottom: 0;">
-                    <td colspan="2" height="30"></td>
-                </tr>
-
-                <tr style="border: 0;">
-                    <td width="3.3%" height="50" style="border-bottom: 0; border-top: 0;"> 2 </td>
-                    <td width="21.4%" height="50" class="bg-color">NIC No/PP No & <br>Country if
-                        Foreigner</td>
-                    <td width="39.3%"> </td>
-                    <!-- <td width="5%" style="border: 1; transform: rotate(270deg) translate(-5%, -20%); position: relative; vertical-align:middle; transform-origin:0 0;" rowspan="2"> Signature</td> -->
-                    <td width="5%" height="50" class="a" rowspan="3"  style="padding-left:10px;" >
-                    <img width="20" height="80" src="{{asset('/form-images/signature.png')}}" alt="signature"></td>
-                    <td width="36.1%" height="50" rowspan="2" style="border-bottom: 0;"></td>
-
-                </tr>
-                <tr style="border-top: 0;" >
-                    <td width="3.3%" height="70" style="border-top: 0;"> </td>
-                    <td width="21.4%" height="70" class="bg-color"> Residential Address</td>
-                    <td width="39.3%" height="70"> </td>
-                    <!-- <td width="5%" height="30" style="border-top: 0;"></td> -->
-                    <!-- <td width="36.1%" height="70" style="border-top: 0;"> </td> -->
-                </tr>
+            <tr>
+                <td colspan="5" style="width: 509pt; border-bottom; border:1px solid #000;border-top:1px solid #fff; border-right:1px solid #fff; border-left:1px solid #fff; word-break: break-all; font-size: 14px;">
+                    <font style="font-size:15px"><b>
+                            <u>INITIAL DIRECTORS</u>
+                        </b></font>
+                    <Br/>
+                    <span style=" word-break: break-all;">The following persons are the initial directors of
+                            the proposed company and
+                            signify their consent by signing below and certify that each one
+                            of them is not disqualified from being appointed/holding office*
+                            as a directory of a company:<br><br></span>
+                </td>
+            </tr>
+             <tr style="border-bottom: 0;" >
+                <td height="0.5cm" rowspan="2" style="border-bottom: 0; width: 18pt;">&nbsp;</td>
+                <td height="0.5cm" rowspan="2" class="bg-color" style="width: 114pt;">Full Name </td>
+                <td height="0.5cm" rowspan="2" style="width: 200pt;"></td>
+                <td height="0.5cm" colspan="2" style="width: 177pt; border-bottom: 0; overflow:wrap;" class="bg-color">
+                <center>e Mail Address</center>
+                </td>
+            </tr>
+            <tr style="border-bottom: 0;">
+                <td colspan="2" height="30" style="width:177pt; text-align:center;"></td>
+            </tr>
+            <tr style="border: 0;" >
+                <td height="40" style="border-bottom: 0; border-top: 0; width:18pt;"> </td>
+                <td height="40"  class="bg-color" style="width: 114pt;">NIC No/PP No & <br>Country if
+                            Foreigner</td>
+                <td height="40" style="width: 200pt;"> </td>
+                <td height="40"  class="a" rowspan="2"  style="padding-left:10px; width:32pt;" >
+                    <img width="16px" height="80" src="{{asset('/form-images/signature.png')}}" alt="signature"></td>
+                <td height="40" rowspan="2" style="border-bottom: 0; width:145pt;">&nbsp;</td>
+            </tr>
+            <tr style="border-top: 0;" >
+                <td height="60" style="border-top: 0; width: 18pt;"> </td>
+                <td height="60" class="bg-color" style="width:114pt;"> Residential Address</td>
+                <td height="60" style="width:200pt;"> </td>
+            </tr>
+            <tr style="border-bottom: 0;" >
+                <td height="0.5cm" rowspan="2" style="border-bottom: 0; width: 18pt;">&nbsp;</td>
+                <td height="0.5cm" rowspan="2" class="bg-color" style="width: 114pt;">Full Name </td>
+                <td height="0.5cm" rowspan="2" style="width: 200pt;"></td>
+                <td height="0.5cm" colspan="2" style="width: 177pt; border-bottom: 0; overflow:wrap;" class="bg-color">
+                <center>e Mail Address</center>
+                </td>
+            </tr>
+            <tr style="border-bottom: 0;">
+                <td colspan="2" height="30" style="width:177pt; text-align:center;"></td>
+            </tr>
+            <tr style="border: 0;" >
+                <td height="40" style="border-bottom: 0; border-top: 0; width:18pt;"> </td>
+                <td height="40"  class="bg-color" style="width: 114pt;">NIC No/PP No & <br>Country if
+                            Foreigner</td>
+                <td height="40" style="width: 200pt;"> </td>
+                <td height="40"  class="a" rowspan="2"  style="padding-left:10px; width:32pt;" >
+                    <img width="16px" height="80" src="{{asset('/form-images/signature.png')}}" alt="signature"></td>
+                <td height="40" rowspan="2" style="border-bottom: 0; width:145pt;">&nbsp;</td>
+            </tr>
+            <tr style="border-top: 0;" >
+                <td height="60" style="border-top: 0; width: 18pt;"> </td>
+                <td height="60" class="bg-color" style="width:114pt;"> Residential Address</td>
+                <td height="60" style="width:200pt;"> </td>
+            </tr>
             </tbody>
         </table>
 
 
-        <font style="font-size: 18px; background-color:#b9b9b9;">+</font>
-        <p style="page-break-before:always"></p>
+        <span style="font-size: 18px; background-color:#b9b9b9;">+</span>
+        <!-- <p style="page-break-before:always"></p> -->
 
 
-        <table style="border-color: #FFFFFF;" width="100%" height="20">
+        <!-- <table style="border-color: #FFFFFF;" width="100%" height="20" >
             <tbody>
                 <tr>
                     <td style="border: 0">
@@ -290,190 +304,179 @@
                         company</td>
                 </tr>
             </tbody>
-        </table>
+        </table> -->
 
-        <table style="border:1; border-bottom:0; border-left:0;" width="100%">
-            <tbody>
-                <tr style="border-bottom: 0;" >
-                    <td width="3.3%" rowspan="2" style="border-bottom: 0; "></td>
-                    <td width="21.4%" rowspan="2"  class="bg-color">Full Name </td>
-                    <td width="39.3%" rowspan="2" > </td>
-                    <td width="36.1%" colspan="2" style="border-bottom: 0" class="bg-color">
-                        <center>e Mail Address</center>
-                    </td>
-                <tr style="border-bottom: 0;">
-                    <td colspan="2" height="30"></td>
-                </tr>
-
-                <tr style=" border-bottom:0; ">
-                    <td width="3.3%" height="40" style="border-bottom: 0; border-top:0"> 1 </td>
-                    <td width="21.4%" height="40" class="bg-color">NIC No/PP No & <br>Country if
-                        Foreigner</td>
-                    <td width="39.3%" height="40" > </td>
-                    <!-- <td width="5%" style="border: 1; transform: rotate(270deg) translate(-5%, -20%); position: relative; vertical-align:middle; transform-origin:0 0;" rowspan="2"> Signature</td> -->
-                    <td width="5%" height="40" class="a" rowspan="2" style="padding-left:10px; border-top:0" >
-                    <img width="20" height="80" src="{{asset('/form-images/signature.png')}}" alt="signature"></td>
-                    <td width="36.1%" height="40" rowspan="2" style="border-bottom: 0;"></td>
-
-                </tr>
-                <tr style="border-top: 1;" >
-                    <td width="3.3%" height="70" style="border-top: 0;"> </td>
-                    <td width="21.4%" height="70" class="bg-color"> Residential Address</td>
-                    <td width="39.3%" height="70" > </td>
-                    <!-- <td width="5%" height="30" style="border-top: 0;"></td> -->
-                    <!-- <td width="36.1%" height="70" style="border-top: 0;"> </td> -->
-                </tr>
-                <tr style="border-bottom: 0;" >
-                    <td width="3.3%" rowspan="2" style="border-bottom: 0; "> </td>
-                    <td width="21.4%" rowspan="2"  class="bg-color">Full Name </td>
-                    <td width="39.3%" rowspan="2" > </td>
-                    <td width="36.1%" colspan="2" style=" border-bottom: 0" class="bg-color">
-                        <center>e Mail Address</center>
-                    </td>
-                <tr style="border-bottom: 0;">
-                    <td colspan="2" height="30"></td>
-                </tr>
-
-                <tr style="border-bottom: 0;">
-                    <td width="3.3%" height="40" style="border-bottom: 0; border-top: 0;"> 2 </td>
-                    <td width="21.4%" height="40" class="bg-color">NIC No/PP No & <br>Country if
-                        Foreigner</td>
-                    <td width="39.3%" height="40" > </td>
-                    <!-- <td width="5%" style="border: 1; transform: rotate(270deg) translate(-5%, -20%); position: relative; vertical-align:middle; transform-origin:0 0;" rowspan="2"> Signature</td> -->
-                    <td width="5%" height="40" class="a" rowspan="2" style="padding-left:10px;">
-                    <img width="20" height="80" src="{{asset('/form-images/signature.png')}}" alt="signature"></td>
-                    <td width="36.1%" height="40" rowspan="2" ></td>
-
-                </tr>
-                <tr style="border-top: 1;" >
-                    <td width="3.3%" height="70" style="border-top: 0;"> </td>
-                    <td width="21.4%" height="70" class="bg-color"> Residential Address</td>
-                    <td width="39.3%" height="70" > </td>
-                    <!-- <td width="5%" height="30" style="border-top: 0;"></td> -->
-                    <!-- <td width="36.1%" height="70" style="border-top: 0;"> </td> -->
-                </tr>
-                <!-- <tr >
-                    <td width="3.3%" height="35" class="bg-color"  style="border: 0;">+</td>
-                    <td width="21.4%" height="35" style="border: 0;"></td>
-                    <td width="9.3%" height="35" style="border: 0;"> </td>
-                    <td width="30%" height="35" class="bg-color" align="right" >Total Number of Shares</td>
-                    <td width="5%" height="35" style="border-right:0;" ></td>
-                    <td width="36.1%" height="35" style="border-left:0;"> </td>
-                </tr> -->
+        <table style="border: 1" width="100%" autosize="1">
+        <tbody>
+            <tr>
+                <td colspan="5" style="width: 509pt; border-bottom; border:1px solid #000;border-top:1px solid #fff; border-right:1px solid #fff; border-left:1px solid #fff; word-break: break-all; font-size: 14px;">
+                        <font style="font-size:15px"><b>
+                            <u>INITIAL MEMBERS</u>
+                        </b></font>
+                        <Br/>
+                        <span style=" word-break: break-all;">The following persons are the initial shareholders of the
+                        proposed
+                        company</span>
+                </td>
+            </tr>
+            <tr style="border-bottom: 0;" >
+                <td height="0.5cm" rowspan="2" style="border-bottom: 0; width: 18pt;">&nbsp;</td>
+                <td height="0.5cm" rowspan="2" class="bg-color" style="width: 114pt;">Full Name </td>
+                <td height="0.5cm" rowspan="2" style="width: 200pt;"></td>
+                <td height="0.5cm" colspan="2" style="width: 177pt; border-bottom: 0; overflow:wrap;" class="bg-color">
+                <center>e Mail Address</center>
+                </td>
+            </tr>
+            <tr style="border-bottom: 0;">
+                <td colspan="2" height="30" style="width:177pt; text-align:center;"></td>
+            </tr>
+            <tr style="border: 0;" >
+                <td height="40" style="border-bottom: 0; border-top: 0; width:18pt;"> </td>
+                <td height="40"  class="bg-color" style="width: 114pt;">NIC No/PP No & <br>Country if
+                            Foreigner</td>
+                <td height="40" style="width: 200pt;"> </td>
+                <td height="40"  class="a" rowspan="2"  style="padding-left:10px; width:32pt;" >
+                    <img width="16px" height="80" src="{{asset('/form-images/signature.png')}}" alt="signature"></td>
+                <td height="40" rowspan="2" style="border-bottom: 0; width:145pt;">&nbsp;</td>
+            </tr>
+            <tr style="border-top: 0;" >
+                <td height="60" style="border-top: 0; width: 18pt;"> </td>
+                <td height="60" class="bg-color" style="width:114pt;"> Residential Address</td>
+                <td height="60" style="width:200pt;"> </td>
+            </tr>
+            <tr style="border-bottom: 0;" >
+                <td height="0.5cm" rowspan="2" style="border-bottom: 0; width: 18pt;">&nbsp;</td>
+                <td height="0.5cm" rowspan="2" class="bg-color" style="width: 114pt;">Full Name </td>
+                <td height="0.5cm" rowspan="2" style="width: 200pt;"></td>
+                <td height="0.5cm" colspan="2" style="width: 177pt; border-bottom: 0; overflow:wrap;" class="bg-color">
+                <center>e Mail Address</center>
+                </td>
+            </tr>
+            <tr style="border-bottom: 0;">
+                <td colspan="2" height="30" style="width:177pt; text-align:center;"></td>
+            </tr>
+            <tr style="border: 0;" >
+                <td height="40" style="border-bottom: 0; border-top: 0; width:18pt;"> </td>
+                <td height="40"  class="bg-color" style="width: 114pt;">NIC No/PP No & <br>Country if
+                            Foreigner</td>
+                <td height="40" style="width: 200pt;"> </td>
+                <td height="40"  class="a" rowspan="2"  style="padding-left:10px; width:32pt;" >
+                    <img width="16px" height="80" src="{{asset('/form-images/signature.png')}}" alt="signature"></td>
+                <td height="40" rowspan="2" style="border-bottom: 0; width:145pt;">&nbsp;</td>
+            </tr>
+            <tr style="border-top: 0;" >
+                <td height="60" style="border-top: 0; width: 18pt;"> </td>
+                <td height="60" class="bg-color" style="width:114pt;"> Residential Address</td>
+                <td height="60" style="width:200pt;"> </td>
+            </tr>
             </tbody>
         </table>
+        <span style="font-size: 18px; background-color:#b9b9b9;">+</span>
         <br>
 
-        <table style="border-color: #FFFFFF; " width="100%" height="30">
-            <tbody>
-
-                <tr>
-                    <td style="border: 0; color:  #212121;">
-                        <br>
+        <table style="--primary-text-color: #212121; " width="100%" autosize="1">
+        <tbody>
+        <tr>
+            <td colspan="4" style="width:509pt; border-bottom; border:1px solid #000;border-top:1px solid #fff; border-right:1px solid #fff; border-left:1px solid #fff; word-break: break-all; font-size: 14px;">
+                <span style="font-size:15px"><b>
                         <b><u>INITIAL SECRATARY/ SECRATARIES</u></b>
-                    </td>
-                </tr>
-                <tr>
-                    <td style="border: 0; font-size: 14px;">The following persons(s) shall be the initial
+                    </b></span>
+                <Br/>
+                The following persons(s) shall be the initial
                         secratary/secrataries* of the
                         proposed company and he/she/they signify his/her/their consent
                         by
-                        signing below:-</td>
-                </tr>
+                        signing below:-
+
+            </td>
+        </tr>
+        <tr >
+            <td style="width:82pt;" height="40" class="bg-color">Full Name </td>
+            <td style="width:229pt;" height="40"></td>
+            <td style="width:28pt;"  height="40" rowspan="4" class="a"><img width="20" height="80" src="{{asset('/form-images/signature.png')}}" alt="signature"></td>
+            <td style="width:170pt;" height="40" rowspan="4" ></td>
+        </tr>
+        <tr >
+            <td style="width:82pt;" class="bg-color" >Registration <br> No</td>
+            <td style="width:229pt;"> </td>
+        </tr>
+        <tr >
+            <td style="width:82pt;" class="bg-color" >Email address</td>
+            <td style="width:229pt;"></td>
+        </tr>
+        <tr >
+            <td style="width:82pt;" height="60" class="bg-color">Permanent Address</td>
+            <td style="width:229pt;" height="60"></td>
+        </tr>
+        </tbody>
+    </table>
+    <span style="font-size: 15px;" class="bg-color">+</span>
+        
+    
+    <table style="border: 0" width="100%" height="10">
+        <tbody>
+            <tr>
+                <td height="10" align="right" style="border: 0; ">Date:</td>
+                <td width="8%" style="border: 0"></td>
+                <td width="5%"></td>
+                <td width="5%"></td>
+                <td width="10%" style="border: 0"></td>
+                <td width="5%"></td>
+                <td width="5%"></td>
+                <td width="10%" style="border: 0"></td>
+                <td width="5%"></td>
+                <td width="5%"></td>
+                <td width="5%"></td>
+                <td width="5%"></td>
+                <td width="4%" style="border: 0;"></td>
+            </tr>
+            <tr>
+                <td width="30%" height="10" style="border: 0"></td>
+                <td width="10%" style="border: 0"> </td>
+                <td colspan="2" class="bg-color">
+                    <center>Day</center>
+                </td>
+                <td width="10%" style="border: 0"></td>
+                <td colspan="2" class="bg-color" >
+                    <center>Month</center>
+                </td>
+                <td width="10%" style="border: 0"></td>
+                <td colspan="4" class="bg-color" >
+                    <center>Year</center>
+                </td>
+            </tr>
             </tbody>
         </table>
 
+        <table width="100%" autosize="1">
+        <tbody>
+        <tr>
+            <td colspan="2" style="width: 509pt; border-bottom; border:1px solid #000;border-top:1px solid #fff; border-right:1px solid #fff; border-left:1px solid #fff; word-break: break-all; font-size: 13px;"> <strong><font ><b>Presented by</b></font></strong></td>
+        </tr>
+        <tr>
+            <td style="width:132pt;" height="50" class="bg-color">Full Name </td>
+            <td style="width:380pt;" height="50"></td>
+        </tr>
+        <tr height="10px">
+            <td style="width:132pt;" class="bg-color">e Mail Address</td>
+            <td style="width:380pt;"></td>
+        </tr>
+        <tr height="10px">
+            <td style="width:132pt;" height="35" class="bg-color">Telephone No</td>
+            <td style="width:380pt;" height="35"></td>
+        </tr>
+        <tr height="10px">
+            <td style="width:132pt;" height="30" class="bg-color">Mobile No</td>
+            <td style="width:380pt;" height="30"></td>
+        </tr>
+        <tr height="10px">
+            <td style="width:132pt;" height="30" class="bg-color">Postal Address </td>
+            <td style="width:380pt;" height="30"></td>
+        </tr>
+        </tbody>
+    </table>
 
-
-
-        <table style="--primary-text-color: #212121;" width="100%">
-            <tbody>
-                <tr >
-                    <td width="18%"height="50" class="bg-color">Full Name </td>
-                    <td width="45%" height="50">&nbsp;</td>
-                    <td rowspan="4" height="50" class="a"> <img width="20" height="80" src="{{asset('/form-images/signature.png')}}" alt="signature"></td>
-                    <td rowspan="4" width="33.2%" height="50"></td>
-                </tr>
-                <tr >
-                    <td width="18%" height="30" class="bg-color" >Registration No</td>
-                    <td width="45%" height="30">&nbsp;</td>
-                </tr>
-                <tr>
-                    <td width="18%" height="30" class="bg-color" >Email address</td>
-                    <td width="45%" height="30">&nbsp;</td>
-                </tr>
-                <tr >
-                    <td width="18%" height="60" class="bg-color" >Permanent Address</td>
-                    <td width="45%" height="60">&nbsp;</td>
-                </tr>
-            </tbody>
-        </table>
-
-
-
-        <font style="font-size: 15px;" class="bg-color">+</font>
-        <table style="border: 0" width="100%" height="10">
-            <tbody>
-                <tr>
-                    <td height="10" align="right" style="border: 0; ">Date:</td>
-                    <td width="8%" style="border: 0"></td>
-                    <td width="5%"></td>
-                    <td width="5%"></td>
-                    <td width="10%" style="border: 0"></td>
-                    <td width="5%"></td>
-                    <td width="5%"></td>
-                    <td width="10%" style="border: 0"></td>
-                    <td width="5%"></td>
-                    <td width="5%"></td>
-                    <td width="5%"></td>
-                    <td width="5%"></td>
-                    <td width="4%" style="border: 0;"></td>
-                </tr>
-                <tr>
-                    <td width="30%" height="10" style="border: 0"></td>
-                    <td width="10%" style="border: 0"> </td>
-                    <td colspan="2" class="bg-color">
-                        <center>Day</center>
-                    </td>
-                    <td width="10%" style="border: 0"></td>
-                    <td colspan="2" class="bg-color" >
-                        <center>Month</center>
-                    </td>
-                    <td width="10%" style="border: 0"></td>
-                    <td colspan="4" class="bg-color" >
-                        <center>Year</center>
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-
-        <font>Presented by</font>
-
-
-        <table width="100%">
-            <tbody>
-                <tr height="20">
-                    <td width="20%" class="bg-color" >Full Name </td>
-                    <td width="80%">&nbsp;</td>
-                </tr>
-                <tr height="20">
-                    <td width="20%" class="bg-color" >Email Address</td>
-                    <td width="80%">&nbsp;</td>
-                </tr>
-                <tr height="20">
-                    <td width="20%" class="bg-color" >Telephone No. </td>
-                    <td width="80%">&nbsp;</td>
-                </tr>
-                <tr height="20">
-                    <td width="20%" class="bg-color" >Mobile No </td>
-                    <td width="80%">&nbsp;</td>
-                </tr>
-                <tr >
-                    <td width="20%" class="bg-color" height="50">Postal Address </td>
-                    <td width="80%" height="50">&nbsp;</td>
-                </tr>
-            </tbody>
-        </table>
+    
 
 
 </body>

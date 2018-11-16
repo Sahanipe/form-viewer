@@ -427,7 +427,7 @@
                        2 අවුරුද්ද
                     </td>
                     <td width="24%" style="border: 0; padding: 0;" class="sinhala-font">
-                        3 අවුරුද්ද
+                        1 අවුරුද්ද
                     </td>
                     <td width="5%" style="border: 0; padding: 0;"></td>
                 </tr>
@@ -457,7 +457,7 @@
                       2nd year
                     </td>
                     <td width="24%" style="border: 0; padding: 0;" >
-                       3rd year
+                       1st year
                     </td>
                     <td width="5%" style="border: 0; padding: 0;"></td>
                 </tr>
@@ -557,9 +557,9 @@
                         <center><span class="sinhala-font">ප්‍රකාශකයාගේ අත්සන</span><br><span  class="tamil-font">hddjdjdkddlldld</span><br>Signature of Applicant</center>
                     </td>
                 </tr>
-                <tr style="border: 0; " height="80px;">
-                    <td width="64%" style="border: 0; "></td>
-                    <td width="30%" style="border: 0;padding: 0;  "></td>
+                <tr style="border: 0; " height="80">
+                    <td width="64%" height="60" style="border: 0; "></td>
+                    <td width="30%" height="60" style="border: 0;padding: 0;  "></td>
                 </tr>
                 
                 <tr style="border: 0; ">
@@ -568,9 +568,9 @@
                         <center><span class="sinhala-font">මා ඉදිරිපිට දීය</span><br><span  class="tamil-font">sffefefe</span><br>Before me</center>
                     </td>
                 </tr>
-                <tr style="border: 0; " height="80px;">
-                    <td width="64%" style="border: 0; "></td>
-                    <td width="30%" style="border: 0;padding: 0;  "></td>
+                <tr style="border: 0; " >
+                    <td width="64%" height="60" style="border: 0; "></td>
+                    <td width="30%" height="60" style="border: 0;padding: 0;  "></td>
                 </tr>
                 <tr style="border: 0; ">
                     <td width="64%" style="border: 0; "></td>
@@ -581,10 +581,12 @@
                 <tr style="border: 0; ">
                     <td width="64%" style="border: 0; "></td>
                     <td width="30%" style="border: 0;padding: 0;">
-                        <center><span class="sinhala-font">සාම විනිසුරු</span><br><span  class="tamil-font">jfehfefwe</span><br>Justice of Peace.</center>
+                        <center><span class="sinhala-font">සාම විනිසුරු</span><br><span  class="tamil-font">jfehfefwe</span><br>Justice of Peace/Commissioner of oaths.</center>
                     </td>
                 </tr>
             </table>
+            <br>
+            <br>
 
             <table width="100%" style="border:0">
                 <tr style="border: 0; ">

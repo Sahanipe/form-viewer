@@ -2,6 +2,8 @@
 
 <head>
     <style>
+
+    @page { sheet-size: Legal; }
          table,
         th,
         td {
@@ -24,7 +26,7 @@
         }
 
         .sinhala-font{
-            font-size: 14px;
+            font-size: 13px;
             font-family:'examplefont', sans-serif;
         }
         .tamil-font{
@@ -37,6 +39,8 @@
 <body>
     <section class="form-body">
         <header class="form-header">
+        <br>
+        <br>
             <table width="100%" height="8%" style="border: 0;">
                 <tr style="border: 0;">
                     <td style="border: 0;">
@@ -47,13 +51,13 @@
                     </td>
                 </tr>
             </table>
-            <hr width="20%" color="#000000">
+            <hr style="width:150px; color: #000000">
 
             <table style="border:0;">
                 <tr style="border:0;">
-                    <td style="border:0; line-height: 2" class="sinhala-font">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <td style="border:0; line-height: 3" class="sinhala-font">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         1987 අංක 3 දරන පොදු කොන්ත්‍රාත් ගිවිසුම් පනතේ 11(1) වගන්තිය පරිදි (අ)<br>
-                        blank
+                        blank හි blank
                         හා (ආ) <br> blank
                         හි
                         blank අතර
@@ -71,8 +75,8 @@
                 </tr>
                 <tr style="border:0;">
                     <td style="text-indent: 30;border:0;  line-height: 2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                        I hereby certify that a Public Contract for (c) <br>dated the  blank Two Thousand
-                        and<br> enetered into between(a)<br> of<br> and(b) blank  of is this day registered pursuant to Section 11(1) of
+                        I hereby certify that a Public Contract for (c) <br>dated the  --blank--  day of   blank Two Thousand
+                        and<br> enetered into between(a)<br> of<br> and(b) --blank--  of is this day registered pursuant to Section 11(1) of
                         the Public Contracts Act No.3 of 1987 and this Certificate shall remain in force for a period
                         of one year from the date hereof
                     </td>
@@ -83,7 +87,7 @@
             <table width="100%" style="border:0;">
                 <tr style="border:0;">
                     <td width="5%" style="border:0;" class="sinhala-font"></td>
-                    <td width="95%" style=" border:0;" class="sinhala-font">දෙදහස් blank ක් වූ
+                    <td width="95%" style=" border:0; padding-bottom:8px;" class="sinhala-font">දෙදහස් blank ක් වූ
                         blank 
                         මස blank වැනි දින වන අද දින කොළඹ දී අත්සන් කර
                         දුනිමි.</td>
@@ -91,8 +95,8 @@
                 <tr style="border:0;">
                     <td width="5%" style="border:0;"></td>
                     <td width="95%" style=" border:0;">Given under my hand at Colombo
-                        this blank  day of
-                        blank
+                        this --blank--  day of
+                        --blank--
                         Two Thousand</td>
                 </tr>
             </table>
@@ -115,7 +119,8 @@
                     </td>
                 </tr>
             </table>
-            <hr width="40%" color="#000000" align="left">
+            <br>
+            <hr style="width:350px; color: #000000; text-align: left;"  align="left">
 
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; padding: 0;">
@@ -176,6 +181,9 @@
             </table>
             <br>
             <p style="page-break-before:always"></p>
+
+            <br>
+            <br>
 
             <table style="border: 0;">
                 <tr style="border: 0;">

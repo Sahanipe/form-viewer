@@ -48,7 +48,7 @@
         <table width="100%" style="border:0; padding:0;">
                 <tr>
                     <td width="10%" style="border:0; padding:0px;"><img width="100px" height="100px" src="{{asset('/form-images/govlogo.jpg')}}" alt="gov_logo"></td>
-                    <td width="69%" style="border:0; font-size: 20px; padding-top:20px; padding-left:5px " align="center"><b>FORM 45<br><br></b></td>
+                    <td width="69%" style="border:0; font-size: 20px; padding-top:20px; padding-left:5px " align="center"><b>FORM 46<br><br></b></td>
                     <td width="11%" style="border:0; padding:0px; font-size: 10px;" align="left">(Section 489(c))</td>
                     <td width="10%" style="border:0; padding:0px;"> <img width="130" height="auto" src="{{asset('/form-images/eroc.png')}}" alt="Logo EROC"></td>
                 </tr>

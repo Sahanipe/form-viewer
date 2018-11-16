@@ -10,14 +10,19 @@
             font-size: 13px;
             padding: 5px;
             padding-left:10px;
-            font-family: 'SegoeUI';
+            font-family: sans-serif;
+        }
+
+        table{
+                page-break-inside: avoid;
+                table-layout:fixed;
         }
 
         span {
             margin-left: 0px;
             margin-right: 0px;
             font-size: 14px;
-            font-family: 'SegoeUI';
+            font-family: sans-serif;
             margin-bottom: 1px;
         }
 
@@ -67,7 +72,7 @@ PLACE OF BUSINESS ESTABLISHED IN SRI LANKA
             <table style="border: 0;" width="100%" >
                 <tbody>
                     <tr>
-                        <td width="30%" height="35" style="border: 0;">Number of the company </td>
+                        <td width="30%" height="35" style="border: 0;">Number of the Company </td>
                         <td width="7%" height="35">&nbsp;</td>
                         <td width="7%" height="35">&nbsp;</td>
                         <td width="56%" height="35">&nbsp;</td>
@@ -81,41 +86,51 @@ PLACE OF BUSINESS ESTABLISHED IN SRI LANKA
                 <tbody>
                     <tr>
                         <td width="30%" height="50" class="bg-color">Name of the Company </td>
-                        <td width="70%" height="50">&nbsp;</td>
+                        <td width="70%" height="50"></td>
                     </tr>
                     <tr height="20">
                         <td width="30%" class="bg-color">Registered or Principal office address(country in which it is incorporated)</td>
-                        <td width="70%">&nbsp;</td>
+                        <td width="70%">
+
+                        </td>
                     </tr>
                     <tr height="20">
-                        <td width="30%" class="bg-color">principal place of Business<br> in Sri Lanka</td>
-                        <td width="70%">&nbsp;</td>
+                        <td width="30%" class="bg-color">Principal Place of Business<br> in Sri Lanka</td>
+                        <td width="70%">
+                     
                     </tr>
                 </tbody>
             </table>
             <br>
 
-
+              
             <table style="width: 7.09in" height="30" autosize="1">
                 <tbody>
                     <tr >
                         <td  height="35" class="bg-color" style="width: 2.13in">Full Name </td>
-                        <td  height="35" style="width: 4.96in">&nbsp;</td>
+                        <td  height="35" style="width: 4.96in"></td>
                     </tr>
                     <tr height="20">
                         <td  height="40" class="bg-color" style="padding-top:0; padding-bottom:0; width: 2.13in">Passport No(indicate the Country of issue)</td>
-                        <td  height="40" style="width: 4.96in">&nbsp;</td>
+                        <td  height="40" style="width: 4.96in">
+                           
+                                
+                         
+                        </td>
                     </tr>
                     <tr height="20">
-                        <td  height="40" class="bg-color" style="width: 2.13in">Resedential Address</td>
-                        <td  height="40" style="width: 4.96in">&nbsp;</td>
+                        <td  height="40" class="bg-color" style="width: 2.13in">Residential Address</td>
+                        <td  height="40" style="width: 4.96in">
+                        
+                        </td>
                     </tr>
                     <tr height="20">
                         <td  height="40" class="bg-color" style="width: 2.13in">Other business or occupation/Directorships if any </td>
-                        <td  height="40" style="width: 4.96in">&nbsp;</td>
+                        <td  height="40" style="width: 4.96in"></td>
                     </tr>
                 </tbody>
             </table>
+         
             <br>
 
 
@@ -137,6 +152,7 @@ PLACE OF BUSINESS ESTABLISHED IN SRI LANKA
             <table style="border: 0" width="100%" >
                 <tbody>
                 <tr>
+                   
                     <td height="20"  style="border: 0"></td>
                     <td height="20" style="border: 0"></td>
                     <td height="20" width="4%"></td>
@@ -175,23 +191,25 @@ PLACE OF BUSINESS ESTABLISHED IN SRI LANKA
                 <tbody>
                     <tr >
                         <td width="28%"  height="40" class="bg-color">Full Name </td>
-                        <td width="72%" height="40" >&nbsp;</td>
+                        <td width="72%" height="40" ></td>
                     </tr>
                     <tr>
                         <td width="28%" class="bg-color">Email Address</td>
-                        <td width="72%">&nbsp;</td>
+                        <td width="72%"></td>
                     </tr>
                     <tr>
                         <td width="28%" class="bg-color">Telephone No. </td>
-                        <td width="72%">&nbsp;</td>
+                        <td width="72%"></td>
                     </tr>
                     <tr>
                         <td width="28%" class="bg-color" style="padding-top:10px">Mobile No </td>
-                        <td width="72%">&nbsp;</td>
+                        <td width="72%"></td>
                     </tr>
                     <tr>
                         <td width="28%" height="60" class="bg-color">Address </td>
-                        <td width="72%" height="60">&nbsp;</td>
+                        <td width="72%" height="60">
+                       
+                        </td>
                     </tr>
                 </tbody>
             </table>

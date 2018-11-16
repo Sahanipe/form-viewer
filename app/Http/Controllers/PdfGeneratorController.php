@@ -13,8 +13,14 @@ class PdfGeneratorController extends Controller
         $data = [
             'foo' => 'bar'
         ];
-     //   return view('auditors/form1', $data);
-        $pdf = PDF::loadView('auditors/formfirm', $data);
-        return $pdf->stream('auditors/formfirm');
+      //return view('registration/form-3', $data);
+
+    //return view('change/form-13', $data);
+      
+        // $pdf = PDF::loadView('change/form-20', $data);
+       // return $pdf->stream('change/form-20');
+
+        $pdf = PDF::loadView('change/form-39', $data);
+        return $pdf->stream('change/form-39');
     }
 }
