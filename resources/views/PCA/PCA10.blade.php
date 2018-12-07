@@ -27,7 +27,7 @@
 
         .sinhala-font{
             font-size: 13px;
-            font-family:'examplefont', sans-serif;
+            font-family:'iskpota', sans-serif;
         }
         .tamil-font{
             font-size: 9px;
@@ -50,12 +50,12 @@
             <table width="100%" style="border:0;">
                 <tr style="border:0;">
                     <td style="border:0;font-size: 16px;" class="sinhala-font">
-                        <center><b>ටෙන්ඩර්කරුවකු සඳහා හෝ වෙනුවෙන් අනුයෝජිතයෙකු, උප අනුයෝජිතයෙකු, නියෝජිතයෙකු හෝ නාමිකයකු
-                            වශයෙන් ලියාපදිංචි කිරීමේ සහතිකය</b></center>
+                        <center><b>ටෙන්ඩර්කරුවකු සඳහා හෝ වෙනුවෙන් කටයුතු කිරීම සඳහා අනුයෝජිතයෙකු හෝ නාමිකයකු
+                            වශයෙන් ටෙන්ඩර්කරු විසින් පත් කරනු ලැබීමේ සහතිකය</b></center>
                     </td>
                 </tr>
                 <tr style="border:0;">
-                    <td style="border:0;font-size: 11px;">
+                    <td style="border:0;font-size: 15px;">
                         <center><b>Certificate of Appointment as an Agent, Sub-agent, Representative or Nominee, for or
                             on behalf of a Tenderer</b></center>
                     </td>

@@ -14,7 +14,7 @@
             font-size: 15px;
             ;
             padding: 5px;
-            font-family: 'SegoeUI';
+            font-family: 'SegoeUI', sans-serif;;
         }
         table{
             page-break-inside: avoid;
@@ -25,7 +25,7 @@
             margin-left: 0px;
             margin-right: 0px;
             font-size: 16px;
-            font-family: 'SegoeUI';
+            font-family: 'SegoeUI', sans-serif;;
             margin-bottom: 1px;
         }
 
@@ -53,7 +53,7 @@
 
         body {
             margin-left: 1.95cm;
-            font-family: 'SegoeUI';
+            font-family: 'SegoeUI', sans-serif;;
 
         }
     </style>
@@ -66,7 +66,7 @@
         <table width="100%" style="border:0; padding:0;">
             <tr>
                 <td width="20%" style="border:0; padding:0px;" rowspan="2"><img width="100px" height="100px" src="{{asset('/form-images/govlogo.jpg')}}" alt="gov_logo"></td>
-                <td width="52%" style="border:0; padding-left:170px; padding-top:65px; font-size: 18px;"><span><b>FORM 5</b></span></td>
+                <td width="52%" style="border:0; padding-left:170px; padding-top:65px; font-size: 20px;"><span><b>FORM 5</b></span></td>
                 <td width="8%" style="border:0; padding:0px; font-size: 9px;" align="left">(Section 32)</td>
                 <td width="20%" style="border:0; padding:0px;"> <img width="130" height="auto" src="{{asset('/form-images/eroc.png')}}" alt="Logo EROC"></td>
             </tr>

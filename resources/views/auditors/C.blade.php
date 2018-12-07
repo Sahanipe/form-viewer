@@ -12,19 +12,19 @@
             margin-bottom: 0px;
             font-size: 20px;
             padding: 5px;
-            font-family: 'examplefont', sans-serif;
+            font-family: 'iskpota', sans-serif;
         }
 
         font {
             margin-left: 0px;
             margin-right: 0px;
             /* font-size: 16px; */
-            font-family:'examplefont', sans-serif;
+            font-family:'iskpota', sans-serif;
             margin-bottom: 1px;
         }
 
         .sinhala-font {
-            font-family:'examplefont', sans-serif;
+            font-family:'iskpota', sans-serif;
             font-size: 12px;
         }
 
@@ -34,7 +34,7 @@
         }
 
         .english-font {
-            font-family:'examplefont', sans-serif;
+            font-family:'iskpota', sans-serif;
             font-size: 11px;
         }
 

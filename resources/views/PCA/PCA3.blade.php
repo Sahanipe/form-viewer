@@ -16,7 +16,7 @@
             margin-bottom: 0px;
             font-size: 12px;
             padding: 5px;
-            font-family:'Segoe UI', sans-serif;
+            font-family:'SegoeUI', sans-serif;
         }
 
         font {
@@ -29,7 +29,7 @@
 
         .sinhala-font{
             font-size: 13px;
-            font-family:'examplefont', sans-serif;
+            font-family:'iskpota', sans-serif;
         }
         .tamil-font{
             font-size: 9px;
@@ -41,10 +41,11 @@
 <body>
     <section class="form-body">
         <header class="form-header">
+        <div style="margin-left:300px; "><img src="{{asset('/form-images/govlogo.jpg')}}" width="120px;" height="120px" alt="govlogo"></div>
             <table width="100%" height="8%" style="border: 0; padding: 0;">
                 <tr style="border: 0;padding: 0;">
                     <td style="border: 0; padding: 0; font-size:16px;">
-                        <center><span style="font-size:18px;" class="sinhala-font"><b>පො.කො.ප. 3 ආකෘති පත්‍රය</b></span><br><span><b>Tamil</b></span><br><b> FORM PCA 3</b></center>
+                        <center><span style="font-size:16px;" class="sinhala-font"><b>පො.කො.ප. 3 ආකෘති පත්‍රය</b></span><br><span><b>Tamil</b></span><br><span style="font-size:15px"><b> FORM PCA 3</b></span></center>
                     </td>
                 </tr>
             </table>
@@ -77,7 +78,7 @@
                     </td>
                 </tr>
                 <tr style="border:0;">
-                    <td style="border:0; font-size: 12px;">
+                    <td style="border:0; font-size: 15px;">
                         <center><b>Certificate of Registration as an Agent, Sub-agent, Representative or Nominee, for
                                 or
                                 on behalf of a Tenderer</b></center>
@@ -162,8 +163,33 @@
             </table>
             <br>
             <br>
+            <table width="100%" style="border:0">
+                <tr  style="border:0">
+                    <td width="70%"  style="border:0">
+                        <table width="80%" align="center" style="padding:0; border:0"> 
+                            <tr  style="border:0">
+                                <td  style="border:0" ><img src="{{asset('/form-images/redSeal.jpg')}}" width="180px;" height="180px" alt="redSeal"></td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td width="30%"  style="border:0">
+                        <table width="100%" align="right" style="padding:0; border:0">
+                            <tr  style="border:0">
+                                <td style="border:0; padding: 0;">
+                            <center>................................................................</center></td>
+                            </tr>
+                            <tr  style="border:0">
+                                <td style="border:0; padding: 0;">
+                                    <center><span class="sinhala-font">පොදු කොන්ත්‍රාත් ගිවිසුම් රෙජිස්ට්‍රාර්.</span><br><span
+                                    class="tamil-font">சமாதான நீதிவான்</span><br>Registrar of Public Contracts</center>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
 
-            <table width="100%" style="border:0;">
+            <!-- <table width="100%" style="border:0;">
                 <tr>
                     <td width="60%" style="border:0; padding: 0;"></td>
                     <td width="40%" style="border:0; padding: 0;">
@@ -178,7 +204,7 @@
                             Contracts</center>
                     </td>
                 </tr>
-            </table>
+            </table> -->
           
 
             <table width="100%" style="border: 0;">

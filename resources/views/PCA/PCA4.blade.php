@@ -27,7 +27,7 @@
 
         .sinhala-font{
             font-size: 13px;
-            font-family:'examplefont', sans-serif;
+            font-family:'iskpota', sans-serif;
         }
         .tamil-font{
             font-size: 9px;
@@ -39,14 +39,15 @@
 <body>
     <section class="form-body">
         <header class="form-header">
-        <br>
-        <br>
-            <table width="100%" height="8%" style="border: 0;">
+        <div style="margin-left:300px; "><img src="{{asset('/form-images/govlogo.jpg')}}" width="120px;" height="120px" alt="govlogo"></div>
+        <!-- <br>
+        <br> -->
+            <table width="100%" height="8%" style="border: 0; padding: 0;">
                 <tr style="border: 0;">
                     <td style="border: 0;">
                         <center><span style="font-size:16px;" class="sinhala-font"><b>පො.කො.ප. 4 ආකෘති පත්‍රය<br>කොන්ත්‍රාත්තුව ලියාපදිංචි
                                     කිරීමේ සහතිකය</b></span><br><b><span style="font-size:15px;">FORM PCA 4</span> <br><span
-                                    style="font-size:14px;">Certificate
+                                    style="font-size:15px;">Certificate
                                     of Registration of Contract</span></b></center>
                     </td>
                 </tr>
@@ -103,19 +104,44 @@
             <br>
             <br>
 
-            <table width="100%" style="border:0;">
+            <!-- <table width="100%" style="border:0;">
                 <tr>
-                    <td width="60%" style="border:0; padding: 0;"></td>
+                    <td width="60%" style="border:0; padding: 0;" rowspan="2"><img src="{{asset('/form-images/redSeal.jpg')}}" width="150px;" height="150px" alt="redSeal"></td>
                     <td width="40%" style="border:0; padding: 0;">
                         <center>................................................................</center>
                     </td>
                 </tr>
-                <tr>
-                    <td width="60%" style="border:0; padding: 0;"></td>
-                    <td width="40%" style="border:0; padding: 0;">
+                <tr> -->
+                    <!-- <td width="60%" style="border:0; padding: 0;"></td> -->
+                    <!-- <td width="40%" style="border:0; padding: 0;">
                         <center><span class="sinhala-font">පොදු කොන්ත්‍රාත් ගිවිසුම් රෙජිස්ට්‍රාර්.</span><br><span
                                 class="tamil-font">சமாதான நீதிவான்</span><br>Registrar of Public
                             Contracts</center>
+                    </td>
+                </tr>
+            </table> -->
+            <table width="100%" style="border:0">
+                <tr  style="border:0">
+                    <td width="70%"  style="border:0">
+                        <table width="80%" align="center" style="padding:0; border:0"> 
+                            <tr  style="border:0">
+                                <td  style="border:0" ><img src="{{asset('/form-images/redSeal.jpg')}}" width="180px;" height="180px" alt="redSeal"></td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td width="30%"  style="border:0">
+                        <table width="100%" align="right" style="padding:0; border:0">
+                            <tr  style="border:0">
+                                <td style="border:0; padding: 0;">
+                            <center>................................................................</center></td>
+                            </tr>
+                            <tr  style="border:0">
+                                <td style="border:0; padding: 0;">
+                                    <center><span class="sinhala-font">පොදු කොන්ත්‍රාත් ගිවිසුම් රෙජිස්ට්‍රාර්.</span><br><span
+                                    class="tamil-font">சமாதான நீதிவான்</span><br>Registrar of Public Contracts</center>
+                                </td>
+                            </tr>
+                        </table>
                     </td>
                 </tr>
             </table>

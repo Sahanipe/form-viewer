@@ -33,7 +33,7 @@
 
         .sinhala-font {
             font-size: 15px;
-            font-family:'examplefont', sans-serif;
+            font-family:'iskpota', sans-serif;
         }
 
         .tamil-font {
@@ -117,7 +117,7 @@
     
     <table width="100%">
         <tr>
-            <td align="center" style="font-size:16px;font-family:'examplefont', sans-serif;"><b>1987 සමාගම් (ලේකම්වරයන් පිලිබඳ) නියෝග</b></td>
+            <td align="center" style="font-size:16px;font-family:'iskpota', sans-serif;"><b>1987 සමාගම් (ලේකම්වරයන් පිලිබඳ) නියෝග</b></td>
         </tr>
         <tr>
             <td align="center"><b>1987 Tamil</b></td>
@@ -130,7 +130,7 @@
     <table width="100%">
         <tr>
             <!-- <td width="10%"></td> -->
-            <td width="100%" align="center" style="font-size: 28px; font-family:'examplefont', sans-serif;"><b>ව්‍යාපාරික ආයතනයේ හෝ සංස්ථාපිත ආයතනයක් විසින් ලේකම්වරයෙකු වශයෙන් ලියාපදිංචි කරන ලෙස ඉල්ලීම<br><span style="font-size: 18px;">(6(2) නියෝගයට අනතුරුවයි)</span></b></td>
+            <td width="100%" align="center" style="font-size: 28px; font-family:'iskpota', sans-serif;"><b>ව්‍යාපාරික ආයතනයේ හෝ සංස්ථාපිත ආයතනයක් විසින් ලේකම්වරයෙකු වශයෙන් ලියාපදිංචි කරන ලෙස ඉල්ලීම<br><span style="font-size: 18px;">(6(2) නියෝගයට අනතුරුවයි)</span></b></td>
             <!-- <td width="10%"></td> -->
         </tr>
         <tr height="20px;">
@@ -157,7 +157,7 @@
     <table width="100%">
         <tr>
             <td width="72%"></td>
-            <td width="13%" style="font-size: 13px; font-family:'examplefont', sans-serif;">අයදුම්පත් අංකය:</td>
+            <td width="13%" style="font-size: 13px; font-family:'iskpota', sans-serif;">අයදුම්පත් අංකය:</td>
             <td style="font-size:42px;" width="2%" rowspan="3">&#125;</td>
             <td width="13%" rowspan="3"></td>
         </tr>
@@ -175,7 +175,7 @@
     <table width="100%">
         <tr>
             <td width="72%"></td>
-            <td width="13%" style="font-size: 13px; font-family:'examplefont', sans-serif;">ලියාපදිංචි අංකය:</td>
+            <td width="13%" style="font-size: 13px; font-family:'iskpota', sans-serif;">ලියාපදිංචි අංකය:</td>
             <td style="font-size:40px;" width="2%" rowspan="3">&#125;</td>
             <td width="13%" rowspan="3"></td>
         </tr>

@@ -33,15 +33,23 @@ return [
 	'format'           => 'A4', // See https://mpdf.github.io/paging/page-size-orientation.html
 	'font_path' => base_path('resources/fonts/'),
 	'font_data' => [
-		'SegoeUI' => [
-			'R'  => 'SegoeUI.ttf',    // regular font
-			'B'  => 'SegoeUI.ttf',       // optional: bold font
-			'I'  => 'SegoeUI.ttf',     // optional: italic font
-			'BI' => 'SegoeUI.ttf' // optional: bold-italic font
+		'Segoe UI' => [
+			'R'  => 'segoeui.ttf',    // regular font
+			'B'  => 'segoeui.ttf',       // optional: bold font
+			'I'  => 'segoeui.ttf',     // optional: italic font
+			'BI' => 'segoeui.ttf', // optional: bold-italic font
 			//'useOTL' => 0xFF,    // required for complicated langs like Persian, Arabic and Chinese
 			//'useKashida' => 75,  // required for complicated langs like Persian, Arabic and Chinese
 		],
-		'examplefont' => [
+		'Myriadd' => [
+			'R'  => 'Myriadd.ttf',    // regular font
+			'B'  => 'Myriadd.ttf',       // optional: bold font
+			'I'  => 'Myriadd.ttf',     // optional: italic font
+			'BI' => 'Myriadd.ttf', // optional: bold-italic font
+			//'useOTL' => 0xFF,    // required for complicated langs like Persian, Arabic and Chinese
+			//'useKashida' => 75,  // required for complicated langs like Persian, Arabic and Chinese
+		],
+		'iskpota' => [
 			'R'  => 'iskpota.ttf',    // regular font
 			'B'  => 'iskpota.ttf',       // optional: bold font
 			'I'  => 'iskpota.ttf',     // optional: italic font

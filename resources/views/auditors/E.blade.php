@@ -28,7 +28,7 @@
             margin-right: 20px;
         }
         .sinhala-font {
-            font-family:'examplefont', sans-serif;
+            font-family:'iskpota', sans-serif;
             font-size: 14px;
         }
 
@@ -36,7 +36,7 @@
 
         .number {
             font-size: 9px;
-            font-family: 'Segoe UI','examplefont','latha', sans-serif;
+            font-family: 'Segoe UI','iskpota','latha', sans-serif;
         }
 
         .english-font {
@@ -47,19 +47,19 @@
 
         .header-font {
             font-size: 10px;
-            font-family: 'Segoe UI','examplefont', sans-serif;
+            font-family: 'Segoe UI','iskpota', sans-serif;
         }
 
         .sinhala-font-1 {
             font-size: 9px;
-            font-family:'examplefont', sans-serif;
+            font-family:'iskpota', sans-serif;
         }
 
        
 
         .sinhala-font-2 {
             font-size: 10px;
-            font-family:'examplefont', sans-serif;
+            font-family:'iskpota', sans-serif;
         }
 
         .english-add {
@@ -92,7 +92,7 @@
             <table width="100%" style="border:0;">
                 <tr style="border:0; padding: 0;">
                     <td style="border:0;padding: 0;">
-                        <center><span class="sinhala-font"><b>ලියාපදිංචි කිරීමේ සහතිකය</b></span><br style=""><span class="english-font" style=""><b>CERTIFICATE OF REGISTRATION</b></span></center>
+                        <center><span class="sinhala-font" style="font-size:18px;"><b>ලියාපදිංචි කිරීමේ සහතිකය</b></span><br style=""><span class="english-font" style="font-size:15px;"><b>CERTIFICATE OF REGISTRATION</b></span></center>
                     </td>
                 </tr>
             </table>

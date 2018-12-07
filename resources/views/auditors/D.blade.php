@@ -28,7 +28,7 @@
             margin-right: 20px;
         }
         .sinhala-font {
-            font-family:'examplefont', sans-serif;
+            font-family:'iskpota', sans-serif;
             font-size: 14px;
         }
 
@@ -36,7 +36,7 @@
 
         .number {
             font-size: 9px;
-            font-family: 'Segoe UI','examplefont','latha', sans-serif;
+            font-family: 'Segoe UI','iskpota','latha', sans-serif;
         }
 
         .english-font {
@@ -47,19 +47,19 @@
 
         .header-font {
             font-size: 10px;
-            font-family: 'Segoe UI','examplefont', sans-serif;
+            font-family: 'Segoe UI','iskpota', sans-serif;
         }
 
         .sinhala-font-1 {
             font-size: 9px;
-            font-family:'examplefont', sans-serif;
+            font-family:'iskpota', sans-serif;
         }
 
        
 
         .sinhala-font-2 {
             font-size: 10px;
-            font-family:'examplefont', sans-serif;
+            font-family:'iskpota', sans-serif;
         }
 
         .english-add {

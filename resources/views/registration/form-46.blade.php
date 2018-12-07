@@ -10,14 +10,14 @@
             margin-bottom: 0px;
             font-size: 13px;
             padding: 5px;
-            font-family: 'SegoeUI';
+            font-family: 'SegoeUI', sans-serif;
         }
 
         span {
             margin-left: 0px;
             margin-right: 0px;
             font-size: 14px;
-            font-family: 'SegoeUI';
+            font-family: 'SegoeUI', sans-serif;
             margin-bottom: 1px;
         }
 
@@ -36,7 +36,7 @@
     
     body{
       /* margin-left: 20px; */
-      font-family: 'SegoeUI';
+      font-family: 'SegoeUI', sans-serif;
 
   }
     </style>
@@ -47,18 +47,18 @@
         <header class="form-header">
         <table width="100%" style="border:0; padding:0;">
                 <tr>
-                    <td width="10%" style="border:0; padding:0px;"><img width="100px" height="100px" src="{{asset('/form-images/govlogo.jpg')}}" alt="gov_logo"></td>
-                    <td width="69%" style="border:0; font-size: 20px; padding-top:20px; padding-left:5px " align="center"><b>FORM 46<br><br></b></td>
+                    <td width="10%" style="border:0; padding:0px;"><img width="100" height="100" src="{{asset('/form-images/govlogo.jpg')}}" alt="gov_logo"></td>
+                    <td width="69%" style="border:0; font-size: 20px; padding-top:20px; padding-left:100px " align="center"><b>FORM 46<br><br></b></td>
                     <td width="11%" style="border:0; padding:0px; font-size: 10px;" align="left">(Section 489(c))</td>
                     <td width="10%" style="border:0; padding:0px;"> <img width="130" height="auto" src="{{asset('/form-images/eroc.png')}}" alt="Logo EROC"></td>
                 </tr>
                 <tr>
-                    <td colspan="4" align="center" style="border:0; font-size:20px; padding:0;"><b>LIST OF THE NAMES AND ADDRESS OF PERSONS RESIDENT IN <br> SRI LANKA AUTHORIZED TO ACCEPT SERVICE
-                                        ON BEHALF OF A <br> COMPANY INCORPORATED OUTSIDE SRI LANKA WITH A PLACE <br> OF BUSINESS ESTABLISHED
+                    <td colspan="4" align="center" style="border:0; font-size:15px; padding:0;"><b>LIST OF THE NAMES AND ADDRESS OF PERSONS RESIDENT IN SRI LANKA AUTHORIZED TO ACCEPT SERVICE
+                                        ON BEHALF OF A COMPANY INCORPORATED OUTSIDE SRI LANKA WITH A PLACE OF BUSINESS ESTABLISHED
                                         IN SRI LANKA</b></td>
                 </tr>
                 <tr>
-                    <td colspan="4"  style="border:0; padding:0px; font-size:13px; padding-left:230px;">The Companies Act No.
+                    <td colspan="4"  style="border:0; padding:0px; font-size:13px; padding-left:200px;">The Companies Act No.
                         7 of 2007 Pursuant to be Sec 489(c)</td>
                 </tr>
             </table>

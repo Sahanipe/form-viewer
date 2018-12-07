@@ -25,7 +25,7 @@
 
         .sinhala-font {
             font-size: 9px;
-            font-family:'examplefont', sans-serif;
+            font-family:'iskpota', sans-serif;
         }
 
         .number {
@@ -45,7 +45,7 @@
 
         .sinhala-font-1 {
             font-size: 9px;
-            font-family:'examplefont', sans-serif;
+            font-family:'iskpota', sans-serif;
         }
 
         .tamil-font {

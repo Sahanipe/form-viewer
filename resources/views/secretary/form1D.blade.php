@@ -12,20 +12,20 @@
             margin-bottom: 0px;
             font-size: 11px;
             padding: 5px;
-            font-family: 'Segoe UI','examplefont', sans-serif;
+            font-family: 'SegoeUI','iskpota', sans-serif;
         }
 
         font {
             margin-left: 0px;
             margin-right: 0px;
             /* font-size: 16px; */
-            font-family: 'Segoe UI','examplefont','latha', sans-serif;
+            font-family: 'SegoeUI','iskpota','latha', sans-serif;
             margin-bottom: 1px;
         }
 
         .sinhala-font {
             font-size: 13px;
-            font-family:'examplefont', sans-serif;
+            font-family:'iskpota', sans-serif;
         }
 
         .tamil-font {
@@ -35,22 +35,22 @@
 
         .number {
             font-size: 9px;
-            font-family: 'Segoe UI','examplefont','latha', sans-serif;
+            font-family: 'SegoeUI','iskpota','latha', sans-serif;
         }
 
         .english-font {
             font-size: 9px;
-            font-family: 'Segoe UI', sans-serif;
+            font-family: 'SegoeUI', sans-serif;
         }
 
         .header-font {
             font-size: 10px;
-            font-family: 'Segoe UI','examplefont', sans-serif;
+            font-family: 'SegoeUI','iskpota', sans-serif;
         }
 
         .sinhala-font-1 {
             font-size: 9px;
-            font-family:'examplefont', sans-serif;
+            font-family:'iskpota', sans-serif;
         }
 
         .tamil-font-1 {
@@ -60,7 +60,7 @@
 
         .sinhala-font-2 {
             font-size: 10px;
-            font-family:'examplefont', sans-serif;
+            font-family:'iskpota', sans-serif;
         }
 
         .english-add {

@@ -71,7 +71,7 @@
               <td style="border:0;">
                   <table style="padding:0; border:0;">
                       <tr style="padding:0; border:0;">
-                          <td  style="padding-left:175px; font-size:16px; border:0; padding-bottom:20px;" height="50px;"><b>FORM 20</b></td>
+                          <td  style="padding-left:175px; font-size:20px; border:0; padding-bottom:20px;" height="50px;"><b>FORM 20</b></td>
                           <td  style="padding:0; border:0; font-size:12px;" align="right"  height="50px;">(Section 223(2))</td>
                       </tr>
                       <tr>

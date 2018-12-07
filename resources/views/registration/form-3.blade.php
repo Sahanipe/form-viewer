@@ -14,14 +14,14 @@
       margin-bottom: 0px;
       font-size: 14px;
       padding: 5px;
-      font-family: 'SegoeUI';
+      font-family: 'SegoeUI', sans-serif;
     }
 
     font {
       margin-left: 0px;
       margin-right: 0px;
       font-size: 14px;
-      font-family: 'SegoeUI';
+      font-family: 'SegoeUI', sans-serif;
       margin-bottom: 1px;
     }
 
@@ -40,7 +40,7 @@
     
     body{
       /* margin-left: 20px; */
-      font-family: 'SegoeUI';
+      font-family: 'SegoeUI', sans-serif;
 
   }
   </style>
@@ -57,17 +57,17 @@
                 <td style="border:0;">
                     <table style="padding:0; border:0;">
                         <tr style="padding:0; border:0;">
-                            <td  style=" font-size:16px; border:0; padding-bottom:20px; padding-left:190px; width: 2.04in;" height="50px;"><b>FORM 3</b></td>
-                            <td  style="padding:0; border:0; font-size:12px;  width:1.0in" align="right"  height="50px;">(Section 8(2))</td>
+                            <td  style=" font-size:20px; border:0; padding-bottom:20px; padding-left:190px; width: 2.04in;" height="50px;"><b>FORM 3</b></td>
+                            <td  style="padding:0; border:0; font-size:10px;  width:1.0in" align="right"  height="50px;">(Section 8(2))</td>
                         </tr>
                         <tr>
-                            <td  style="padding:0; font-size:12px; border:0; padding-bottom:5px; width:4.56in;" colspan="2" align="center"  height="50px;">Notice of</td>
+                            <td  style="padding:0; font-size:13px; border:0; padding-bottom:5px; width:4.56in;" colspan="2" align="center"  height="50px;">Notice of</td>
                         </tr>
                         <tr>
-                            <td  style="padding:0; font-size:14px; border:0; padding-bottom:3px; width:4.56in;" colspan="2" align="center"  height="50px;"><b>CHANGE OF NAME</b></td>
+                            <td  style="padding:0; font-size:15px; border:0; padding-bottom:3px; width:4.56in;" colspan="2" align="center"  height="50px;"><b>CHANGE OF NAME</b></td>
                         </tr>
                         <tr>
-                            <td  style="padding:0; font-size:14px; border:0; font-size:11px;" colspan="2" align="center"  height="50px;">Section 221(2) of Companies Act No.
+                            <td  style="padding:0; font-size:14px; border:0; font-size:13px;" colspan="2" align="center"  height="50px;">Section 221(2) of Companies Act No.
                     7 of 2007</td>
                       </tr>
                   </table>
@@ -227,11 +227,11 @@
         </table>
         <br>
 
-        <span>Note : This notice should be given with the Registrar-General of Companies, 
+        <!-- <span>Note : This notice should be given with the Registrar-General of Companies, 
         within 10 working days of change .
         </span>
 
-        <span>*	Delete what is not applicable </span>
+        <span>*	Delete what is not applicable </span> -->
     </body> 
 
 </html>

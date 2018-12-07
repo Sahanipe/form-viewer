@@ -12,7 +12,7 @@
             margin-bottom: 0px;
             font-size: 11px;
             padding: 5px;
-            font-family:'Segoe UI','examplefont', sans-serif;
+            font-family:'Segoe UI','iskpota', sans-serif;
             
         }
 
@@ -25,7 +25,7 @@
         }
 
         .sinhala-font{
-            font-family:'examplefont', sans-serif;
+            font-family:'iskpota', sans-serif;
             font-size: 13px;
         }
         .tamil-font{

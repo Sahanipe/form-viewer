@@ -15,12 +15,12 @@ class PdfGeneratorController extends Controller
         ];
       //return view('registration/form-3', $data);
 
-    //return view('change/form-13', $data);
+  // return view('PCA/PCA4', $data);
       
         // $pdf = PDF::loadView('change/form-20', $data);
-       // return $pdf->stream('change/form-20');
-
-        $pdf = PDF::loadView('change/form-39', $data);
-        return $pdf->stream('change/form-39');
+      //return $pdf->stream('change/form-20');
+ // return view('PCA/PCA9', $data);
+        $pdf = PDF::loadView('PCA/PCA7', $data);
+        return $pdf->stream('form1D');
     }
 }

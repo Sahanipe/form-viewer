@@ -15,7 +15,7 @@
             margin-bottom: 0px;
             font-size: 14px;
             padding: 5px;
-            font-family: sans-serif;
+            font-family: 'SegoeUI', sans-serif;
         }
         table{
             page-break-inside: avoid;
@@ -26,7 +26,7 @@
             margin-left: 0px;
             margin-right: 0px;
             font-size: 14px;
-            font-family: sans-serif;
+            font-family: 'SegoeUI', sans-serif;
             margin-bottom: 1px;
         }
 
@@ -54,7 +54,7 @@
 
         body {
             margin-left: 2.5cm;
-            font-family: sans-serif;
+            font-family: 'SegoeUI', sans-serif;
 
         }
     </style>
@@ -65,7 +65,7 @@
     <table width="100%" style="border:0; padding:0;">
         <tr>
             <td width="20%" style="border:0; padding:0px;"><img width="100px" height="100px" src="{{asset('/form-images/govlogo.jpg')}}" alt="gov_logo"></td>
-            <td width="50%" style="border:0; font-size: 18px; padding-top:20px; padding-left:50px;" align="center"><span><b>FORM 1<br><br></b></span><p style="font-size: 13px; ">Application for </p><p style="font-size:16px;"><b>REGISTRATION OF A COMPANY</b></p></td>
+            <td width="50%" style="border:0; font-size: 20px; padding-top:20px; padding-left:50px;" align="center"><span><b>FORM 1<br><br></b></span><p style="font-size: 13px; ">Application for </p><p style="font-size:16px;"><b>REGISTRATION OF A COMPANY</b></p></td>
             <td width="10%" style="border:0; padding:0px; font-size: 10px;" align="left">(Section 4(1))</td>
             <td width="20%" style="border:0; padding:0px;"> <img width="130" height="auto" src="{{asset('/form-images/eroc.png')}}" alt="Logo EROC"></td>
         </tr>
@@ -111,7 +111,7 @@
         </tr>
         <tr>
             <td width="26%"  class="bg-color" >Registered Address</br>
-                <span style="font-size: 12px;"><I>(Physical Address in Sri Lnaka and must not be a PO Box
+                <span style="font-size: 12px;"><I>(Physical Address in Sri Lanka and must not be a PO Box
                             address)<br><br></I></span>
             </td>
             <td width="74%" height="80">

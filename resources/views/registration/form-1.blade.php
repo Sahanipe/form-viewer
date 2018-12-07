@@ -13,14 +13,14 @@
             font-size: 14px;
             ;
             padding: 5px;
-            font-family: 'SegoeUI';
+            font-family: 'SegoeUI', sans-serif;
         }
 
         font {
             margin-left: 0px;
             margin-right: 0px;
             font-size: 14px;
-            font-family: 'SegoeUI';
+            font-family: 'SegoeUI', sans-serif;
             margin-bottom: 1px;
         }
 

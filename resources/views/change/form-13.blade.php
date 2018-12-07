@@ -17,7 +17,7 @@
             font-size: 14px;
             ;
             padding: 5px;
-            font-family: sans-serif;
+            font-family: 'SegoeUI', sans-serif;
         }
         table{
                 page-break-inside: avoid;
@@ -27,7 +27,7 @@
             margin-left: 0px;
             margin-right: 0px;
             font-size: 14px;
-            font-family: sans-serif;
+            font-family: 'SegoeUI', sans-serif;
             margin-bottom: 1px;
         }
 
@@ -55,7 +55,7 @@
 
         body {
             /* margin-left: 20px; */
-            font-family: sans-serif;
+            font-family: 'SegoeUI', sans-serif;
 
         }
         </style>
@@ -75,7 +75,7 @@
                     <td width="69%" style="border:0; font-size: 12px; padding-top:5px; padding-left:5px " align="center" colspan="2">Notice of</td>               
                 </tr> -->
                 <tr>
-                    <td colspan="4" align="center" style="border:0; font-size:20px; padding:0;" colspan="4"><b>NOTICE OF COMPANY’S <br>
+                    <td colspan="4" align="center" style="border:0; font-size:15px; padding:0;" colspan="4"><b>NOTICE OF COMPANY’S <br>
                     CHANGE OF REGISTERED OFFICE ADDRESS</b></td>
                 </tr>
                 <tr>

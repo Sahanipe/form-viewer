@@ -14,14 +14,14 @@
             margin-bottom: 0px;
             font-size: 14px;
             padding: 5px;
-            font-family: 'SegoeUI';
+            font-family: 'SegoeUI', sans-serif;
         }
 
         font {
             margin-left: 0px;
             margin-right: 0px;
             font-size: 14px;
-            font-family: 'SegoeUI';
+            font-family: 'SegoeUI', sans-serif;
             margin-bottom: 1px;
         }
 
@@ -49,7 +49,7 @@
 
         body {
             /* margin-left: 20px; */
-            font-family: 'SegoeUI';
+            font-family: 'SegoeUI', sans-serif;
 
         }
         </style>
@@ -62,15 +62,15 @@
     <table width="100%" style="border:0; padding:0;">
             <tr>
                 <td width="10%" style="border:0; padding:0px;"><img width="100px" height="100px" src="{{asset('/form-images/govlogo.jpg')}}" alt="gov_logo"></td>
-                <td width="69%" style="border:0; font-size: 20px; padding-top:20px; padding-left:5px " align="center"><span><b>FORM 19<br><br></b></span><p style="font-size: 13px; ">Notice of</p><p style="font-size:15px;"><b>CONSENT AND CERTIFICATE OF SECRETARY/ SECRETARIES </b></p></td>
-                <td width="11%" style="border:0; padding:0px; font-size: 10px;" align="left">(Section 221(2))</td>
+                <td width="69%" style="border:0; font-size: 20px; padding-top:20px; padding-left:100px " align="center"><span><b>FORM 19<br><br></b></span><p style="font-size: 13px; ">Notice of</p><p style="font-size:15px;"><b>CONSENT AND CERTIFICATE OF SECRETARY/ SECRETARIES </b></p></td>
+                <td width="11%" style="border:0; padding:0px; font-size: 9px;" align="left">(Section 221(2))</td>
                 <td width="10%" style="border:0; padding:0px;"> <img width="130" height="auto" src="{{asset('/form-images/eroc.png')}}" alt="Logo EROC"></td>
             </tr>
             <!-- <tr>
                 <td colspan="4" align="center" style="border:0; font-size:15px; padding:0;"><b>REGISTRATION OF A COMPANY</b> </td>
             </tr> -->
             <tr>
-                <td colspan="4"  style="border:0; padding:0px; font-size:13px; padding-left:180px;">Section 4(1) of Companies Act No.
+                <td colspan="4"  style="border:0; padding:0px; font-size:13px; padding-left:220px;">Section 4(1) of Companies Act No.
                     7 of 2007 (“the Act”)</td>
             </tr>
         </table>
