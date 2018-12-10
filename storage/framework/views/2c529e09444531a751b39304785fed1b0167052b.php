@@ -3,7 +3,7 @@
 <head>
     <style>
 
-        @page { sheet-size: Legal; }
+        @page  { sheet-size: Legal; }
 
 
          table,
@@ -41,7 +41,7 @@
 <body>
     <section class="form-body">
         <header class="form-header">
-        <div style="margin-left:300px; "><img src="{{asset('/form-images/govlogo.jpg')}}" width="120px;" height="120px" alt="govlogo"></div>
+        <div style="margin-left:300px; "><img src="<?php echo e(asset('/form-images/govlogo.jpg')); ?>" width="120px;" height="120px" alt="govlogo"></div>
             <table width="100%" height="8%" style="border: 0; padding: 0;">
                 <tr style="border: 0;padding: 0;">
                     <td style="border: 0; padding: 0; font-size:16px;">
@@ -154,7 +154,7 @@
                     <td width="70%"  style="border:0">
                         <table width="80%" align="center" style="padding:0; border:0"> 
                             <tr  style="border:0">
-                                <td  style="border:0" ><img src="{{asset('/form-images/redSeal.jpg')}}" width="180px;" height="180px" alt="redSeal"></td>
+                                <td  style="border:0" ><img src="<?php echo e(asset('/form-images/redSeal.jpg')); ?>" width="180px;" height="180px" alt="redSeal"></td>
                             </tr>
                         </table>
                     </td>

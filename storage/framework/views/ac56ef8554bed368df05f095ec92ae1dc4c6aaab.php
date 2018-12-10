@@ -2,7 +2,7 @@
 
 <head>
     <style>
-    @page { sheet-size: Legal; }  
+    @page  { sheet-size: Legal; }  
 
          table,
         th,
