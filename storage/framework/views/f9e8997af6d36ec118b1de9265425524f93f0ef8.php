@@ -3,7 +3,7 @@
 <head>
     <style>
 
-    @page { sheet-size: Legal; }
+    @page  { sheet-size: Legal; }
          table,
         th,
         td {
@@ -39,7 +39,7 @@
 <body>
     <section class="form-body">
         <header class="form-header">
-        <div style="margin-left:300px; "><img src="{{asset('/form-images/govlogo.jpg')}}" width="100px;" height="100px" alt="govlogo"></div>
+        <div style="margin-left:300px; "><img src="<?php echo e(asset('/form-images/govlogo.jpg')); ?>" width="100px;" height="100px" alt="govlogo"></div>
         <!-- <br>
         <br> -->
             <!-- <table width="100%" height="8%" style="border: 0; padding: 0;">
@@ -166,7 +166,7 @@
 
             <!-- <table width="100%" style="border:0;">
                 <tr>
-                    <td width="60%" style="border:0; padding: 0;" rowspan="2"><img src="{{asset('/form-images/redSeal.jpg')}}" width="150px;" height="150px" alt="redSeal"></td>
+                    <td width="60%" style="border:0; padding: 0;" rowspan="2"><img src="<?php echo e(asset('/form-images/redSeal.jpg')); ?>" width="150px;" height="150px" alt="redSeal"></td>
                     <td width="40%" style="border:0; padding: 0;">
                         <center>................................................................</center>
                     </td>
@@ -185,7 +185,7 @@
                     <td width="70%"  style="border:0">
                         <table width="80%" align="center" style="padding:0; border:0"> 
                             <tr  style="border:0">
-                                <td  style="border:0" ><img src="{{asset('/form-images/redSeal.jpg')}}" width="180px;" height="180px" alt="redSeal"></td>
+                                <td  style="border:0" ><img src="<?php echo e(asset('/form-images/redSeal.jpg')); ?>" width="180px;" height="180px" alt="redSeal"></td>
                             </tr>
                         </table>
                     </td>
@@ -198,7 +198,7 @@
                             <tr  style="border:0">
                                 <td style="border:0; padding: 0;">
                                     <center><span class="sinhala-font">පොදු කොන්ත්‍රාත් ගිවිසුම් රෙජිස්ට්‍රාර්.</span><br><span
-                                    class="tamil-font">பகிரங்க ஒப்பந்தங்கள் பதிவாளர்</span><br>Registrar of Public Contracts</center>
+                                    class="tamil-font">சபகிரங்க ஒப்பந்தங்கள் பதிவாளர்</span><br>Registrar of Public Contracts</center>
                                 </td>
                             </tr>
                         </table>
@@ -219,7 +219,7 @@
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;padding: 0;" class="tamil-font">(அ)</td>
-                    <td width="50%" style="border: 0; padding: 0; " class="tamil-font">ஒப்பந்தக்காரரின் பெயரும் முகவரியும</td>
+                    <td width="50%" style="border: 0; padding: 0; " class="tamil-font">ஒப்பந்தக்காரரின் பெயரும் முகவரியூம</td>
                     <td width="48%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
@@ -239,7 +239,7 @@
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;padding: 0;" class="tamil-font">(ஆ)</td>
-                    <td width="45%" style="border: 0; padding: 0; " class="tamil-font">ஒப்பந்தத்தை வழங்கும் ஆளின் பெயரும் முகவரியும் :-
+                    <td width="45%" style="border: 0; padding: 0; " class="tamil-font">ஒப்பந்தத்தை வழங்கும் ஆளின் பெயரும் முகவரியூம் :-
 
  </td>
                     <td width="53%" style="border: 0; padding: 0;"></td>

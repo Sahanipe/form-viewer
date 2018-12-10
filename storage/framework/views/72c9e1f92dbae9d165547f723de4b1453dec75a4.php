@@ -10,14 +10,14 @@
             font-size: 13px;
             padding: 5px;
             padding-left:10px;
-            font-family: 'SegoeUI';
+            font-family: 'SegoeUI', sans-serif;
         }
 
         span {
             margin-left: 0px;
             margin-right: 0px;
             font-size: 14px;
-            font-family: 'SegoeUI';
+            font-family: 'SegoeUI', sans-serif;
             margin-bottom: 1px;
         }
 
@@ -37,7 +37,7 @@
     body{
       /* margin-left: 20px; */
       margin-left: 2.5cm;
-      font-family: 'SegoeUI';
+      font-family: 'SegoeUI', sans-serif;
 
   }
     </style>

@@ -28,7 +28,7 @@
             font-family:'iskpota', sans-serif;
         }
         .tamil-font{
-            font-size: 11px;
+            font-size: 10px;
             font-family:'latha', sans-serif;
         }
     </style>
@@ -37,6 +37,7 @@
 <body>
     <section class="form-body">
         <header class="form-header">
+       
             <!-- <table width="100%" height="8%" style="border: 0;">
                 <tr style="border: 0;">
                     <td style="border: 0;" width="15%"></td>
@@ -96,26 +97,26 @@
 
             <table width="100%" style="border: 0;">
                 <tr style="border: 0;">
-                    <td style="font-size: 16px; font-family:'iskpota', sans-serif; border: 0;" align="center">
-                        <center><b>කොන්ත්‍රාත් ගිවිසුම් පිරිවැය රු 5,000,000 ක් ඉක්මවන විට. ටෙන්ඩර්කරු හෝ ටෙන්ඩර්කරු සඳහා හෝ
+                    <td style="font-size: 16px; border: 0;" class="sinhala-font" align="center">
+                        <center><b>කොන්ත්‍රාත් ගිවිසුම් පිරිවැය රු 5.000.000 ක් ඉක්මවන විට. ටෙන්ඩර්කරු හෝ ටෙන්ඩර්කරු සඳහා හෝ
                                 වෙනුවෙන් කටයුතු කරන අනුයෝජිත, උප අනුයෝජිත, නියෝජිත හෝ නාමිකයා ලියාපදිංචි කරනු ලැබීම සඳහා වන
                                 ඉල්ලුම් පත්‍රය</b><br>
                         </center>
                     </td>
                 </tr>
                 <tr style="border: 0;">
-                        <td style="font-size: 12px; font-family:'latha', sans-serif; border: 0;" align="center">
-                            <center>ஒப்பந்தத்தின் செலவு 5,000 ,000 ரூபாவை விஞ்சுமிடத்து கேள்விதாரருக்காகவோ அல்லது அவர் சார்பிலோ முகவராக துணை முகவராக, பிரதிநிதியாக அல்லது நியமத்தராக பதிவு செய்வதற்கான விண்ணப்பம் 
+                        <td style="font-size: 13px; border: 0;" class="tamil-font" align="center">
+                            <center>ஒப்பந்தத்தின் செலவு 5,000,000 ரூபாவை விஞ்சுமிடத்து கேள்விதாரருக்காகவோ அல்லது அவர் சார்பிலோ முகவராக துணை முகவராக, பிரதிநிதியாக அல்லது நியமத்தராக பதிவு செய்வதற்கான விண்ணப்பம் 
                             </center>
                         </td>
                     </tr>
                 <tr>
-                    <td style="font-size: 15px; border: 0;" align="center"><b>Application
+                    <td style="font-size: 14px; border: 0;" align="center"><b>Application
                             for registration as Agent, Sub-Agent,Representative or Nominee for or on behalf of Tenderer
-                            where Contract cost exceeds Rs.5,000,000</b></td>
+                            where Contract cost exceeds Rs.5.000.000</b></td>
                 </tr>
             </table>
-            <hr width="20%" color="#000000">
+            <hr style="width: 150px; color: #000000;">
             <br>
           
 
@@ -126,7 +127,7 @@
                     <td width="30%" style="border: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
-                    <td width="70%" style="border: 0; font-size: 9px; padding: 0;" class="tamil-font">கேள்விப்பத்திரம் கேட்கப்பட்ட பகிரங்க ஒப்பந்தத்தின் சுருக்கப் பெயர்  :-</td>
+                    <td width="70%" style="border: 0; font-size: 10px; padding: 0;" class="tamil-font">கேள்விப்பத்திரம் கேட்கப்பட்ட பகிரங்க ஒப்பந்தத்தின் சுருக்கப் பெயர்  :-</td>
                     <td width="30%" style="border: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
@@ -142,19 +143,19 @@
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; padding: 0;">
                     <td width="2%" style="border: 0; padding: 0;" align="left">1.</td>
-                    <td width="24%" style="border: 0; padding: 0;" class="sinhala-font">ඉල්ලුම්කරුගේ සම්පූර්ණ නම</td>
+                    <td width="27%" style="border: 0; padding: 0;" class="sinhala-font">ඉල්ලුම්කරුගේ සම්පූර්ණ නම</td>
                     <td width="2%" style="border: 0; padding: 0; font-size:40px;" rowspan="3">&#125;</td>
-                    <td width="72%" style="border: 0; padding: 0;"></td>
+                    <td width="69%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;" align="left"></td>
-                    <td width="24%" style="border: 0; padding: 0; font-size: 9px;" class="tamil-font">விண்ணப்பதாரரின்  முழுப்பெயர் </td>
-                    <td width="72%" style="border: 0; padding: 0;"></td>
+                    <td width="27%" style="border: 0; padding: 0; " class="tamil-font">விண்ணப்பதாரரின்  முழுப் பெயர் </td>
+                    <td width="69%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;" align="left"></td>
-                    <td width="24%" style="border: 0; padding: 0;">Full Name of Applicant</td>
-                    <td width="72%" style="border: 0; padding: 0;"></td>
+                    <td width="27%" style="border: 0; padding: 0;">Full Name of Applicant</td>
+                    <td width="69%" style="border: 0; padding: 0;"></td>
                 </tr>
             </table>
             <br>
@@ -164,21 +165,22 @@
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; padding: 0;">
                     <td width="2%" style="border: 0; padding: 0;" align="left">2.</td>
-                    <td width="20%" style="border: 0; padding: 0;" class="sinhala-font">ඉල්ලුම්කරුගේ ලිපිනය</td>
+                    <td width="22%" style="border: 0; padding: 0;" class="sinhala-font">ඉල්ලුම්කරුගේ ලිපිනය</td>
                     <td width="2%" style="border: 0; padding: 0; font-size:40px;" rowspan="3">&#125;</td>
-                    <td width="76%" style="border: 0; padding: 0;"></td>
+                    <td width="74%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;" align="left"></td>
-                    <td width="20%" style="border: 0; padding: 0; font-size: 9px;" class="tamil-font">விண்ணப்பதாரரின் முகவரி </td>
-                    <td width="76%" style="border: 0; padding: 0;"></td>
+                    <td width="22%" style="border: 0; padding: 0; " class="tamil-font">விண்ணப்பதாரரின் முகவரி </td>
+                    <td width="74%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;" align="left"></td>
-                    <td width="20%" style="border: 0; padding: 0;">Address of Applicant</td>
-                    <td width="76%" style="border: 0; padding: 0;"></td>
+                    <td width="22%" style="border: 0; padding: 0;">Address of Applicant</td>
+                    <td width="74%" style="border: 0; padding: 0;"></td>
                 </tr>
             </table>
+            <br>
             <br>
             
            
@@ -186,23 +188,23 @@
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; padding: 0;">
                     <td width="2%" style="border: 0; padding: 0;" align="left">3.</td>
-                    <td width="22%" style="border: 0; padding: 0; " class="sinhala-font">ඉල්ලුම්කරුගේ ජාතිකත්වය</td>
+                    <td width="24%" style="border: 0; padding: 0; " class="sinhala-font">ඉල්ලුම්කරුගේ ජාතිකත්වය</td>
                     <td width="2%" style="border: 0; padding: 0; font-size:40px;" rowspan="3">&#125;</td>
-                    <td width="74%" style="border: 0; padding: 0;"></td>
+                    <td width="76%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;" align="left"></td>
-                    <td width="22%" style="border: 0; padding: 0; font-size: 9px;" class="tamil-font">விண்ணப்பதாரரின் நாட்டினம் </td>
-                    <td width="74%" style="border: 0; padding: 0;"></td>
+                    <td width="24%" style="border: 0; padding: 0; " class="tamil-font">விண்ணப்பதாரரின் நாட்டினம் </td>
+                    <td width="76%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;" align="left"></td>
-                    <td width="22%" style="border: 0; padding: 0;">Nationality of Applicant</td>
-                    <td width="74%" style="border: 0; padding: 0;"></td>
+                    <td width="24%" style="border: 0; padding: 0;">Nationality of Applicant</td>
+                    <td width="76%" style="border: 0; padding: 0;"></td>
                 </tr>
             </table>
             <br>
-            <br>
+            
            
 
             <table style="border: 0;">
@@ -215,7 +217,7 @@
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td style="border: 0;  font-size: 9px; padding: 0;" class="tamil-font">விண்ணப்பதாரர் கேள்விதரரகவோ அல்லது அவர் சார்பிலோ முகவராக , துணைமுகவராக  , பிரதிநிதியாக அல்லது நியமத்தரா எனக் குறிப்பிடுக (பஒச 10 ஆம் படிவதிக்கான முகவர் நியமனச் சான்றிதழ் இணைக்குக </td>
+                    <td style="border: 0;   padding: 0;" class="tamil-font">விண்ணப்பதாரர் கேள்விதரரகவோ அல்லது அவர் சார்பிலோ முகவராக , துணைமுகவராக  , பிரதிநிதியாக அல்லது நியமத்தரா எனக் குறிப்பிடுக (பஒச 10 ஆம் படிவதிக்கான முகவர் நியமனச் சான்றிதழ் இணைக்குக </td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0; padding: 0;"></td>
@@ -238,7 +240,7 @@
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;"></td>
-                    <td width="38%" style="border: 0; padding: 0; font-size: 9px;" class="tamil-font">கேள்விதரரின் முழுப்பெயர் </td>
+                    <td width="38%" style="border: 0; padding: 0; " class="tamil-font">கேள்விதரரின் முழுப் பெயர் </td>
                     <td width="58%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
@@ -254,19 +256,19 @@
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; padding: 0;">
                     <td width="2%" style="border: 0; padding: 0;">6.</td>
-                    <td width="26%" style="border: 0; padding: 0; " class="sinhala-font">ටෙන්ඩර්කරුගේ ලිපිනය</td>
+                    <td width="28%" style="border: 0; padding: 0; " class="sinhala-font">ටෙන්ඩර්කරුගේ ලිපිනය</td>
                     <td width="2%" style="border: 0; padding: 0; font-size:40px;" rowspan="3">&#125;</td>
-                    <td width="70%" style="border: 0; padding: 0;"></td>
+                    <td width="68%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;"></td>
-                    <td width="26%" style="border: 0; padding: 0; font-size: 9px;" class="tamil-font">அத்தகைய கேள்விதரரின் முகவரி </td>
-                    <td width="70%" style="border: 0; padding: 0;"></td>
+                    <td width="28%" style="border: 0; padding: 0; " class="tamil-font">அத்தகைய கேள்விதரரின் முகவரி </td>
+                    <td width="68%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;"></td>
-                    <td width="26%" style="border: 0; padding: 0;">The address of such tenderer</td>
-                    <td width="70%" style="border: 0; padding: 0;"></td>
+                    <td width="28%" style="border: 0; padding: 0;">The address of such tenderer</td>
+                    <td width="68%" style="border: 0; padding: 0;"></td>
                 </tr>
             </table>
             <br>
@@ -276,41 +278,40 @@
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; padding: 0;">
                     <td width="2%" style="border: 0; padding: 0;">7.</td>
-                    <td width="28%" style="border: 0; padding: 0;" class="sinhala-font">ටෙන්ඩර්කරුගේ ජාතිකත්වය</td>
+                    <td width="30%" style="border: 0; padding: 0;" class="sinhala-font">ටෙන්ඩර්කරුගේ ජාතිකත්වය</td>
                     <td width="2%" style="border: 0; padding: 0; font-size:40px;" rowspan="3">&#125;</td>
-                    <td width="68%" style="border: 0; padding: 0;"></td>
+                    <td width="66%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;"></td>
-                    <td width="28%" style="border: 0; padding: 0; font-size: 9px;" class="tamil-font">அத்தகைய கேள்விதரரின் நாட்டினம் </td>
-                    <td width="68%" style="border: 0; padding: 0;"></td>
+                    <td width="30%" style="border: 0; padding: 0; " class="tamil-font">அத்தகைய கேள்விதரரின் நாட்டினம் </td>
+                    <td width="66%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;"></td>
-                    <td width="28%" style="border: 0; padding: 0;">The nationality of such tenderer</td>
-                    <td width="68%" style="border: 0; padding: 0;"></td>
+                    <td width="30%" style="border: 0; padding: 0;">The nationality of such tenderer</td>
+                    <td width="66%" style="border: 0; padding: 0;"></td>
                 </tr>
             </table>
-            <br>
+         
             <p style="page-break-before:always"></p>
 
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; padding: 0;">
                     <td width="2%" style="border: 0; padding: 0;">8.</td>
-                    <td width="52%" style="border: 0; padding: 0;" class="sinhala-font">ටෙන්ඩර්කරු පොදු හෝ පෞද්ගලික සමාගමක් වන විට එහි </td>
-                    <td width="2%" style="border: 0; padding: 0; font-size:40px;" rowspan="3">&#125;</td>
-                    <td width="44%" style="border: 0; padding: 0;"></td>
+                    <td width="59%" style="border: 0; padding: 0;" class="sinhala-font">ටෙන්ඩර්කරු පොදු හෝ පෞද්ගලික සමාගමක් වන විට එහි -</td>
+                    <td width="39%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;"></td>
-                    <td width="52%" style="border: 0; padding: 0; font-size: 9px;" class="tamil-font">கேள்விதாரர் பகிரங்க அல்லது தனியார் கொம்பனியாக இருக்குமிடத்து</td>
-                    <td width="44%" style="border: 0; padding: 0;"></td>
+                    <td width="59%" style="border: 0; padding: 0; " class="tamil-font">கேள்விதாரர் பகிரங்க அல்லது தனியார் கொம்பனியாக இருக்குமிடத்து -</td>
+                    <td width="39%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;"></td>
-                    <td width="52%" style="border: 0; padding: 0;">Where the tenderer is a Public or Private company
+                    <td width="59%" style="border: 0; padding: 0;">Where the tenderer is a Public or Private company
                         state-</td>
-                    <td width="44%" style="border: 0; padding: 0;"></td>
+                    <td width="39%" style="border: 0; padding: 0;"></td>
                 </tr>
             </table>
             <br>
@@ -326,8 +327,8 @@
                     <td width="68%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
-                    <td width="2%" style="border: 0;  padding: 0; font-size: 12px;" class="tamil-font">(அ)</td>
-                    <td width="28%" style="border: 0; padding: 0; font-size: 9px;" class="tamil-font">அதன் பதிவு இலக்கம் </td>
+                    <td width="2%" style="border: 0;  padding: 0;" class="tamil-font">(அ)</td>
+                    <td width="28%" style="border: 0; padding: 0; " class="tamil-font">அதன் பதிவு இலக்கம் </td>
                     <td width="68%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
@@ -348,8 +349,8 @@
                     <td width="40%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
-                    <td width="2%" style="border: 0;  padding: 0; font-size: 12px;" class="tamil-font">(ஆ)</td>
-                    <td width="56%" style="border: 0; padding: 0; font-size: 9px;" class="tamil-font">அதன் ஒவ்வொரு பணிப்பாளர் சம்பந்தமாகவும் கீழ்வரும் தகவல்  </td>
+                    <td width="2%" style="border: 0;  padding: 0; " class="tamil-font">(ஆ)</td>
+                    <td width="56%" style="border: 0; padding: 0; " class="tamil-font">அதன் ஒவ்வொரு பணிப்பாளர் சம்பந்தமாகவும் கீழ்வரும் தகவல்  </td>
                     <td width="40%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
@@ -401,7 +402,7 @@
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;  padding: 0; font-size: 12px;"></td>
-                    <td width="98%" style="border: 0; padding: 0; font-size: 9px;" class="tamil-font">கேள்விதாரர் தனியார் கம்பனியொன்றாக இருக்குமிடத்து அதன் பங்குதாரர் ஒவ்வொருவர் தொடர்பாகவும் பின்வரும் தகல்வல்களை தருக ::-</td>
+                    <td width="98%" style="border: 0; padding: 0; " class="tamil-font">கேள்விதாரர் தனியார் கம்பனியொன்றாக இருக்குமிடத்து அதன் பங்குதாரர் ஒவ்வொருவர் தொடர்பாகவும் பின்வரும் தகவல்களைத் தருக ::-</td>
 
                 </tr>
                 <tr style="border: 0;">
@@ -455,7 +456,7 @@
                 </tr>
                 <tr style="border: 0;">
                     <td width="3%" style="border: 0; padding: 0;"></td>
-                    <td style="border: 0;  font-size: 9px; padding: 0;" class="tamil-font">கேள்விதாரர ஒரு குழமம் அல்லது ஆட்களின் கூட்டிணைப்பாக இருக்குமிடத்துஇ குழுமத்தின் பங்காளர் அல்லது கூட்டிணைப்பின் ஆள் ஒவ்வொருவரும் தொடர்பாக பின்வரும் விபரங்களைத் தருக. </td>
+                    <td style="border: 0;   padding: 0;" class="tamil-font">கேள்விதாரர ஒரு குழமம் அல்லது ஆட்களின் கூட்டிணைப்பாக இருக்குமிடத்துஇ குழுமத்தின் பங்காளர் அல்லது கூட்டிணைப்பின் ஆள் ஒவ்வொருவரும் தொடர்பாக பின்வரும் விபரங்களைத் தருக. </td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="3%" style="border: 0; padding: 0;"></td>
@@ -509,10 +510,7 @@
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td style="border: 0;  font-size: 9px; padding: 0; text-indent: 30px;" class="tamil-font"> கமற்கொத்த விண்ைப்ெத்தில் உள்ை விெரங்கள் எனது
-                        / எங்கைது நம்பிக்வகக்கு எட்டிய அைவில் உண்வமயானவவயும் பசம்வமயானவவயும் என
-                        ..................................... ஆகிய நான் / நாங்கள் சத்தியம் பசய்கிகறன் / கிகறாம்
-                        ெயெக்தியாகவும் விசுவாசமாகவும் பமய்யாகவும் பவளிப்ெடுத்தி உறுதிப்ெடுத்துகிகறன் / கிகறாம் <br>  <br> </td> 
+                    <td style="border: 0;   padding: 0; text-indent: 30px;" class="tamil-font">மேற்போந்த விண்ணப்பத்தில் உள்ள விபரங்கள் எனது/எங்களது நம்பிக்கைக்கு எட்டிய அளவில் உண்மையானவையயும் செம்மையானவையும் என ………………………………. ஆகிய நான்/நாங்கள் சத்தியம் செய்கி றேன்/கிறோம். <br>  <br> </td> 
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0; padding: 0; " height="10"></td>
@@ -558,10 +556,10 @@
                         මා ඉදිරියේ දිවුරුම් දෙන ලදී./ප්‍රතිඥා දෙන ලදී.</td>
                 </tr>
                 <tr style="border:0;">
-                    <td style="border:0; font-size:9px; text-indent: 30px; padding-bottom:10px;" class="tamil-font">20…………….. மாதம் …………. ஆம் நாளாகிய இன்று எனது முன்னிலையில் சத்தியம் செய்யப்பட்டது ஃ உறுதிப்படுத்தப்பட்டது</td>
+                    <td style="border:0; text-indent: 30px; padding-bottom:10px;" class="tamil-font">20…………….. மாதம் …………. ஆம் நாளாகிய இன்று எனது முன்னிலையில் சத்தியம் செய்யப்பட்டது /உறுதிப்படுத்தப்பட்டது</td>
                 </tr>
                 <tr style="border:0;">
-                    <td style="border:0; font-size:11px; text-indent: 30px;">Sworn/affirmed before me to/at
+                    <td style="border:0; text-indent: 30px;">Sworn/affirmed before me to/at
                         ..........................................................this ..........................day of
                         ................... 20 ................</td>
                 </tr>
@@ -583,7 +581,7 @@
                 <tr>
                     <td width="50%" style="border:0; padding: 0;"></td>
                     <td width="50%" style="border:0; padding: 0;font-size:11px;">
-                        <center><span class="sinhala-font">සාමවිනිසුරු / දිවුරුම් කොමසාරිස් .</span><br><span class="tamil-font">சமாதான நீதிவான் ஃ சத்தியப்படுத்தும் ஆளுநர்</span>/Justice of the peace /Commissioner for oaths</center>
+                        <center><span class="sinhala-font">සාමවිනිසුරු / දිවුරුම් කොමසාරිස් .</span><br><span class="tamil-font">சமாதான நீதிவான்/சத்தியப்படுத்தும் ஆளுநர்</span><br>Justice of the Peace /Commissioner for Oaths</center>
                     </td>
                 </tr>
             </table>
@@ -601,10 +599,10 @@
                         විසින් දිවුරා ප්‍රකාශ කළ/ප්‍රතිඥා දිය යුතුය.</td>
                 </tr>
                 <tr style="border:0;">
-                    <td style="border:0;" class="tamil-font">இக்கூற்றுஇ தனியார் ஒருவரின் விடயத்தில் அவராலும்இ கூட்டுத்தாபனம் ஒன்றின் விடயத்தில் அதன் பணிப்பாளர் ஒருவரால் அல்லது செயலாளராலும் குழுமம் அல்லது கூட்டிணைப்பு ஒன்றின் விடயத்தில் எல்லா அல்லது அதிகப்படியான பங்காளர்களால் அல்லது கூட்டிணைப்பின் ஆட்களாலும் சத்தியம் செய்யப்படல் </td>
+                    <td style="border:0;" class="tamil-font">இக்கூற்று, தனியார் ஒருவரின் விடயத்தில் அவராலும், கூட்டுத்தாபனம் ஒன்றின் விடயத்தில் அதன் பணிப்பாளர் ஒருவரால் அல்லது செயலாளராலும் குழுமம் அல்லது கூட்டிணைப்பு ஒன்றின் விடயத்தில் எல்லா அல்லது அதிகப்படியான பங்காளர்களால் அல்லது கூட்டிணைப்பின் ஆட்களாலும் சத்தியம் செய்யப்படல் அல்லது உறுதிப்படுத்தப்படல் வேண்டும்.</td>
                 </tr>
                 <tr style="border:0;">
-                    <td style="border:0;">This statement must be sworn or affiremed in the case of an individual by
+                    <td style="border:0;">This statement must be sworn or affirmed in the case of an individual by
                         him, in the case of a corporation by a Director or Secratary thereof, in the case of a firm or
                         consortium by all or a majority of the partners or persons of consortium.</td>
                 </tr>

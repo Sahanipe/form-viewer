@@ -65,6 +65,14 @@ return [
 			'useOTL' => 0xFF,    // required for complicated langs like Persian, Arabic and Chinese
 			'useKashida' => 75,  // required for complicated langs like Persian, Arabic and Chinese
 		],
+		'Bamini' => [
+			'R'  => 'Bamini.ttf',    // regular font
+			'B'  => 'Bamini.ttf',       // optional: bold font
+			'I'  => 'Bamini.ttf',     // optional: italic font
+			'BI' => 'Bamini.ttf' ,// optional: bold-italic font
+			'useOTL' => 0xFF,    // required for complicated langs like Persian, Arabic and Chinese
+			'useKashida' => 75,  // required for complicated langs like Persian, Arabic and Chinese
+		],
 		// ...add as many as you want.
 	]
 	// ...

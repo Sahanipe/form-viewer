@@ -28,11 +28,11 @@
         }
 
         .sinhala-font{
-            font-size: 13px;
+            font-size: 14px;
             font-family:'iskpota', sans-serif;
         }
         .tamil-font{
-            font-size: 9px;
+            font-size: 10px;
             font-family:'latha', sans-serif;
         }
     </style>
@@ -41,11 +41,11 @@
 <body>
     <section class="form-body">
         <header class="form-header">
-        <div style="margin-left:300px; "><img src="<?php echo e(asset('/form-images/govlogo.jpg')); ?>" width="120px;" height="120px" alt="govlogo"></div>
+        <div style="margin-left:300px; "><img src="<?php echo e(asset('/form-images/govlogo.jpg')); ?>" width="100px;" height="100px" alt="govlogo"></div>
             <table width="100%" height="8%" style="border: 0; padding: 0;">
                 <tr style="border: 0;padding: 0;">
                     <td style="border: 0; padding: 0; font-size:16px;">
-                        <center><span style="font-size:16px;" class="sinhala-font"><b>පො.කො.ප. 3 ආකෘති පත්‍රය</b></span><br><span><b>Tamil</b></span><br><span style="font-size:15px"><b> FORM PCA 3</b></span></center>
+                        <center><span style="font-size:16px;" class="sinhala-font"><b>පො.කො.ප. 3 ආකෘති පත්‍රය</b></span><br><span style="font-size:13px;" class="tamil-font"><b>படிவம் பஒச 3</b></span><br><span style="font-size:15px"><b> FORM PCA 3</b></span></center>
                     </td>
                 </tr>
             </table>
@@ -73,12 +73,11 @@
                 </tr>
                 <tr style="border:0;">
                     <td style="border:0; font-size: 25px;">
-                        <center><span class=tamil-font style="font-size: 13px;"><b>கேள்விதாரருக்காகவோ அல்லது கேள்விதாரர் சார்பிலோ முகவரின், துணை முகவரின் பிரதிநிதியின்
-                                அல்லது நியமத்தரின் பதிவுச் சான்றிதழ்</b></span></center>
+                        <center><span class=tamil-font style="font-size: 13px;"><b>கேள்விதாரருக்காகவோ அல்லது கேள்விதாரர் சார்பிலோ முகவரின், துணை முகவரின், பிரதிநிதியின்  அல்லது நியமித்தரின் பதிவுச் சான்றிதழ்</b></span></center>
                     </td>
                 </tr>
                 <tr style="border:0;">
-                    <td style="border:0; font-size: 15px;">
+                    <td style="border:0; font-size: 14px;">
                         <center><b>Certificate of Registration as an Agent, Sub-agent, Representative or Nominee, for
                                 or
                                 on behalf of a Tenderer</b></center>
@@ -89,7 +88,7 @@
 
             <table style="border:0;">
                 <tr style="border:0;">
-                    <td style="border:0; line-height: 2; font-size: 13px;" class="sinhala-font"> blank  හි
+                    <td style="border:0; line-height: 1.7; font-size: 13px;" class="sinhala-font"> blank  හි
                      blank යන
                         අය (අ)
                          blank 
@@ -107,18 +106,7 @@
                     <td style="border:0; text-indent: 300; font-size: 13; line-height: 2"></td>
                 </tr>
                 <tr style="border:0;">
-                    <td style="border:0; text-indent: 600;line-height: 3;" class="tamil-font"> blank ஐச் சேர்ந்த
-                        என்பவர்(அ)<br>கேள்வி
-                        தொடர்பில்(ஆ) blank என்பவரின்
-                        (இ)
-                        blank 
-                        ஆக இத்தால் பதிவு செய்யப்பட்டுள்ளார்
-                        என்பதுடன் மேற்
-                        குறிப்பிடப்பெற்றுள்ள blank
-                        க்கு ஒப்பந்தம் அளிக்கப்பட்டதால் அத்தகைய ஒப்பந்தம் அளிக்கப்பட்டு 60 நாட்களுக்குள் அவ்வொப்பந்தம்
-                        பதிவு செய்யப்படுவதற்கு விண்ணப்பிக்கப்படல் வேண்டும் எனும் நிபந்தனைக்கு அமைய, இச்சான்றிதழானது
-                        இதிலிடப்பட்டுள்ள தேதி முதல் ஓராண்டு காலத்திற்கு வலுவில் இருத்தல் வேண்டுமென இத்தால் நான்
-                        அத்தாட்சிப்படுத்துகிறேன்.<br><br>
+                    <td style="border:0; text-indent: 600;line-height: 2;" class="tamil-font">………………………. ஐச் சேர்த்த ……………………….. என்பவர் (அ) …………………………. கேள்வி தொடர்பில் (ஆ) …………………. என்பவரின் (இ) ……………………………. ஆக இத்தால் பதிவு ……………………….  செய்யப்பட்டுள்ளார் என்பதுடன் மேற் குறிப்பிடப்பெற்றுள்ள ……………………………… க்கு ஒப்பந்தம் அளிக்கப்பட்டால் அத்தகைய ஒப்பந்தம் அளிக்கப்பட்டு 60 நாட்களுக்குள் அவ்வொப்பந்தம் பதிவு செய்யப்படுவதற்கு விண்ணப்பிக்கப்படல் வேண்டும் எனும் நிபந்தனைக்கு அமைய, இச்சான்றிதழானது இதிலிடப்பட்டுள்ள தேதி முதல் ஓராண்டு காலத்திற்கு வலுவில் இருத்தல் வேண்டுமென இத்தால் நான் அத்தாட்சிப்படுத்துகிறேன்<br><br>
                     </td>
                 </tr>
                 <tr style="border:0;">
@@ -148,10 +136,8 @@
                 </tr>
                 <tr>
                     <td width="6%" style="border:0;"></td>
-                    <td width="94%" style="border:0; padding-bottom:8px;" class="tamil-font">
-                    .................................................மாதம்
-                        .................................ஆம் நாளாகிய இன்று எனது கைப்பட
-                        கொடுக்கப்பட்டது.
+                    <td width="94%" style="border:0; padding-bottom:8px; " class="tamil-font">
+                    …………….. மாதம் …………. ஆம் நாளாகிய இன்று எனது கையொப்பமிடப்பட்டு கொழும்பில் கொடுக்கப்பட்டது. 
                     </td>
                 </tr>
                 <tr>
@@ -181,13 +167,15 @@
                             <tr  style="border:0">
                                 <td style="border:0; padding: 0;">
                                     <center><span class="sinhala-font">පොදු කොන්ත්‍රාත් ගිවිසුම් රෙජිස්ට්‍රාර්.</span><br><span
-                                    class="tamil-font">சமாதான நீதிவான்</span><br>Registrar of Public Contracts</center>
+                                    class="tamil-font">பகிரங்க ஒப்பந்தங்கள் பதிவாளர்</span><br>Registrar of Public Contracts</center>
                                 </td>
                             </tr>
                         </table>
                     </td>
                 </tr>
             </table>
+
+            <p style="page-break-before:always"></p>
 
             <!-- <table width="100%" style="border:0;">
                 <tr>
@@ -210,39 +198,39 @@
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; ">
                     <td width="2%" style="border: 0; padding: 0;" class="sinhala-font">(අ)</td>
-                    <td width="21%" style="border: 0; padding: 0;" class="sinhala-font">ටෙන්ඩරයේ ස්වභාවය</td>
+                    <td width="25%" style="border: 0; padding: 0;" class="sinhala-font">ටෙන්ඩරයේ ස්වභාවය</td>
                     <td width="4%" style="border: 0; padding: 0; font-size: 54px;" rowspan="3">&#125;</td>
-                    <td width="73%" style="border: 0; padding: 0;"></td>
+                    <td width="69%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0; ">
                     <td width="2%" style="border: 0;padding: 0;" class="tamil-font">(அ)</td>
-                    <td width="21%" style="border: 0; padding: 0;" class="tamil-font">கேள்விப்பத்திரத்தின் தன்மை</td>
-                    <td width="73%" style="border: 0; padding: 0;"></td>
+                    <td width="25%" style="border: 0; padding: 0;" class="tamil-font">கேள்விப்பத்திரத்தின் தன்மை</td>
+                    <td width="69%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;padding: 0;">(a)</td>
-                    <td width="21%" style="border: 0; padding: 0;">Nature of Tenderer</td>
-                    <td width="73%" style="border: 0; padding: 0;"></td>
+                    <td width="25%" style="border: 0; padding: 0;">Nature of Tenderer</td>
+                    <td width="69%" style="border: 0; padding: 0;"></td>
                 </tr>
             </table>
             <br>
 
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; padding: 0;">
-                    <td width="2%" style="border: 0; padding: 0;" class="sinhala-font">(ආ)</td>
+                    <td width="3%" style="border: 0; padding: 0;" class="sinhala-font">(ආ)</td>
                     <td width="21%" style="border: 0; padding: 0;" class="sinhala-font">ටෙන්ඩර්කරුගේ නම</td>
                     <td width="4%" style="border: 0; padding: 0; font-size: 54px;" rowspan="3">&#125;</td>
-                    <td width="73%" style="border: 0; padding: 0;"></td>
+                    <td width="72%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
-                    <td width="2%" style="border: 0;padding: 0;" class="tamil-font">(அ)</td>
+                    <td width="3%" style="border: 0;padding: 0;" class="tamil-font">(ஆ)</td>
                     <td width="21%" style="border: 0; padding: 0;" class="tamil-font">கேள்விதாரரின் பெயர்</td>
-                    <td width="73%" style="border: 0; padding: 0;"></td>
+                    <td width="72%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
-                    <td width="2%" style="border: 0;padding: 0;">(b)</td>
+                    <td width="3%" style="border: 0;padding: 0;">(b)</td>
                     <td width="21%" style="border: 0; padding: 0;">Name of Tenderer</td>
-                    <td width="73%" style="border: 0; padding: 0;"></td>
+                    <td width="72%" style="border: 0; padding: 0;"></td>
                 </tr>
             </table>
             <br>
@@ -256,8 +244,8 @@
                     <!-- <td width="74%" style="border: 0; padding: 0;"></td> -->
                 </tr>
                 <tr style="border: 0;">
-                    <td width="2%" style="border: 0;padding: 0;" class="tamil-font">(அ)</td>
-                    <td width="95%" style="border: 0; padding: 0;" class="tamil-font">கேள்விதாரரின் பெயர்</td>
+                    <td width="2%" style="border: 0;padding: 0;" class="tamil-font">(இ)</td>
+                    <td width="95%" style="border: 0; padding: 0;" class="tamil-font">கேள்விதாரருக்காக அல்லது அவர் சார்பில் ஒரு முகவரா, துணை முகவரா, பிரதிநிதியா அல்லது நியமத்தராவெனக் குறிப்பிடுக.</td>
                     <!-- <td width="74%" style="border: 0; padding: 0;"></td> -->
                 </tr>
                 <tr style="border: 0;">

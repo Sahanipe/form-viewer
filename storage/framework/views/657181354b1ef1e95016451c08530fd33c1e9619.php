@@ -614,7 +614,7 @@
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;padding: 0;" class="tamil-font"></td>
-                    <td width="22%" style="border: 0; padding: 0;" class="tamil-font">விண்ணப்பம் செய்பவரின் முழப்பெயர்</td>
+                    <td width="22%" style="border: 0; padding: 0;" class="tamil-font">Tamil</td>
                     <td width="74%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
@@ -636,7 +636,7 @@
                 </tr>
                 <tr style="border: 0; ">
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="30%" style="border: 0; padding: 0; " class="tamil-font">வியாபாரப் பெயர்இ (இருந்தால்) </td>
+                    <td width="30%" style="border: 0; padding: 0; " class="tamil-font">Tamil</td>
                     <td width="66%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
@@ -657,7 +657,7 @@
                 </tr>
                 <tr style="border: 0; ">
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="13%" style="border: 0; padding: 0; " class="tamil-font">வியாபார முகவரி</td>
+                    <td width="13%" style="border: 0; padding: 0; " class="tamil-font">Tamil</td>
                     <td width="83%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
@@ -677,7 +677,7 @@
                 </tr>
                 <tr style="border: 0; ">
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="10%" style="border: 0; padding: 0; " class="tamil-font">பிறந்த திகதி</td>
+                    <td width="10%" style="border: 0; padding: 0; " class="tamil-font">Tamil</td>
                     <td width="86%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
@@ -698,7 +698,7 @@
                 </tr>
                 <tr style="border: 0; ">
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="85%" style="border: 0; padding: 0; " class="tamil-font">வியாபாரம் சம்பந்தமான கணக்கியற் தகைமைகள் தேவையாகில் பிரிசோதித்தல்இ கணக்கியலிலுள்ள அனுபவங்கள்</td>
+                    <td width="85%" style="border: 0; padding: 0; " class="tamil-font">Tamil</td>
                     <!-- <td width="26%" style="border: 0; padding: 0;"></td> -->
                 </tr>
                 <tr style="border: 0;">
