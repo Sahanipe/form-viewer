@@ -13,6 +13,7 @@ class PdfGeneratorController extends Controller
         $data = [
             'foo' => 'bar'
         ];
+        return view('shares/shareholdersDetails', $data);
       //return view('registration/form-3', $data);
 
   // return view('PCA/PCA4', $data);
@@ -20,7 +21,9 @@ class PdfGeneratorController extends Controller
         // $pdf = PDF::loadView('change/form-20', $data);
       //return $pdf->stream('change/form-20');
  // return view('PCA/PCA9', $data);
-        $pdf = PDF::loadView('secretary/form1D', $data);
-        return $pdf->stream('form1D');
+        // $pdf = PDF::loadView('secretary/form1D', $data);
+        // return $pdf->stream('form1D');
+        //$pdf = PDF::loadView('change/form-20', $data);
+        //return $pdf->stream('form-20');
     }
 }
