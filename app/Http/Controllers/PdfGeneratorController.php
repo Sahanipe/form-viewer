@@ -25,5 +25,7 @@ class PdfGeneratorController extends Controller
         // return $pdf->stream('form1D');
         //$pdf = PDF::loadView('change/form-20', $data);
         //return $pdf->stream('form-20');
+        $pdf = PDF::loadView('PCA/PCA4', $data);
+        return $pdf->stream('form1D');
     }
 }

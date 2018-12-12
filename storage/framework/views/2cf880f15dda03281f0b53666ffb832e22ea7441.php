@@ -26,11 +26,11 @@
         }
 
         .sinhala-font{
-            font-size: 13px;
+            font-size: 14px;
             font-family:'iskpota', sans-serif;
         }
         .tamil-font{
-            font-size: 11px;
+            font-size: 10px;
             font-family:'latha', sans-serif;
         }
     </style>
@@ -39,10 +39,10 @@
 <body>
     <section class="form-body">
         <header class="form-header">
-        <div style="margin-left:300px; "><img src="<?php echo e(asset('/form-images/govlogo.jpg')); ?>" width="120px;" height="120px" alt="govlogo"></div>
+        <div style="margin-left:300px; "><img src="<?php echo e(asset('/form-images/govlogo.jpg')); ?>" width="100px;" height="100px" alt="govlogo"></div>
         <!-- <br>
         <br> -->
-            <table width="100%" height="8%" style="border: 0; padding: 0;">
+            <!-- <table width="100%" height="8%" style="border: 0; padding: 0;">
                 <tr style="border: 0;">
                     <td style="border: 0;">
                         <center><span style="font-size:16px;" class="sinhala-font"><b>පො.කො.ප. 4 ආකෘති පත්‍රය<br>කොන්ත්‍රාත්තුව ලියාපදිංචි
@@ -52,11 +52,53 @@
                     </td>
                 </tr>
             </table>
-            <hr style="width:150px; color: #000000">
+            <hr style="width:150px; color: #000000"> -->
+
+            <table width="100%" height="8%" style="border: 0; padding: 0;">
+                <tr style="border: 0;padding: 0;">
+                    <td style="border: 0; padding: 0; font-size:16px;">
+                        <center><span style="font-size:16px;" class="sinhala-font"><b>පො.කො.ප. 4 ආකෘති පත්‍රය</b></span><br><span style="font-size:13px;" class="tamil-font"><b>படிவம் பஒச 4</b></span><br><span style="font-size:15px"><b> FORM PCA 4</b></span></center>
+                    </td>
+                </tr>
+            </table>
+            <br>
+
+            <table width="100%" style="border:0;">
+                <tr style="border:0;">
+                    <td width="20%" style="border:0;"><span style="font-size: 17px;" class="sinhala-font"><b>සහතික පත්‍ර අංකය</b></span><br><span
+                            style="font-size: 14px;"><b><span class="tamil-font" style="font-size: 12px;">சான்றிதழ் இலக்கம்</span></b></span><br><span style="font-size: 14px;"><b>Certificate
+                            No.</b></span></td>
+                    <td width="2%" style="border:0; font-size: 45px;">&#125;</td>
+                    <td width="78%" style="border:0;"></td>
+                </tr>
+            </table>
+            <br>
+          
+
+            <table width="100%" style="border:0;padding: 0;">
+                <tr style="border:0;padding: 0;">
+                    <td style="border:0; padding: 0;  font-size: 16px;" class="sinhala-font">
+                        <center><b>කොන්ත්‍රාත්තුව ලියාපදිංචි
+                                    කිරීමේ සහතිකය</b></center>
+                    </td>
+                </tr>
+                <tr style="border:0;">
+                    <td style="border:0; font-size: 25px;">
+                        <center><span class=tamil-font style="font-size: 13px;"><b>ஓப்பந்தப் பதிவூச் சான்றிதழ்</b></span></center>
+                    </td>
+                </tr>
+                <tr style="border:0;">
+                    <td style="border:0; font-size: 14px;">
+                        <center><b>Certificate
+                                    of Registration of Contract</b></center>
+                    </td>
+                </tr>
+            </table>
+            <hr style="width: 150px; color: #000000;" >
 
             <table style="border:0;">
                 <tr style="border:0;">
-                    <td style="border:0; line-height: 3" class="sinhala-font">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <td style="border:0; line-height: 2" class="sinhala-font">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         1987 අංක 3 දරන පොදු කොන්ත්‍රාත් ගිවිසුම් පනතේ 11(1) වගන්තිය පරිදි (අ)<br>
                         blank හි blank
                         හා (ආ) <br> blank
@@ -75,7 +117,7 @@
                     </td>
                 </tr>
                 <tr style="border:0;">
-                    <td style="border:0; line-height: 3" class="tamil-font">(இ) ------------------------------------------------------------தொடா;பில் (அ)------------------------------------------------------------------------------- 
+                    <td style="border:0; line-height: 2" class="tamil-font">(இ) ------------------------------------------------------------தொடா;பில் (அ)------------------------------------------------------------------------------- 
 -------------------------------------------------------- ஐச் சோ;ந்த ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------- என்பவருக்கும் (ஆ)----------------------------------------------------------------------------
 ஐச் சோ;ந்த என்பவருக்குமிடையில் இரண்டாயிரத்து ---------------------------------------------------------------------------------------
@@ -106,9 +148,9 @@
                 </tr>
                 <tr style="border:0;">
                     <td width="5%" style="border:0;" class="sinhala-font"></td>
-                    <td width="95%" style=" border:0; padding-bottom:8px;" class="tamil-font">இரண்டாயிரத்-------------------------------------------------------- ஆம் ஆண்டு-------------------------------------------------------------------------
-மாதம் ----------------------------------------------------------------------- ஆம் நாளாகிய இன்று ----------------------------------------------------
-கொழும்பில் ---------------------------------------------------------------------------------------------------------------------------------------------------------
+                    <td width="95%" style=" border:0; padding-bottom:8px; line-height: 2; word-break: break-all;" class="tamil-font">இரண்டாயிரத்----------------------------------- ஆம் ஆண்டு--------------------------------------------------------
+மாதம் -------------------------------------------------------- ஆம் நாளாகிய இன்று -----------------------------------------------
+கொழும்பில் ---------------------------------------------------------------------------------------------------------------------------------------------
 எனது கைப்பட கொடுக்கப்பட்டது.</td>
                 </tr>
                 <tr style="border:0;">
@@ -156,7 +198,7 @@
                             <tr  style="border:0">
                                 <td style="border:0; padding: 0;">
                                     <center><span class="sinhala-font">පොදු කොන්ත්‍රාත් ගිවිසුම් රෙජිස්ට්‍රාර්.</span><br><span
-                                    class="tamil-font">சபகிரங்க ஒப்பந்தங்கள் பதிவாளர்</span><br>Registrar of Public Contracts</center>
+                                    class="tamil-font">பகிரங்க ஒப்பந்தங்கள் பதிவாளர்</span><br>Registrar of Public Contracts</center>
                                 </td>
                             </tr>
                         </table>
@@ -165,6 +207,8 @@
             </table>
             <br>
             <hr style="width:350px; color: #000000; text-align: left;"  align="left">
+            <br>
+            <br>
 
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; padding: 0;">
@@ -175,7 +219,7 @@
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;padding: 0;" class="tamil-font">(அ)</td>
-                    <td width="50%" style="border: 0; padding: 0; " class="tamil-font">ஒப்பந்தக்காரரின் பெயரும் முகவரியூம</td>
+                    <td width="50%" style="border: 0; padding: 0; " class="tamil-font">ஒப்பந்தக்காரரின் பெயரும் முகவரியும</td>
                     <td width="48%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
@@ -190,20 +234,20 @@
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; padding: 0;">
                     <td width="2%" style="border: 0; padding: 0; padding: 0;" class="sinhala-font">(ආ)</td>
-                    <td width="40%" style="border: 0; padding: 0; " class="sinhala-font">කොන්ත්‍රාත්කරුගේ නම සහ ලිපිනය</td>
-                    <td width="58%" style="border: 0; padding: 0;"></td>
+                    <td width="45%" style="border: 0; padding: 0; " class="sinhala-font">කොන්ත්‍රාත්කරුගේ නම සහ ලිපිනය</td>
+                    <td width="53%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;padding: 0;" class="tamil-font">(ஆ)</td>
-                    <td width="40%" style="border: 0; padding: 0; " class="tamil-font">ஒப்பந்தத்தை வழங்கும் ஆளின் பெயரும் முகவரியூம் :-
+                    <td width="45%" style="border: 0; padding: 0; " class="tamil-font">ஒப்பந்தத்தை வழங்கும் ஆளின் பெயரும் முகவரியும் :-
 
  </td>
-                    <td width="56%" style="border: 0; padding: 0;"></td>
+                    <td width="53%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;padding: 0;">(b)</td>
-                    <td width="40%" style="border: 0; padding: 0;">Name and Address of Contractor</td>
-                    <td width="56%" style="border: 0; padding: 0;"></td>
+                    <td width="45%" style="border: 0; padding: 0;">Name and Address of Contractor</td>
+                    <td width="53%" style="border: 0; padding: 0;"></td>
                 </tr>
             </table>
             <br>
@@ -226,14 +270,14 @@
                 </tr>
             </table>
             <br>
-            <p style="page-break-before:always"></p>
+            <!-- <p style="page-break-before:always"></p> -->
 
             <br>
             <br>
 
             <table style="border: 0;">
                 <tr style="border: 0;">
-                    <td style="border: 0;"><span class="sinhala-font">අළුත්කිරීම්</span><br>Renewals:-</td>
+                    <td style="border: 0;"><span class="sinhala-font">අළුත්කිරීම්</span><br><span class="tamil-font">புதுப்பித்தல்கள்:</span><br>Renewals:-</td>
                 </tr>
             </table>
 
@@ -242,6 +286,11 @@
                     <td width="1%" style="border: 0; padding: 0; padding: 0;" class="sinhala-font"></td>
                     <td style="border: 0; padding: 0" class="sinhala-font">1 වැනි.............................. දින සිට
                         අවුරුද්දක කාලයක් සඳහා අළුත් කරන ලදී</td>
+                    <td style="border: 0;"></td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="1%" style="border: 0;padding: 0;"></td>
+                    <td style="border: 0; padding: 0" class="tamil-font">1 வது ………… ஆம் தேதி முதல் ஓராண்டு காலப்பகுதி ஒன்றுக்குப் புதுப்பிக்கப்பட்டுள்ளது.</td>
                     <td style="border: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
@@ -260,7 +309,7 @@
                     <td width="1%" style="border: 0; padding: 0;padding: 0;"></td>
                     <td style="border: 0;"></td>
                     <td style="border: 0;">
-                        <center><span class="sinhala-font">පොදු කොන්ත්‍රාත් ගිවිසුම් රෙජිස්ට්‍රාර්.</span><br>Registrar
+                        <center><span class="sinhala-font">පොදු කොන්ත්‍රාත් ගිවිසුම් රෙජිස්ට්‍රාර්.</span><br><span class="tamil-font">பகிகரங்க ஒப்பந்தங்கள் பதிவாளர</span><br>Registrar
                             of Public Contracts</center>
                     </td>
                 </tr>
@@ -273,7 +322,7 @@
                     <td width="92%" style="border: 0; padding: 0;" rowspan="3">.............</td>
                 </tr>
                 <tr style="border: 0;">
-                    <td width="4%" style="border: 0; padding: 0; " class="tamil-font">பெயர்</td>
+                    <td width="4%" style="border: 0; padding: 0; " class="tamil-font">திகதி</td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="4%" style="border: 0; padding: 0;">Date</td>
@@ -285,6 +334,11 @@
                     <td width="1%" style="border: 0;padding: 0;"></td>
                     <td style="border: 0; padding: 0" class="sinhala-font">2 වැනි.............................. දින සිට
                         අවුරුද්දක කාලයක් සඳහා අළුත් කරන ලදී</td>
+                    <td style="border: 0;"></td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="1%" style="border: 0;padding: 0;"></td>
+                    <td style="border: 0; padding: 0" class="tamil-font">2 வது ………… ஆம் தேதி முதல் ஓராண்டு காலப்பகுதி ஒன்றுக்குப் புதுப்பிக்கப்பட்டுள்ளது.</td>
                     <td style="border: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
@@ -303,7 +357,7 @@
                     <td width="1%" style="border: 0;padding: 0;"></td>
                     <td style="border: 0;"></td>
                     <td style="border: 0; ">
-                        <center><span class="sinhala-font">පොදු කොන්ත්‍රාත් ගිවිසුම් රෙජිස්ට්‍රාර්.</span><br>Registrar
+                        <center><span class="sinhala-font">පොදු කොන්ත්‍රාත් ගිවිසුම් රෙජිස්ට්‍රාර්.</span><br><span class="tamil-font">பகிகரங்க ஒப்பந்தங்கள் பதிவாளர</span><br>Registrar
                             of Public Contracts</center>
                     </td>
                 </tr>
@@ -321,7 +375,7 @@
                     <td width="92%" style="border: 0; padding: 0;" rowspan="3">.............</td>
                 </tr>
                 <tr style="border: 0;">
-                    <td width="4%" style="border: 0; padding: 0; " class="tamil-font">பெயர்</td>
+                    <td width="4%" style="border: 0; padding: 0; " class="tamil-font">திகதி</td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="4%" style="border: 0; padding: 0;">Date</td>
@@ -334,6 +388,11 @@
                     <td width="1%" style="border: 0; padding: 0"></td>
                     <td style="border: 0; padding: 0" class="sinhala-font">3 වැනි.............................. දින සිට
                         අවුරුද්දක කාලයක් සඳහා අළුත් කරන ලදී</td>
+                    <td style="border: 0;"></td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="1%" style="border: 0;padding: 0;"></td>
+                    <td style="border: 0; padding: 0" class="tamil-font">3 வது ………… ஆம் தேதி முதல் ஓராண்டு காலப்பகுதி ஒன்றுக்குப் புதுப்பிக்கப்பட்டுள்ளது.</td>
                     <td style="border: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
@@ -352,7 +411,7 @@
                     <td width="1%" style="border: 0; padding: 0;padding: 0;"></td>
                     <td style="border: 0;"></td>
                     <td style="border: 0;">
-                        <center><span class="sinhala-font">පොදු කොන්ත්‍රාත් ගිවිසුම් රෙජිස්ට්‍රාර්.</span><br>Registrar
+                        <center><span class="sinhala-font">පොදු කොන්ත්‍රාත් ගිවිසුම් රෙජිස්ට්‍රාර්.</span><br><span class="tamil-font">பகிகரங்க ஒப்பந்தங்கள் பதிவாளர</span><br>Registrar
                             of Public Contracts</center>
                     </td>
                 </tr>
@@ -365,7 +424,7 @@
                     <td width="92%" style="border: 0; padding: 0;" rowspan="3">.............</td>
                 </tr>
                 <tr style="border: 0;">
-                    <td width="4%" style="border: 0; padding: 0; " class="tamil-font">பெயர்</td>
+                    <td width="4%" style="border: 0; padding: 0; " class="tamil-font">திகதி</td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="4%" style="border: 0; padding: 0;">Date</td>
