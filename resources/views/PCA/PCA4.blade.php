@@ -277,7 +277,7 @@
 
             <table style="border: 0;">
                 <tr style="border: 0;">
-                    <td style="border: 0;"><span class="sinhala-font">අළුත්කිරීම්</span><br>Renewals:-</td>
+                    <td style="border: 0;"><span class="sinhala-font">අළුත්කිරීම්</span><br><span class="tamil-font">புதுப்பித்தல்கள்:</span><br>Renewals:-</td>
                 </tr>
             </table>
 
@@ -286,6 +286,11 @@
                     <td width="1%" style="border: 0; padding: 0; padding: 0;" class="sinhala-font"></td>
                     <td style="border: 0; padding: 0" class="sinhala-font">1 වැනි.............................. දින සිට
                         අවුරුද්දක කාලයක් සඳහා අළුත් කරන ලදී</td>
+                    <td style="border: 0;"></td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="1%" style="border: 0;padding: 0;"></td>
+                    <td style="border: 0; padding: 0" class="tamil-font">1 வது ………… ஆம் தேதி முதல் ஓராண்டு காலப்பகுதி ஒன்றுக்குப் புதுப்பிக்கப்பட்டுள்ளது.</td>
                     <td style="border: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
@@ -304,7 +309,7 @@
                     <td width="1%" style="border: 0; padding: 0;padding: 0;"></td>
                     <td style="border: 0;"></td>
                     <td style="border: 0;">
-                        <center><span class="sinhala-font">පොදු කොන්ත්‍රාත් ගිවිසුම් රෙජිස්ට්‍රාර්.</span><br>Registrar
+                        <center><span class="sinhala-font">පොදු කොන්ත්‍රාත් ගිවිසුම් රෙජිස්ට්‍රාර්.</span><br><span class="tamil-font">பகிகரங்க ஒப்பந்தங்கள் பதிவாளர</span><br>Registrar
                             of Public Contracts</center>
                     </td>
                 </tr>
@@ -317,7 +322,7 @@
                     <td width="92%" style="border: 0; padding: 0;" rowspan="3">.............</td>
                 </tr>
                 <tr style="border: 0;">
-                    <td width="4%" style="border: 0; padding: 0; " class="tamil-font">பெயர்</td>
+                    <td width="4%" style="border: 0; padding: 0; " class="tamil-font">திகதி</td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="4%" style="border: 0; padding: 0;">Date</td>
@@ -329,6 +334,11 @@
                     <td width="1%" style="border: 0;padding: 0;"></td>
                     <td style="border: 0; padding: 0" class="sinhala-font">2 වැනි.............................. දින සිට
                         අවුරුද්දක කාලයක් සඳහා අළුත් කරන ලදී</td>
+                    <td style="border: 0;"></td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="1%" style="border: 0;padding: 0;"></td>
+                    <td style="border: 0; padding: 0" class="tamil-font">2 வது ………… ஆம் தேதி முதல் ஓராண்டு காலப்பகுதி ஒன்றுக்குப் புதுப்பிக்கப்பட்டுள்ளது.</td>
                     <td style="border: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
@@ -347,7 +357,7 @@
                     <td width="1%" style="border: 0;padding: 0;"></td>
                     <td style="border: 0;"></td>
                     <td style="border: 0; ">
-                        <center><span class="sinhala-font">පොදු කොන්ත්‍රාත් ගිවිසුම් රෙජිස්ට්‍රාර්.</span><br>Registrar
+                        <center><span class="sinhala-font">පොදු කොන්ත්‍රාත් ගිවිසුම් රෙජිස්ට්‍රාර්.</span><br><span class="tamil-font">பகிகரங்க ஒப்பந்தங்கள் பதிவாளர</span><br>Registrar
                             of Public Contracts</center>
                     </td>
                 </tr>
@@ -365,7 +375,7 @@
                     <td width="92%" style="border: 0; padding: 0;" rowspan="3">.............</td>
                 </tr>
                 <tr style="border: 0;">
-                    <td width="4%" style="border: 0; padding: 0; " class="tamil-font">பெயர்</td>
+                    <td width="4%" style="border: 0; padding: 0; " class="tamil-font">திகதி</td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="4%" style="border: 0; padding: 0;">Date</td>
@@ -378,6 +388,11 @@
                     <td width="1%" style="border: 0; padding: 0"></td>
                     <td style="border: 0; padding: 0" class="sinhala-font">3 වැනි.............................. දින සිට
                         අවුරුද්දක කාලයක් සඳහා අළුත් කරන ලදී</td>
+                    <td style="border: 0;"></td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="1%" style="border: 0;padding: 0;"></td>
+                    <td style="border: 0; padding: 0" class="tamil-font">3 வது ………… ஆம் தேதி முதல் ஓராண்டு காலப்பகுதி ஒன்றுக்குப் புதுப்பிக்கப்பட்டுள்ளது.</td>
                     <td style="border: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
@@ -396,7 +411,7 @@
                     <td width="1%" style="border: 0; padding: 0;padding: 0;"></td>
                     <td style="border: 0;"></td>
                     <td style="border: 0;">
-                        <center><span class="sinhala-font">පොදු කොන්ත්‍රාත් ගිවිසුම් රෙජිස්ට්‍රාර්.</span><br>Registrar
+                        <center><span class="sinhala-font">පොදු කොන්ත්‍රාත් ගිවිසුම් රෙජිස්ට්‍රාර්.</span><br><span class="tamil-font">பகிகரங்க ஒப்பந்தங்கள் பதிவாளர</span><br>Registrar
                             of Public Contracts</center>
                     </td>
                 </tr>
@@ -409,7 +424,7 @@
                     <td width="92%" style="border: 0; padding: 0;" rowspan="3">.............</td>
                 </tr>
                 <tr style="border: 0;">
-                    <td width="4%" style="border: 0; padding: 0; " class="tamil-font">பெயர்</td>
+                    <td width="4%" style="border: 0; padding: 0; " class="tamil-font">திகதி</td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="4%" style="border: 0; padding: 0;">Date</td>

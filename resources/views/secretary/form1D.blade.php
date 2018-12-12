@@ -90,7 +90,7 @@
                     <td width="30%" style="border: 0;padding: 0;"></td>
                     <td width="48%" style="border: 0; padding: 0; "></td>
                     <td width="10%" style="border: 0; padding: 0; " ></td>
-                    <td width="9%" style="border: 0; padding: 0; " class="tamil-font"> சார்பி ல</td>
+                    <td width="9%" style="border: 0; padding: 0; " class="tamil-font"> கம்பனிகள்</td>
                     <td width="1%" align="left"  style="border: 0; padding: 0; ">6</td>
                   
                 </tr>
@@ -157,7 +157,7 @@
                     <td style="border:0;padding: 0; font-size: 14px;">
                         <center><span class="sinhala-font" style="font-size:22px;"><b>ගණන් පරීක්ෂකයකු වශයෙන් ලියාපදිංචි කරන ලෙස ඉල්ලීම</b></span><br><br><span style="font-size:14px;" class="tamil-font"><b>கணக்குப் பரிசோதகராக பதிவூ செய்வதற்கு விண்ணப்பித்தல் </b></span><br><br><span style="font-size:15px;"><b>APPLICATION
                                     FOR REGISTRATION AS AN AUDITOR</b></span><br><b>7 <span class="sinhala-font-2" style="font-size:16px">
-                                   <b> (ඒ / බී) නියෝගය අනුවයි </b> </span> / TAMIL / Regulation 7 (a/b)</b></center>
+                                   <b> (ඒ / බී) නියෝගය අනුවයි </b> </span> / <span class="tamil-font">(7 அ ஆம் ஒழுங்கு விதியின்படி)</span> / Regulation 7 (a/b)</b></center>
                     </td>
                 </tr>
             </table>
@@ -599,7 +599,7 @@
             <table width="100%" style="border:0;">
                 <tr style="border:0; padding: 0;">
                     <td style="border:0;padding: 0; font-size: 10px;">
-                        <center><span style="font-size:14px;"><b>විස්තර උපලේඛනය</b></span><br style="font-size:10px;" ><span style="font-size:10px;" class="tamil-font"><b>விபர அட்டவணை</b></span><br
+                        <center><span style="font-size:14px;"><b>විස්තර උපලේඛනය</b></span><br ><span style="font-size:10px;" class="tamil-font"><b>விபர அட்டவணை</b></span><br
                                 style="font-size:10px;"><span style="font-size:10px;"><b>SCHEDULE OF PARTICULARS</b></span></center>
                     </td>
                 </tr>
