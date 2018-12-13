@@ -39,7 +39,7 @@
         }
 
         .english-font {
-            font-size: 9px;
+            font-size: 11px;
             font-family: 'SegoeUI', sans-serif;
         }
 
@@ -90,7 +90,7 @@
                     <td width="30%" style="border: 0;padding: 0;"></td>
                     <td width="48%" style="border: 0; padding: 0; "></td>
                     <td width="10%" style="border: 0; padding: 0; " ></td>
-                    <td width="9%" style="border: 0; padding: 0; " class="tamil-font"> சார்பி ல</td>
+                    <td width="9%" style="border: 0; padding: 0; " class="tamil-font"> கம்பனிகள்</td>
                     <td width="1%" align="left"  style="border: 0; padding: 0; ">6</td>
                   
                 </tr>
@@ -157,7 +157,7 @@
                     <td style="border:0;padding: 0; font-size: 14px;">
                         <center><span class="sinhala-font" style="font-size:22px;"><b>ගණන් පරීක්ෂකයකු වශයෙන් ලියාපදිංචි කරන ලෙස ඉල්ලීම</b></span><br><br><span style="font-size:14px;" class="tamil-font"><b>கணக்குப் பரிசோதகராக பதிவூ செய்வதற்கு விண்ணப்பித்தல் </b></span><br><br><span style="font-size:15px;"><b>APPLICATION
                                     FOR REGISTRATION AS AN AUDITOR</b></span><br><b>7 <span class="sinhala-font-2" style="font-size:16px">
-                                   <b> (ඒ / බී) නියෝගය අනුවයි </b> </span> / TAMIL / Regulation 7 (a/b)</b></center>
+                                   <b> (ඒ / බී) නියෝගය අනුවයි </b> </span> / <span class="tamil-font">(7 அ ஆம் ஒழுங்கு விதியின்படி)</span> / Regulation 7 (a/b)</b></center>
                     </td>
                 </tr>
             </table>
@@ -599,7 +599,7 @@
             <table width="100%" style="border:0;">
                 <tr style="border:0; padding: 0;">
                     <td style="border:0;padding: 0; font-size: 10px;">
-                        <center><span style="font-size:14px;"><b>විස්තර උපලේඛනය</b></span><br style="font-size:10px;" ><span style="font-size:10px;" class="tamil-font"><b>விபர அட்டவணை</b></span><br
+                        <center><span style="font-size:14px;"><b>විස්තර උපලේඛනය</b></span><br ><span style="font-size:10px;" class="tamil-font"><b>விபர அட்டவணை</b></span><br
                                 style="font-size:10px;"><span style="font-size:10px;"><b>SCHEDULE OF PARTICULARS</b></span></center>
                     </td>
                 </tr>
@@ -608,19 +608,19 @@
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; padding: 0;">
                     <td width="2%" style="border: 0; padding: 0;" class="sinhala-font">1.</td>
-                    <td width="22%" style="border: 0; padding: 0;" class="sinhala-font">ඉල්ලුම්කරුගේ සම්පුර්ණ නම </td>
-                    <td width="2%" style="font-size:32px;" rowspan="3"  align="left" >&#125; </td>
-                    <td width="74%" style="border: 0; padding: 0;"></td>
+                    <td width="31%" style="border: 0; padding: 0;" class="sinhala-font">ඉල්ලුම්කරුගේ සම්පුර්ණ නම </td>
+                    <td width="2%" style="font-size:35px;" rowspan="3"  align="left" >&#125; </td>
+                    <td width="65%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;padding: 0;" class="tamil-font"></td>
-                    <td width="22%" style="border: 0; padding: 0;" class="tamil-font">விண்ணப்பம் செய்பவரின் முழப்பெயர்</td>
-                    <td width="74%" style="border: 0; padding: 0;"></td>
+                    <td width="31%" style="border: 0; padding: 0;" class="tamil-font">விண்ணப்பம் செய்பவரின் முழப்பெயர்</td>
+                    <td width="65%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;padding: 0;"></td>
-                    <td width="22%" style="border: 0; padding: 0;" class="english-font">Full Name of Appicant</td>
-                    <td width="74%" style="border: 0; padding: 0;"></td>
+                    <td width="31%" style="border: 0; padding: 0;" >Full Name of Appicant</td>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+                    <td width="65%" style="border: 0; padding: 0;"></td>
                 </tr>
             </table>
             <br>
@@ -628,6 +628,27 @@
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; ">
                     <td width="2%" style="border: 0; padding: 0;" class="number">2.</td>
+                    <td width="20%" style="border: 0; padding: 0; " class="sinhala-font">ඉල්ලුම්කරුගේ ලිපිනය</td>
+                    <td width="2%" style="font-size:32px;" rowspan="3"  align="left" >&#125; </td>
+                    <td width="76%" style="border: 0; padding: 0;"></td>
+
+                </tr>
+                <tr style="border: 0; ">
+                    <td width="2%" style="border: 0; padding: 0;"></td>
+                    <td width="20%" style="border: 0; padding: 0; " class="tamil-font">Tamil</td>
+                    <td width="76%" style="border: 0; padding: 0;"></td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="2%" style="border: 0; padding: 0;"></td>
+                    <td width="20%" style="border: 0; padding: 0;" class="english-font">English</td>
+                    <td width="76%" style="border: 0; padding: 0;"></td>
+                </tr>
+            </table>
+            <br>
+
+            <table width="100%" style="border: 0;">
+                <tr style="border: 0; ">
+                    <td width="2%" style="border: 0; padding: 0;" class="number">3.</td>
                     <td width="30%" style="border: 0; padding: 0; " class="sinhala-font">ව්‍යාපාරික නමක් ඇතොත්
                         ව්‍යාපාරික නම</td>
                     <td width="2%" style="font-size:32px;" rowspan="3"  align="left" >&#125; </td>
@@ -649,41 +670,21 @@
 
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; ">
-                    <td width="2%" style="border: 0; padding: 0;" class="number">3.</td>
-                    <td width="13%" style="border: 0; padding: 0; " class="sinhala-font">ව්‍යාපාරික ලිපිනය
+                    <td width="2%" style="border: 0; padding: 0;" class="number">4.</td>
+                    <td width="15%" style="border: 0; padding: 0; " class="sinhala-font">ව්‍යාපාරික ලිපිනය
                     </td>
                     <td width="2%" style="font-size:32px;" rowspan="3" align="left" >&#125; </td>
-                    <td width="83%" style="border: 0; padding: 0;"></td>
+                    <td width="81%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0; ">
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="13%" style="border: 0; padding: 0; " class="tamil-font">வியாபார முகவரி</td>
-                    <td width="83%" style="border: 0; padding: 0;"></td>
+                    <td width="15%" style="border: 0; padding: 0; " class="tamil-font">வியாபார முகவரி</td>
+                    <td width="81%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="13%" style="border: 0; padding: 0;" class="english-font">Business Address</td>
-                    <td width="83%" style="border: 0; padding: 0;"></td>
-                </tr>
-            </table>
-            <br>
-
-            <table width="100%" style="border: 0;">
-                <tr style="border: 0; ">
-                    <td width="2%" style="border: 0; padding: 0;" class="number">4.</td>
-                    <td width="10%" style="border: 0; padding: 0;" class="sinhala-font">උපන් දිනය</td>
-                    <td width="2%" style="font-size:32px;" rowspan="3"  align="left" >&#125; </td>
-                    <td width="86%" style="border: 0; padding: 0;"></td>
-                </tr>
-                <tr style="border: 0; ">
-                    <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="10%" style="border: 0; padding: 0; " class="tamil-font">பிறந்த திகதி</td>
-                    <td width="86%" style="border: 0; padding: 0;"></td>
-                </tr>
-                <tr style="border: 0;">
-                    <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="10%" style="border: 0; padding: 0;" class="english-font">Date of birth</td>
-                    <td width="86%" style="border: 0; padding: 0;"></td>
+                    <td width="15%" style="border: 0; padding: 0;" class="english-font">Business Address</td>
+                    <td width="81%" style="border: 0; padding: 0;"></td>
                 </tr>
             </table>
             <br>
@@ -691,25 +692,45 @@
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; ">
                     <td width="2%" style="border: 0; padding: 0;" class="number">5.</td>
-                    <td width="85%" style="border: 0; padding: 0; " class="sinhala-font">ගණක විද්‍යාව පිලිබඳ වෘත්තීය
+                    <td width="12%" style="border: 0; padding: 0;" class="sinhala-font">උපන් දිනය</td>
+                    <td width="2%" style="font-size:32px;" rowspan="3"  align="left" >&#125; </td>
+                    <td width="84%" style="border: 0; padding: 0;"></td>
+                </tr>
+                <tr style="border: 0; ">
+                    <td width="2%" style="border: 0; padding: 0;"></td>
+                    <td width="12%" style="border: 0; padding: 0; " class="tamil-font">பிறந்த திகதி</td>
+                    <td width="84%" style="border: 0; padding: 0;"></td>
+                </tr>
+                <tr style="border: 0;">
+                    <td width="2%" style="border: 0; padding: 0;"></td>
+                    <td width="12%" style="border: 0; padding: 0;" class="english-font">Date of birth</td>
+                    <td width="84%" style="border: 0; padding: 0;"></td>
+                </tr>
+            </table>
+            <br>
+
+            <table width="100%" style="border: 0;">
+                <tr style="border: 0; ">
+                    <td width="2%" style="border: 0; padding: 0;" class="number">6.</td>
+                    <td width="95%" style="border: 0; padding: 0; " class="sinhala-font">ගණක විද්‍යාව පිලිබඳ වෘත්තීය
                         සුදුසුකම් අවශ්‍ය තන්හිදී ගණන් තැබීමේ හා ගණන් පරීක්ෂා කිරීමේ පලපුරුද්ද ඇතුලත්ව</td>
                     <td width="2%" style="font-size:32px;" rowspan="3"  align="left" >&#125; </td>
                     <!-- <td width="26%" style="border: 0; padding: 0;"></td> -->
                 </tr>
                 <tr style="border: 0; ">
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="85%" style="border: 0; padding: 0; " class="tamil-font">வியாபாரம் சம்பந்தமான கணக்கியற் தகைமைகள் தேவையாகில் பிரிசோதித்தல்இ கணக்கியலிலுள்ள அனுபவங்கள்</td>
+                    <td width="95%" style="border: 0; padding: 0; " class="tamil-font">வியாபாரம் சம்பந்தமான கணக்கியற் தகைமைகள் தேவையாகில் பிரிசோதித்தல்இ கணக்கியலிலுள்ள அனுபவங்கள்</td>
                     <!-- <td width="26%" style="border: 0; padding: 0;"></td> -->
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="85%" style="border: 0; padding: 0;" class="english-font">Professional Accountancy
+                    <td width="95%" style="border: 0; padding: 0;" class="english-font">Professional Accountancy
                         Qualifications including experience in Accounting and Auditing where necessary</td>
                     <!-- <td width="26%" style="border: 0; padding: 0;"></td> -->
                 </tr>
                 <tr style="border: 0; ">
                     <td width="2%" style="border: 0; padding: 0;" ></td>
-                    <td width="85%" style="border: 0; padding: 0; " class="sinhala-font"></td>
+                    <td width="95%" style="border: 0; padding: 0; " class="sinhala-font"></td>
                    
                     <!-- <td width="26%" style="border: 0; padding: 0;"></td> -->
                 </tr>
@@ -721,9 +742,9 @@
             <table width="100%" style="border:0;">
                 <tr style="border:0; padding: 0;">
                     <td style="border:0;padding: 0; font-size: 12px;">
-                        <center><span style="font-size: 12px;">(සහතික හෝ මුල් ඩිප්ලෝමා ආදියෙහි ඡායා පිටපත් අමුණන්න)</span><br
-                                ><span style="font-size: 12px;">Tamil</span><br style="font-size:9px;"><span
-                                style="font-size: 12px;">(Enclose copy of certificates or diplomas)</span></center>
+                        <center><span >(සහතික හෝ මුල් ඩිප්ලෝමා ආදියෙහි ඡායා පිටපත් අමුණන්න)</span><br
+                                ><span  class="tamil-font">(தராதரப் பத்திரங்கள் அல்லது டிப்ளோமாக்களின் மூலப் பிரதிகளை இணைக்குக)</span><br style="font-size:9px;"><span
+                                >(Enclose copy of certificates or diplomas)</span></center>
                     </td>
                 </tr>
             </table>
@@ -732,54 +753,56 @@
 
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; ">
-                    <td width="2%" style="border: 0; padding: 0;" class="number">6.</td>
-                    <td width="8%" style="border: 0; padding: 0;" class="sinhala-font">පුරවැසි බව</td>
-                    <td width="2%" style="font-size:32px;" rowspan="3"  align="left" >&#125; </td>
-                    <td width="79%" style="border: 0; padding: 0;"></td>
                     <td width="2%" style="border: 0; padding: 0;" class="number">7.</td>
-                    <td width="5%" style="border: 0; padding: 0;" class="sinhala-font">ජාතිකත්වය</td>
+                    <td width="10%" style="border: 0; padding: 0;" class="sinhala-font">පුරවැසි බව</td>
                     <td width="2%" style="font-size:32px;" rowspan="3"  align="left" >&#125; </td>
+                    <td width="47%" style="border: 0; padding: 0;"></td>
+                    <td width="2%" style="border: 0; padding: 0;" class="number">8.</td>
+                    <td width="12%" style="border: 0; padding: 0;" class="sinhala-font">ජාතිකත්වය</td>
+                    <td width="2%" style="font-size:32px;" rowspan="3"  align="left" >&#125; </td>
+                    <td width="20%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0; ">
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="8%" style="border: 0; padding: 0;" class="tamil-font">Tamil</td>
-                    <td width="79%" style="border: 0; padding: 0;"></td>
+                    <td width="10%" style="border: 0; padding: 0;" class="tamil-font">தேசம்</td>
+                    <td width="47%" style="border: 0; padding: 0;"></td>
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="5%" style="border: 0; padding: 0;" class="tamil-font">Tamil</td>
+                    <td width="12%" style="border: 0; padding: 0;" class="tamil-font">தேசிய இனம்</td>
                     <td width="20%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="8%" style="border: 0; padding: 0;" class="english-font">Nationality</td>
-                    <td width="79%" style="border: 0; padding: 0;"></td>
+                    <td width="10%" style="border: 0; padding: 0;" class="english-font">Nationality</td>
+                    <td width="47%" style="border: 0; padding: 0;"></td>
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="5%" style="border: 0; padding: 0;" class="english-font">Race</td>
+                    <td width="12%" style="border: 0; padding: 0;" class="english-font">Race</td>
+                    <td width="20%" style="border: 0; padding: 0;"></td>
                 </tr>
             </table>
             <br>
 
             <!-- ------------------------------------------------8--------------- ------------------------------------------
             -----------------------------------------------------------------------------------------------------------------
-            ----------------------------------------------------------------------------------------------------------------------->
+            ------------------------------------------------------------------------------------------------------------------------ -->
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; ">
                     <td width="2%" style="border: 0; padding: 0;" class="number">8.</td>
-                    <td width="45%" style="border: 0; padding: 0; " class="sinhala-font">ඉල්ලුම්කරු ශ්‍රී ලාංකිකයෙක්
+                    <td width="70%" style="border: 0; padding: 0; " class="sinhala-font">ඉල්ලුම්කරු ශ්‍රී ලාංකිකයෙක්
                         නොවේ නම් -
                         </td>
                     <td width="2%" 8 style="border: 0; padding: 0;" rowspan="3"></td>
-                    <td width="51%" style="border: 0; padding: 0;"></td>
+                    <td width="26%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0; ">
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="45%" style="border: 0; padding: 0; " class="tamil-font">Tamil - </td>
-                    <td width="51%" style="border: 0; padding: 0;"></td>
+                    <td width="70%" style="border: 0; padding: 0; " class="tamil-font">விண்ணப்பம் செய்பவர் இலங்கையரல்லாதவரானால் பின்வருவனவற்றைக் குறிப்பிடுக</td>
+                    <td width="26%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="45%" style="border: 0; padding: 0;" class="english-font">If the Applicant is a non - Sri
+                    <td width="70%" style="border: 0; padding: 0;" >If the Applicant is a non - Sri
                         Lankan, state -</td>
-                    <td width="51%" style="border: 0; padding: 0;"></td>
+                    <td width="26%" style="border: 0; padding: 0;"></td>
                 </tr>
             </table>
             <br>
@@ -794,17 +817,17 @@
                     <td width="66%" style="border: 0; padding: 0;"></td>
 
                 </tr>
-                <tr style="border: 0; ">
+                <tr style="border: 0; ">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv                              bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
                     <td width="6%" style="border: 0; padding: 0;"></td>
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="23%" style="border: 0; padding: 0;" class="tamil-font">&nbsp;Tamil</td>
+                    <td width="23%" style="border: 0; padding: 0;" class="tamil-font">&nbsp;எங்கு குடியேறியிருக்கிறார</td>
                     <td width="66%" style="border: 0; padding: 0;"></td>
 
                 </tr>
                 <tr style="border: 0;">
                     <td width="6%" style="border: 0; padding: 0;"></td>
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="23%" style="border: 0; padding: 0;" class="english-font">&nbsp;Where domiciled ?</td>
+                    <td width="23%" style="border: 0; padding: 0;" >&nbsp;Where domiciled ?</td>
                     <td width="66%" style="border: 0; padding: 0;"></td>
 
                 </tr>
@@ -815,25 +838,25 @@
                 <tr style="border: 0; ">
                     <td width="6%" style="border: 0; padding: 0;"></td>
                     <td width="2%" style="border: 0; padding: 0;">(ii)</td>
-                    <td width="27%" style="border: 0; padding: 0; " class="sinhala-font">&nbsp;ශ්‍රී ලංකාවේ පදිංචියට
+                    <td width="32%" style="border: 0; padding: 0; " class="sinhala-font">&nbsp;ශ්‍රී ලංකාවේ පදිංචියට
                     පැමිණි දිනය?</td>
                     <td width="2%" style="font-size:33px;" rowspan="3"  align="left" >&#125; </td>
-                    <td width="63%" style="border: 0; padding: 0;"></td>
+                    <td width="58%" style="border: 0; padding: 0;"></td>
 
                 </tr>
                 <tr style="border: 0; ">
                     <td width="6%" style="border: 0; padding: 0;"></td>
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="27%" style="border: 0; padding: 0;" class="tamil-font">&nbsp;Tamil</td>
-                    <td width="63%" style="border: 0; padding: 0;"></td>
+                    <td width="32%" style="border: 0; padding: 0;" class="tamil-font">&nbsp;இலங்கையில் குடியேறிய திகதி</td>
+                    <td width="58%" style="border: 0; padding: 0;"></td>
 
                 </tr>
                 <tr style="border: 0;">
                     <td width="6%" style="border: 0; padding: 0;"></td>
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="27%" style="border: 0; padding: 0;" class="english-font">&nbsp;Date of taking up
+                    <td width="32%" style="border: 0; padding: 0;" class="english-font">&nbsp;Date of taking up
                         residence in Sri Lanka?</td>
-                    <td width="63%" style="border: 0; padding: 0;"></td>
+                    <td width="58%" style="border: 0; padding: 0;"></td>
 
                 </tr>
             </table>
@@ -844,27 +867,26 @@
                 <tr style="border: 0; ">
                     <td width="6%" style="border: 0; padding: 0;"></td>
                     <td width="2%" style="border: 0; padding: 0;">(iii)</td>
-                    <td width="45%" style="border: 0; padding: 0; " class="sinhala-font">&nbsp;ඉල්ලුම්කරු දිගටම ශ්‍රී
+                    <td width="80%" style="border: 0; padding: 0; " class="sinhala-font">&nbsp;ඉල්ලුම්කරු දිගටම ශ්‍රී
                         ලංකාවේ පදිංචිව
                         සිටින්නේ කවදා සිටද?</td>
                     <td width="2%" style="font-size:33px;" rowspan="3"  align="left" >&#125; </td>
+                    <td width="10%" style="border: 0; padding: 0;"></td>
 
                 </tr>
                 <tr style="border: 0; ">
                     <td width="6%" style="border: 0; padding: 0;"></td>
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="45%" style="border: 0; padding: 0;" class="tamil-font">&nbsp;கேள்விப்பத்திரம்
-                        கேட்கப்பட்ட
-                        பகிரங்க ஒப்பந்தத்தின் சுருக்கப் பெயர் </td>
-                    <td width="45%" style="border: 0; padding: 0;"></td>
+                    <td width="80%" style="border: 0; padding: 0;" class="tamil-font">&nbsp;விண்ணப்பம் செய்பவர் எந்தத் திதி தொடக்கம் தொடர்ந்து இலங்கையில் வசிக்கத் தொடங்கினார? </td>
+                    <td width="10%" style="border: 0; padding: 0;"></td>
 
                 </tr>
                 <tr style="border: 0;">
                     <td width="6%" style="border: 0; padding: 0;"></td>
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="45%" style="border: 0; padding: 0;" class="english-font">&nbsp;Date from which applicant
+                    <td width="80%" style="border: 0; padding: 0;" class="english-font">&nbsp;Date from which applicant
                         has been continously resident in Sri Lanka?</td>
-                    <td width="45%" style="border: 0; padding: 0;"></td>
+                    <td width="10%" style="border: 0; padding: 0;"></td>
 
                 </tr>
             </table>
@@ -874,26 +896,26 @@
                 <tr style="border: 0; ">
                     <td width="6%" style="border: 0; padding: 0;"></td>
                     <td width="3%" style="border: 0; padding: 0;">(iv)</td>
-                    <td width="86%" style="border: 0; padding: 0; " class="sinhala-font">&nbsp;ඉල්ලුම්කරුට අයිතිව ශ්‍රී
+                    <td width="90%" style="border: 0; padding: 0; " class="sinhala-font">&nbsp;ඉල්ලුම්කරුට අයිතිව ශ්‍රී
                         ලංකාවේ තිබෙන
                         නිශ්චල දේපල හා ශ්‍රී ලංකාවේ තිබෙන ඔහුගේ ස්ථිර අයිතිවාසිකම් පිළිබඳ විස්තර : - </td>
-                    <td width="5%" 8 style="border: 0; padding: 0;" rowspan="3"></td>
+                    <td width="1%" 8 style="border: 0; padding: 0;" rowspan="3"></td>
 
                 </tr>
                 <tr style="border: 0; ">
                     <td width="6%" style="border: 0; padding: 0;"></td>
                     <td width="3%" style="border: 0; padding: 0;"></td>
-                    <td width="86%" style="border: 0; padding: 0;" class="tamil-font">&nbsp;Tamil : - </td>
-                    <td width="5%" style="border: 0; padding: 0;"></td>
+                    <td width="90%" style="border: 0; padding: 0;" class="tamil-font">&nbsp;இலங்கையில் சொந்தமாயூள்ள அசைவற்ற ஆதனங்களின் விபரங்களும்இ நிரந்தரமான வேறு உரிமைகளும: - </td>
+                    <td width="1%" style="border: 0; padding: 0;"></td>
 
                 </tr>
                 <tr style="border: 0;">
                     <td width="6%" style="border: 0; padding: 0;"></td>
                     <td width="3%" style="border: 0; padding: 0;"></td>
-                    <td width="86%" style="border: 0; padding: 0;" class="english-font">&nbsp;Particulars of immovable
+                    <td width="90%" style="border: 0; padding: 0;" class="english-font">&nbsp;Particulars of immovable
                         property owned and other
                         interests in Sri Lanaka : -</td>
-                    <td width="5%" style="border: 0; padding: 0;"></td>
+                    <td width="1%" style="border: 0; padding: 0;"></td>
 
                 </tr>
             </table>
@@ -936,9 +958,9 @@
             <!------------------------------------------------------- 3 rd page ---------------------------------------------------------------
             -----------------------------------------------------------------------------------------------------------------------------------
             -------------------------------------------------------------------------------------------------------------------------------------
-            --------------------------------------------------------------------------------------------------------------------------------------->
+            ------------------------------------------------------------------------------------------------------------------------------------- -->
 
-            <table width="100%" style="border:0;">
+            <!-- <table width="100%" style="border:0;">
                 <tr style="border:0; padding: 0;">
                         <td width="98%" style="border:0;padding: 0; font-size: 12px;">
                                 
@@ -948,14 +970,14 @@
                     </td>
                 </tr>
             </table>
-            
+             -->
 
 
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; ">
                     <td width="6%" style="border: 0; padding: 0;"></td>
                     <td width="2%" style="border: 0; padding: 0;">(v)</td>
-                    <td width="80%" style="border: 0; padding: 0; " class="sinhala-font">තමාට ශ්‍රීලංකාවේ නිත්‍ය වාසයක්
+                    <td width="82%" style="border: 0; padding: 0; " class="sinhala-font">තමාට ශ්‍රීලංකාවේ නිත්‍ය වාසයක්
                         ඇති
                         බව සනාත කිරීමට ඉල්ලුම්කරු ඉදිරිපත් කරන වෙනත් කරුණු - </td>
 
@@ -964,14 +986,14 @@
                 <tr style="border: 0; ">
                     <td width="6%" style="border: 0; padding: 0;"></td>
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="80%" style="border: 0; padding: 0;" class="tamil-font">Tamil</td>
+                    <td width="82%" style="border: 0; padding: 0;" class="tamil-font">விண்ணப்பஞ் செய்பவர்இ தான் இலங்கையில் குடியேறியவர் என அத்தாட்சிப்படுத்துவதற்கு ஆதாரமாயூள்ள வேறு விபரங்கள</td>
 
 
                 </tr>
                 <tr style="border: 0;">
                     <td width="6%" style="border: 0; padding: 0;"></td>
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="80%" style="border: 0; padding: 0;" class="english-font">What other facts the applicant
+                    <td width="82%" style="border: 0; padding: 0;" class="english-font">What other facts the applicant
                         relies on to establish that he has a Sri Lanka domicile -
                         that he has a Ceylon domicile</td>
 
@@ -1024,54 +1046,54 @@
                 <tr style="border: 0; ">
                     <td width="2%" style="border: 0; padding: 0;" class="number">9.</td>
                     <td width="2%" style="border: 0; padding: 0;" class="sinhala-font">(අ)</td>
-                    <td width="65%" style="border: 0; padding: 0; " class="sinhala-font">නිසි අධිකරණ බලය ඇති උසාවියකින්
+                    <td width="85%" style="border: 0; padding: 0; " class="sinhala-font">නිසි අධිකරණ බලය ඇති උසාවියකින්
                         ඉල්ලුම්කරු සිහි විකලවුවෙකැයි විනිශ්චය කරනු ලැබුවේද ?</td>
                     <td width="2%" style="font-size:33px;" rowspan="3"  align="left" >&#125; </td>
-                    <td width="29%" style="border: 0; padding: 0;"></td>
+                    <td width="9%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0; ">
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="2%" style="border: 0; padding: 0;" class="tamil-font">(tamil)</td>
-                    <td width="65%" style="border: 0; padding: 0; " class="tamil-font">Tamil</td>
-                    <td width="29%" style="border: 0; padding: 0;"></td>
+                    <td width="2%" style="border: 0; padding: 0;" class="tamil-font">(அ)</td>
+                    <td width="85%" style="border: 0; padding: 0; " class="tamil-font">விண்ணப்பஞ் செய்பவர்இ சுயபுத்தியில்லாதவரெனத் தகுதி வாய்ந்த நீதிமன்றமொன்றினால் தீர்ப்பளிக்கப்பட்டவரா?</td>
+                    <td width="9%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0; padding: 0;"></td>
                     <td width="2%" style="border: 0; padding: 0;" class="english-font">(a)</td>
-                    <td width="65%" style="border: 0; padding: 0;" class="english-font">Has the applicant been adjudged
+                    <td width="85%" style="border: 0; padding: 0;" class="english-font">Has the applicant been adjudged
                         by a comentent court
                         to be of unsound mind?</td>
-                    <td width="29%" style="border: 0; padding: 0;"></td>
+                    <td width="9%" style="border: 0; padding: 0;"></td>
                 </tr>
-                <tr height="50" style="border: 0; ">
+            </table>
+            <br>
 
-                </tr>
-
+            <table width="100%" style="border: 0;">
                 <tr style="border: 0; ">
                     <td width="2%" style="border: 0; padding: 0;"></td>
                     <td width="2%" style="border: 0; padding: 0;" class="sinhala-font">(ආ)</td>
-                    <td width="80%" style="border: 0; padding: 0; " class="sinhala-font">ඉල්ලුම්කරු වස්තු භංගත්වයට
+                    <td width="85%" style="border: 0; padding: 0; " class="sinhala-font">ඉල්ලුම්කරු වස්තු භංගත්වයට
                         පත්වූවෙකු නොහොත් බංකොළොත්කාරයකු යයි විනිශ්චය කරනු ලැබුවේද ?</td>
                     <td width="2%" style="font-size:33px;" rowspan="3"  align="left" >&#125; </td>
-                    <td width="8%" style="border: 0; padding: 0;"></td>
+                    <td width="9%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0; ">
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="2%" style="border: 0; padding: 0;" class="tamil-font">(tamil)</td>
-                    <td width="80%" style="border: 0; padding: 0; " class="tamil-font">Tamil</td>
-                    <td width="10%" style="border: 0; padding: 0;"></td>
+                    <td width="2%" style="border: 0; padding: 0;" class="tamil-font">(ஆ)</td>
+                    <td width="85%" style="border: 0; padding: 0; " class="tamil-font">வகையற்றவர் அல்லது முறிந்தவர் என விண்ணப்பஞ் செய்பவர் மேல் எப்பொழுதாவது தீர்ப்பு கூறப்பட்டிருக்கிறதா?</td>
+                    <td width="9%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0; padding: 0;"></td>
                     <td width="2%" style="border: 0; padding: 0;" class="english-font">(b)</td>
-                    <td width="80%" style="border: 0; padding: 0;" class="english-font">Has the applicant been adjudged
+                    <td width="85%" style="border: 0; padding: 0;" class="english-font">Has the applicant been adjudged
                         an insolvent or
                         bankrupt?</td>
-                    <td width="10%" style="border: 0; padding: 0;"></td>
+                    <td width="9%" style="border: 0; padding: 0;"></td>
                 </tr>
             </table>
             <br>
-            <br>
+           
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; ">
                     <td width="1.5%" style="border: 0; padding: 0;"></td>
@@ -1082,8 +1104,8 @@
                 </tr>
                 <tr style="border: 0; ">
                     <td width="1.5%" style="border: 0; padding: 0;"></td>
-                    <td width="2%" style="border: 0; padding: 0;" class="tamil-font">(tamil)</td>
-                    <td width="90%" style="border: 0; padding: 0; " class="tamil-font">Tamil</td>
+                    <td width="2%" style="border: 0; padding: 0;" class="tamil-font">(இ)</td>
+                    <td width="90%" style="border: 0; padding: 0; " class="tamil-font">(ஆ) வூக்கான விடை உடன்பாடாகவிருந்தால் விண்ணப்பஞ் செய்பவரின் பணமுறிவூ அல்லது கடனிறுக்க வகையற்ற நிலை ஓரளவூக்கோஇ முற்றாகவோ தவிர்க்க முடியாத நட்டங்களினாலும் துரதிஷ்டத்தினாலுமே உண்டானவையென நீதிமன்றத்தால் நற்சாட்சிப்பத்திரம் வழங்கப்பட்டிருக்கிறதா?</td>
                     <td width="5%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
@@ -1131,8 +1153,8 @@
                 </tr>
                 <tr style="border: 0; ">
                     <td width="1.5%" style="border: 0; padding: 0;"></td>
-                    <td width="2%" style="border: 0; padding: 0;" class="tamil-font">(tamil)</td>
-                    <td width="90%" style="border: 0; padding: 0; " class="tamil-font">Tamil</td>
+                    <td width="2%" style="border: 0; padding: 0;" class="tamil-font">(ஈ)</td>
+                    <td width="90%" style="border: 0; padding: 0; " class="tamil-font">அபராதஞ் செலுத்தக்கூடிய தண்டனையைத் தவிரஇ நாடு கடத்தல் அல்லது சிறைவாசஞ் செய்தல் ஆகிய தண்டனைகளைப் பெறக்கூடpய குற்றங்களை விண்ணப்பஞ் செய்பவர் செய்ததாகத் தகுதிவாய்ந்த இலங்கை கோடுகளிலோஇ வெளிநாட்டுக் கோடுகளிலோ குற்றஞ் சாட்டப்பட்டவர் குற்றவாளியாகக் காணப்பட்டாரா?</td>
                     <td width="5%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
@@ -1181,12 +1203,12 @@
                 </tr>
                 <tr style="border: 0; ">
                     <td width="1.5%" style="border: 0; padding: 0;"></td>
-                    <td width="2%" style="border: 0; padding: 0;" class="tamil-font">(tamil)</td>
-                    <td width="90%" style="border: 0; padding: 0; " class="tamil-font">Tamil</td>
-                    <td width="5%" style="border: 0; padding: 0;"></td>
-                </tr>
-                <tr style="border: 0;">
-                    <td width="1.5%" style="border: 0; padding: 0;"></td>
+                    <td width="2%" style="border: 0; padding: 0;" class="tamil-font">(உ)</td>
+                    <td width="90%" style="border: 0; padding: 0; " class="tamil-font">(ஈ) க்கு விடை உடன்பாடாகவிருந்தால்மேன்முறையீட்டு விசாரணையில் குற்றஞ்சாட்டு தள்ளப்பட்டதா? ஆல்லது விண்ணப்பஞ் செய்பவர் மன்னிக்கப்பட்டாரா?</td>
+                    <td width="5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               %" style="border: 0; padding: 0;"></td>
+                </tr>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+                <tr style="borde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               r: 0;">
+                    <td width="1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               .5%" style="border: 0; padding: 0;"></td>
                     <td width="2%" style="border: 0; padding: 0;" class="english-font">(e)</td>
                     <td width="90%" style="border: 0; padding: 0;">If the answer to (d) is in the affirmative has the
                         convction been subsequently set aside in appeal, or has the applicant been pardoned.</td>
@@ -1233,7 +1255,7 @@
                 </tr>
                 <tr style="border: 0; ">
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="52%" style="border: 0; padding: 0; " class="tamil-font">Tamil</td>
+                    <td width="52%" style="border: 0; padding: 0; " class="tamil-font">விண்ணப்பஞ் செய்பவர்இ கூற விரும்பும வேறு விபரங்கள்:</td>
                     <td width="44%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
@@ -1270,8 +1292,7 @@
                 </tr>
                 <tr style="border: 0; ">
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td width="98%" style="border: 0; padding: 0;" class="sinhala-font">கேள்விப்பத்திரம் கேட்கப்பட்ட
-                        பகிரங்க ஒப்பந்தத்தின் சுருக்கப் பெயர்</td>
+                    <td width="98%" style="border: 0; padding: 0;" class="tamil-font">(அஇ ஆஇ இஇ ஈ அல்லது ஊ) இன் கீழ் தகுதியூள்ள விண்ணப்பக்காரர் 5(1) சட்டத்தின் கீழ் உப பகுதிகள்</td>
                 </tr>
                 <tr style="border: 0; ">
                     <td width="2%" style="border: 0; padding: 0;"></td>
@@ -1325,15 +1346,7 @@
                 </tr>
                 <tr style="border:0; padding: 0;">
                     <td style="border:0;padding: 0; font-size: 9px;">
-                        <span style="font-size:9px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I,
-                            ................................................................................................................................................................................
-                            of
-                            ............................................................................................................................................
-                            <br><br><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;do
-                                swear&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that
-                            the answers given in the Shedulers of Particulars above are,to the best of my do <br><br>
-                            solemnly,sincerely and truly,declare and affirm<br><br>knowledge and belief,true and
-                            accurate.</span>
+                        <span class="tamil-font">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;………………… ஐச் சேர்ந்த …………………. ஆகிய நான் விபர அட்டவணையில் தரப்பட்டுள்ள விடைகளும் எனது அறிவூக்கு எட்டியவரைஇ என் உண்மையான அபிப்பிராயப்படிஇ திட்டமானவை என்றும்   செம்மையானவை என்றும் சத்தியம் செய்கிறேன. விசுவாசமாகவூம் உண்மையாகவூம் வெளியிட்டு உறுதிப்படுத்துகிறேன். </span>
                     </td>
                 </tr>
             </table>
@@ -1348,8 +1361,8 @@
 
                 </tr>
                 <tr style="border:0; padding: 0;">
-                    <td style="border:0;padding: 0; font-size: 9px;">
-                        <span style="font-size:9px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I,
+                    <td style="border:0;padding: 0;">
+                        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I,
                             ................................................................................................................................................................................
                             of
                             ............................................................................................................................................
@@ -1454,7 +1467,7 @@
                 <tr style="border: 0;  font-size:9px">
                     <td width="46%" style="border: 0; "></td>
                     <td width="24%" style="border: 0; font-size:9px" ><span class="sinhala-font">අත්සන් කලේ </span><br>
-                        <span align="right" class="tamil-font">கேள்விப்பத்திரம்</span><br>
+                        <span align="right" class="tamil-font">கையொப்பிடப்பட்டது </span><br>
                         <span align="left">Signed</span>
                     </td>
                     <td width="2%" style="border: 0; padding: 0; font-size: 30px;">&#125;</td>
@@ -1466,7 +1479,7 @@
 
             </table>
 
-            <table style="border: 3px double black; margin-top:-50px; margin-left:380px;  " width="40%" height="20"> 
+            <!-- <table style="border: 3px double black; margin-top:-50px; margin-left:380px;  " width="40%" height="20"> 
                 <tr>
                     <td style="padding:0;  padding-top:5px;" class="sinhala-font" align="center">රුපියලක මුද්දරයක්</td>
                 </tr>
@@ -1487,7 +1500,7 @@
                     <td style="font-size:8px; padding:0; padding-left:5px;">Date</td>
                 </tr>
                           
-            </table>
+            </table> -->
 
            
 
@@ -1538,7 +1551,7 @@
                 <tr style="border: 0;  font-size:9px">
                     <td width="46%" style="border: 0; "></td>
                     <td width="45%" style="border: 0; font-size:9px" ><span class="sinhala-font">මා ඉදිරිපිටදී අත්සන් කළ බවට </span><br>
-                        <span align="right" class="tamil-font">கேள்விப்பத்திரம்</span><br>
+                        <span align="right" class="tamil-font">என் முன்னிலையில்</span><br>
                         <span align="left">Before me</span>
                     </td>
                     <td width="2%" style="border: 0; padding: 0; font-size:28px;">&#125;</td>
@@ -1552,7 +1565,7 @@
                     <td width="46%" style="border: 0; "></td>
                     <td width="45%" style="border: 0; font-size:9px" ><span class="sinhala-font" > <center> ........................................................................ <br>
                         <span align="center" class="sinhala-font">දිවුරුම් කොමසාරිස්/සාමදාන විනිශ්චයකාර</span><br>
-                        <span align="center">Tamil</span><br>
+                        <span align="center" class="tamil-font">சத்தியப்பிரமான ஆணையாளர் /சமாதான நீதவான்</span><br>
                         <span align="center">Commissioner
                             for Oaths/ Justice of the Peace.</span></center>
                     </td>

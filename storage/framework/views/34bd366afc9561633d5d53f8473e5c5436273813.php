@@ -97,7 +97,7 @@
 ககாடுக்கப்பட்டது .</div>
     <div class="english-font" style="line-height: 2; text-indent: 35px; margin-top:0px;">Given under my hand at Colombo this ................................................day of.......................... 20 ..................... </div>
 
-    <div><img width="200px" height="200px" style="margin-left:80px;margin-top:9px; margin-bottom:0px;" src="{{asset('/form-images/redSeal.jpg')}}" alt="gov_logo"></div>
+    <div><img width="200px" height="200px" style="margin-left:80px;margin-top:9px; margin-bottom:0px;" src="<?php echo e(asset('/form-images/redSeal.jpg')); ?>" alt="gov_logo"></div>
 
     <div style="margin-left:500px;margin-top:-160px;">......................................</div>
     <div style="margin-left:500px;margin-top:-5px;">

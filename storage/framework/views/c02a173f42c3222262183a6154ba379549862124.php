@@ -84,7 +84,8 @@
                 <tr style="border: 0;">
                     <td style="border: 0;">
                         <center><span class="sinhala-font" style="font-size:14px;"><b>සමාගම්වල (ගණන් පරීක්ෂකයන් පිළිබඳ) නියෝග 1964</b></span><br
-                                style="font-size:10px;"><span class="tamil-font" style="font-size:10px;"><b>1987 ஆம் ஆண்டின் கம்பனிகள் (செயலாளர்கள்) ஒழுங்குவிதிகள ;</b></span><br style="font-size:12px;"><span class="english-font" style="font-size:12px;"><b>THE COMPANIES (AUDITORS) REGULATIONS, 1964</b></span></center>
+                                style="font-size:10px;"><span class="tamil-font" style="font-size:10px;"><b>1964 ஆம் ஆண்டுக் கம்பனிகள் (கனக்காயவாளர் ) ஒலூங்குவிதிகள
+                                பகிரங்க பெயர்</b></span><br style="font-size:12px;"><span class="english-font" style="font-size:12px;"><b>THE COMPANIES (AUDITORS) REGULATIONS, 1964</b></span></center>
                     </td>
                 </tr>
             </table>
@@ -115,7 +116,7 @@
                     <tr style="border:0; padding: 0;">
                     	<td width="90%" style="border: 0; "></td>
                         <td width="10%" style="border: 0; " align="right">
-                        <img width="250" height="250" src="{{asset('/form-images/redSeal.jpg')}}" alt="Logo EROC">
+                        <img width="250" height="250" src="<?php echo e(asset('/form-images/redSeal.jpg')); ?>" alt="Logo EROC">
                         </td>         
                     </tr>
             </table>

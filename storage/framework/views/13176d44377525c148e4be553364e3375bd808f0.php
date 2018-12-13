@@ -46,7 +46,7 @@
         }
 
         .tamil-font {
-            font-size: 13px;
+            font-size: 10px;
             font-family:'latha', sans-serif;
         }
         span{
@@ -56,27 +56,27 @@
 </head>
 
 <body>
-<span>Hello</span>
+
     <table width="100%">
             <tr>
                 <td width="32%">
-                <!-- <table>
+                <table>
                 <tbody>
                     <tr>
                         <td style="font-size:12px; font-family: 'iskpota', sans-serif;">මිල</td>
                         <td rowspan="3" style="font-size: 40px;">
                         &#125;
                         </td>
-                        <td rowspan="3" style="font-size:14px;">&nbsp;&nbsp;  <span class="sinhala-font">රු.</span>/Ta./Rs. 10/-</td>
+                        <td rowspan="3" style="font-size:14px;">&nbsp;&nbsp;  <span class="sinhala-font">රු.</span>/<span class="tamil-font">ரூ.</span>/Rs. 10/-</td>
                     </tr>
                     <tr>
-                        <td style="font-size:12px;">Tamil</td>
+                        <td ><span class="tamil-font">விலை</span></td>
                     </tr>
                     <tr>
                         <td style="font-size:12px;">Price</td>
                     </tr>
                 </tbody>
-            </table>  -->
+            </table> 
                 </td>
                 <td width="58%"></td>
                 <td width="10%">
@@ -90,7 +90,7 @@
                         <td rowspan="3" style="font-size:12px;">&nbsp;&nbsp; 78/S</td>
                     </tr>
                     <tr>
-                        <td style="font-size:12px;">Tamil</td>
+                        <td><span class='tamil-font'>கம்பனிகள்</span></td>
                     </tr>
                     <tr>
                         <td style="font-size:12px;">Companies</td>
@@ -115,7 +115,7 @@
                 </tr>
                 <tr>
                     <td width="8%"></td>
-                    <td style="font-size:12px;">Tamil</td>
+                    <td><span class='tamil-font'>கட்டணம்</span></td>
                 </tr>
                 <tr>
                     <td width="8%"></td>
@@ -134,7 +134,7 @@
             <td align="center" style="font-size:16px;" class="sinhala-font"><b>1987 සමාගම් (ලේකම්වරයන් පිලිබඳ) නියෝග</b></td>
         </tr>
         <tr>
-            <td align="center"><b>1987 Tamil</b></td>
+            <td align="center"><b><span class='tamil-font' style="font-size: 11px;">1987 ஆம் ஆண்டின் கம்பனிகள் (செயலாளர்கள்) ஒழுங்குவிதிகள்</span></b></td>
         </tr>
         <tr>
             <td align="center" style="font-size:14px;"><b>THE COMPANIES (SECRETARIES) REGULATIONS 1987</b></td>
@@ -153,15 +153,19 @@
         <tr height="20">
             <td></td>
         </tr>
+        <br>
         <tr>
             <!-- <td width="10%"></td> -->
-            <td width="100%" align="center" style="font-size: 20px;"><b>Tamil<span><br>Tamil</span></b></td>
+            <td width="100%" align="center" >
+<b><span class='tamil-font' style="font-size: 16px;">செயலாளரொருவராகப் பதிவூ செய்யப்படுவதற்கான தனிப்பட்ட <br> ஒருவரின் விண்ணப்பம்</span>
+<br><span class='tamil-font' style="font-size: 12px;">(ஒழுங்குவிதி 6(2) ஐப் பின்பற்றியது)</span></b></td>
             <!-- <td width="10%"></td> -->
         </tr>
         <tr height="20">
             <td></td>
         </tr>
     </table>
+    <br>
     <table width="100%">
         <tr>
             <td width="100%" align="center" style="font-size: 18px; "><b>APPLICATION
@@ -180,7 +184,7 @@
         </tr>
         <tr>
             <td width="70%"></td>
-            <td width="13%" style="font-size: 13px;">Tamil</td>
+            <td width="13%"><span class='tamil-font'>விண்ணப்ப இல.</span></td>
         </tr>
         <tr>
             <td width="70%"></td>
@@ -198,7 +202,7 @@
         </tr>
         <tr>
             <td width="72%"></td>
-            <td width="13%" style="font-size: 13px;">Tamil</td>
+            <td width="13%"><span class='tamil-font'>பதிவூ இல.</span></td>
         </tr>
         <tr>
             <td width="72%"></td>
@@ -216,7 +220,7 @@
         </tr>
         <tr>
             <td width="2%" class="tamil-font"></td>
-            <td width="24%" class="tamil-font">Tamil</td>
+            <td width="24%" class="tamil-font">விண்ணப்பத்தாரரின் முழப்பெயர</td>
             <td width="72%"> &emsp;</td>
           
         </tr>
@@ -237,7 +241,7 @@
         </tr>
         <tr>
             <td width="2%" class="tamil-font"></td>
-            <td width="20%" class="tamil-font">Tamil</td>
+            <td width="20%" class="tamil-font">வதிவிட முகவரி </td>
         </tr>
         <tr>
             <td width="2%"></td>
@@ -255,7 +259,7 @@
         </tr>
         <tr>
             <td width="2%" class="tamil-font"></td>
-            <td width="25%" class="tamil-font">Tamil</td>
+            <td width="25%" class="tamil-font">வியாபாரப் பெயர், ஏதும் இருப்பிள் </td>
             <td width="71%"> &emsp;</td>
         </tr>
         <tr>
@@ -275,7 +279,7 @@
         </tr>
         <tr>
             <td width="2%" class="tamil-font"></td>
-            <td width="16%" class="tamil-font">Tamil</td>
+            <td width="16%" class="tamil-font">வியாபாரத்தல முகவர</td>
 
         </tr>
         <tr>
@@ -297,7 +301,7 @@
         </tr>
         <tr>
             <td width="2%" class="tamil-font"></td>
-            <td width="32%" class="tamil-font">Tamil</td>
+            <td width="32%" class="tamil-font">விண்ணப்பக்காரர் ஓர் இலங்ககைப் பிரசையா?</td>
             <td width="64%"> &emsp;</td>
         </tr>
         <tr>
@@ -316,7 +320,7 @@
         </tr>
         <tr>
             <td width="3%" class="tamil-font"></td>
-            <td width="97%" class="tamil-font">Tamil</td>
+            <td width="97%" class="tamil-font">ஒழுங்குவிதி 2(1)(ஆ) வின் எந்த உப வாசகத்தின் கீழ் விண்ணப்பக்காரர் தகைமை பெறுகிறார்?</td>
         </tr>
         <tr>
             <td width="3%"></td>
@@ -336,7 +340,8 @@
         </tr>
         <tr>
             <td width="2%" class="tamil-font"></td>
-            <td width="98%" class="tamil-font">Tamil</td>
+            <td width="98%" class="tamil-font">தொழிற்றுறைத் தகைமைகள் (தயைகூர்ந்து சான்றிதழ்களின் பிரதிகளை இணைக்கவூம் ; 
+மூலங்களையல்ல): </td>
         </tr>
         <tr>
             <td width="2%"></td>
@@ -363,7 +368,8 @@
         </tr>
         <tr style="border: 0;">
             <td width="2%" class="tamil-font"></td>
-            <td width="98%" class="tamil-font">Tamil</td>
+            <td width="98%" class="tamil-font">ஒழுங்குவிதி 2(1)(ஆ)(எii) அல்லது (எiii) இன் கீழ் தகைமை பெறும் விண்ணப்பக்காரரொருவரால்
+பூர்த்தி செய்யப்பட வேண்டியது.</td>
         </tr>
         <tr style="border: 0;">
             <td width="2%"></td>
@@ -381,7 +387,7 @@
         </tr>
         <tr style="border: 0;">
             <td width="2%" class="tamil-font"></td>
-            <td width="37%" class="tamil-font">(&nbsp;)&nbsp; Tamil</td>
+            <td width="37%" class="tamil-font">(அ)&nbsp; ஆகக் கூடிய கல்வித் தகைமை : </td>
             <td width="5%"> &emsp;</td>
         </tr>
         <tr style="border: 0;">
@@ -396,7 +402,7 @@
     <table width="100%">
         <tr>
             <td width="2%" class="sinhala-font"></td>
-            <td width="30%" class="sinhala-font">(ආ) () (b)</td>
+            <td width="30%" ><span class='sinhala-font'>(ආ)</span><span class='tamil-font'> (ஆ) </span>(b)</td>
             <td width="66%"></td>
         </tr>
     </table>
@@ -408,15 +414,17 @@
     <table width="100%">
         <tr>
             <td width="40%" style="border: 1px solid" align="center"><span class="sinhala-font">අයදුම්කරු සේවයේ යෙදී
-                    සිටි පොදු හා පෞද්ගලික ආයතනවල නම්</span><br><span class="tamil-font">Tamil</span><br>Name of Public
+                    සිටි පොදු හා පෞද්ගලික ආයතනවල නම්</span><br><span class="tamil-font">விண்ணப்பக்காரர் சேவையாற்றிய அரசாங்க அல்லது தனியார் துறைக் குழுவின் பெயர</span><br>Name of Public
                 or Private Sector body Applicant has served in</td>
             <td width="25%" style="border: 1px solid" align="center"><span class="sinhala-font">දැරූ තනතුරු/ තත්ත්වයන්</span><br><span
-                    class="tamil-font">Tamil</span><br>Positions held</td>
+                    class="tamil-font">விகித்த பணிநிலைகள</span><br>Positions held</td>
             <td width="35%" style="border: 1px solid" align="center"><span class="sinhala-font">සේවා කාලය<br>සිට
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    දක්වා</span><br><span class="tamil-font">Tamil</span><br>Period of Service<br>From
+                    දක්වා</span><br><span class="tamil-font">சேவைக்காலம்<br>இருந்து
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    வரை</span><br>Period of Service<br>From
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                To</td>
+                To</td>      
         </tr>
       
        
@@ -444,7 +452,8 @@
         </tr>
         <tr>
             <td width="2%" class="tamil-font"></td>
-            <td width="98%" class="tamil-font">(&nbsp;&nbsp;)&nbsp; Tamil</td>
+            <td width="98%" class="tamil-font">(இ)&nbsp; கம்பனியொன்றின் செயலாளருக்கான கடமைகளைப் புரிவதற்கு விண்ணப்பக்காரருக்கிருக்கும் சான்று
+அல்லது அவருக்குள்ள திறமை (சான்றிதழ்களின் பிரதிகள் இணைக்குக)</td>
         </tr>
         <tr>
             <td width="2%"></td>
@@ -474,7 +483,8 @@
         </tr>
         <tr>
             <td width="2%" class="tamil-font"></td>
-            <td width="98%" class="tamil-font">(&nbsp;&nbsp;)Tamil</td>
+            <td width="98%" class="tamil-font">(அ)விண்ணப்பக்காரர் சித்த சுவாத Pனமற்றவர் என தகுதி வாய்ந்த நீதிமன்றமொன்றினால் நீதித் தீர்ப்பு
+அளிக்கப்பட்டவரா?</td>
         </tr>
         <tr>
             <td width="2%"></td>
@@ -496,7 +506,8 @@
         </tr>
         <tr>
             <td width="2%" class="tamil-font"></td>
-            <td width="98%" class="tamil-font">(&nbsp;&nbsp;)&nbsp;Tamil</td>
+            <td width="98%" class="tamil-font">(ஆ)&nbsp;விண்ணப்பக்காரர் கடனிறுக்க வகையற்றவர் அல்லது வங்குறௌத்தானவர் என நீதித் தீர்ப்பு
+அளிக்கப்பட்டவரா?</td>
         </tr>
         <tr>
             <td width="2%"></td>
@@ -521,7 +532,9 @@
         </tr>
         <tr>
             <td width="2%" class="tamil-font"></td>
-            <td width="98%" class="tamil-font">(&nbsp;&nbsp;)&nbsp;Tamil</td>
+            <td width="98%" class="tamil-font">(இ)&nbsp; (ஆ) வூக்கான விடை “ஆம்” எனில்இ அவரின் கடனிறுக்க வகையற்ற தன்மை அல்லது வங்குறௌத்து
+நிலைமை ஆனது தவிர்க்க முடியாத நட்டத்திலிருந்து அல்லது துரதிஷ்டத்திலிருந்து ஏற்பட்டதென்பது
+குறித்து விண்ணப்பக்காரர் நீதிமன்றத்தால் சான்றிதழொன்று வழங்கப்பட்டுள்ளவரா?</td>
         </tr>
         <tr>
             <td width="2%"></td>
@@ -546,7 +559,8 @@
         </tr>
         <tr>
             <td width="2%" class="tamil-font"></td>
-            <td width="98%" class="tamil-font">(&nbsp;&nbsp;)Tamil</td>
+            <td width="98%" class="tamil-font">(ஈ) ஒழுக்கக் குறைப்பாடு சம்பந்தப்பட்ட ஏதேனும் தவறுக்காக இலங்கையிலோ அல்லது
+வேறெங்கேனுமோ தகுதிவாய்ந்த நீதிமன்றமொன்றினால் விண்ணப்பக்காரர் தண்டிக்கப்பட்டவரா?</td>
         </tr>
         <tr>
             <td width="2%"></td>
@@ -570,7 +584,8 @@
         </tr>
         <tr>
             <td width="2%" class="tamil-font"></td>
-            <td width="98%" class="tamil-font">( &nbsp;&nbsp;)&nbsp;Tamil</td>
+            <td width="98%" class="tamil-font">(உ)&nbsp; (ஈ) வூக்கான விடை “ஆம்” எனில், அக்குற்றத் தீர்ப்பானது மேன்முறையீட்டில் இலதாக்கப்பட்டதா
+அல்லது விண்ணப்பக்காரர் மன்னிக்கப்பட்டவரா?</td>
         </tr>
         <tr>
             <td width="2%"></td>
@@ -593,7 +608,7 @@
         </tr>
         <tr>
             <td width="2%" class="tamil-font"></td>
-            <td width="98%" class="tamil-font">Tamil</td>
+            <td width="98%" class="tamil-font">விண்ணப்பக்காரர் தனது விண்ணப்பத்துக்கு ஆதாரமாக குறிப்பிட விரும்பும் ஏதேனும் வேறு விபரங்கள்:</td>
         </tr>
         <tr>
             <td width="2%"></td>
@@ -616,7 +631,10 @@
                 සහතික කරමි.</td>
         </tr>
         <tr>
-            <td style=" text-indent: 600;line-height: 2" class="tamil-font">tamil<br>tamil<br>tamil</td>
+            <td style=" text-indent: 600;line-height: 2" class="tamil-font">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.................................................................................................................................................................................................................... ஐச் சேர்ந்த
+            <br>........................................................................................................................................................................................................................... ஆகிய நான்
+            <br> தரப்பட்டுள்ள விடைகளும் குறித்துரைக்கப்பட்டுள்ள விபரங்களும் உண்மையானவை எனவூம் செம்மையானவை எனவூம் சத்தியம்
+செய்கிறேன் / உண்மையாக வெளிப்படுத்தி உறுதிப்படுத்துகிறேன்.</td>
         </tr>
         <tr>
             <td style="text-indent: 50; line-height: 2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I
@@ -636,9 +654,8 @@
         </tr>
         <tr height="50">
             <td width="6%"></td>
-            <td width="92%" class="tamil-font" style="line-height: 2">
-                20 ................................................................மாதம்
-                .............................................................. tamil .
+            <td width="92%" class="tamil-font" style="line-height: 2" style="font-size: 11px;">
+            20..................................................................................... மாதம் ................................ ஆம் நாளில் தேதியிடப்பட்டது.
             </td>
         </tr>
         <tr height="50">
@@ -661,7 +678,7 @@
                                 <td style="width: 161px;" align="left">
                                     <div >
                                         <div class="sinhala-font">අත්සන:</div>
-                                        <div>Tamil:</div>
+                                        <div class="tamil-font">கையொப்பம:</div>
                                         <div style="">Signature:</div>
                                     </div>
                                 </td>
@@ -730,9 +747,9 @@
                 කළ බවට.<br><br></td>
         </tr>
         <tr height="40">
-            <td style="text-indent:60px; line-height: 2" class="tamil-font">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                20 ................................................................மாதம்
-                .................................ஆம் tamil <br> tamil.<br><br>
+            <td style="text-indent:60px; line-height: 2;" class="tamil-font" style="font-size: 11px;">&nbsp;&nbsp;&nbsp;
+            20.................. மாதம் ................. ஆம் தேதி ........................ ல் எனது முன்னிலையில்
+கையொப்பமிடப்பட்டது.
             </td>
         </tr>
         <tr height="40">
@@ -750,9 +767,9 @@
     <table width="100%" style="border: 0; ">
         </tr>
         <tr style="border: 0; ">
-            <td width="64%" style="border: 0; "></td>
-            <td width="30%" style="border: 0;padding: 0;">
-                <center><span class="sinhala-font">දිවුරුම් කොමසාරිස්/සාම විනිසුරු</span><br><span class="tamil-font">tamil</span><br>Commissioner
+            <td width="54%" style="border: 0; "></td>
+            <td width="46%" style="border: 0;padding: 0;">
+                <center><span class="sinhala-font">දිවුරුම් කොමසාරිස්/සාම විනිසුරු</span><br><span class="tamil-font">சத்தியப்பிரமான ஆணையாளர் / சமாதான நீதவான</span><br>Commissioner
                     for Oaths / J.P.</center>
             </td>
         </tr>

@@ -80,7 +80,7 @@
     <div class="sinhala-font" style="line-height: 2; text-indent: 35px;">20 ....................................................Tamil ............................................................. Tamil</div>
     <div class="english-font" style="line-height: 2; text-indent: 35px; margin-top:10px;">Given under my hand at Colombo this ................................................day of.......................... 20 ..................... </div>
 
-    <div><img width="200px" height="200px" style="margin-left:100px; margin-bottom:20px;" src="{{asset('/form-images/redSeal.jpg')}}" alt="gov_logo"></div>
+    <div><img width="200px" height="200px" style="margin-left:100px; margin-bottom:20px;" src="<?php echo e(asset('/form-images/redSeal.jpg')); ?>" alt="gov_logo"></div>
 
     <div style="margin-left:500px;">....................................</div>
     <div style="margin-left:500px;">
