@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
     <style>
 
-        @page {
+        @page  {
 	header: page-header;
 	footer: page-footer;
         }
@@ -67,13 +67,13 @@
 
 <body>
     <section class="form-body">
-        <!-- {{ $foo }} -->
+        <!-- <?php echo e($foo); ?> -->
         <table width="100%" style="border:0; padding:0;">
             <tr>
-                <td width="20%" style="border:0; padding:0px;"><img width="100px" height="100px" src="{{asset('/form-images/govlogo.jpg')}}" alt="gov_logo"></td>
+                <td width="20%" style="border:0; padding:0px;"><img width="100px" height="100px" src="<?php echo e(asset('/form-images/govlogo.jpg')); ?>" alt="gov_logo"></td>
                 <td width="52%" style="border:0; padding-left:170px; padding-top:65px; font-size: 18px;"><span><b>FORM 5</b></span><p>&nbsp;</p><p style="font-size: 13px; ">Application for </p></td>
                 <td width="8%" style="border:0; padding:-1px; font-size: 10px;" align="left">(Section 32)</td>
-                <td width="20%" style="border:0; padding:0px;"> <img width="130" height="auto" src="{{asset('/form-images/eroc.png')}}" alt="Logo EROC"></td>
+                <td width="20%" style="border:0; padding:0px;"> <img width="130" height="auto" src="<?php echo e(asset('/form-images/eroc.png')); ?>" alt="Logo EROC"></td>
             </tr>
             <tr>
                 <td colspan="4" align="center" style="border:0; font-size:15px; padding:0;"><b>FOR INCORPORATION OF A COMPANY LIMITED BY GURANTEE</b> </td>
@@ -197,7 +197,7 @@
                     </td>
                     <!-- <td width="5%" style="border: 1; transform: rotate(270deg) translate(-5%, -20%); position: relative; vertical-align:middle; transform-origin:0 0;" rowspan="2"> Signature</td> -->
                     <td width="5%"height="40"  class="a" rowspan="2"  style="padding-left:10px;" >
-                    <img width="20" height="80" src="{{  URL::to('/') }}/css/forms/signature.png" alt="signature"></td>
+                    <img width="20" height="80" src="<?php echo e(URL::to('/')); ?>/css/forms/signature.png" alt="signature"></td>
                     <td width="36.1%" height="40" rowspan="2" style="border-bottom: 0;"></td>
 
                 </tr>
@@ -267,7 +267,7 @@
                     </td>
                     <!-- <td width="5%" style="border: 1; transform: rotate(270deg) translate(-5%, -20%); position: relative; vertical-align:middle; transform-origin:0 0;" rowspan="2"> Signature</td> -->
                     <td width="5%" height="40" class="a" rowspan="2" style="padding-left:10px; border-top:0" >
-                    <img width="20" height="80" src="{{  URL::to('/') }}/css/forms/signature.png" alt="signature"></td>
+                    <img width="20" height="80" src="<?php echo e(URL::to('/')); ?>/css/forms/signature.png" alt="signature"></td>
                     <td width="36.1%" height="40" rowspan="2" ></td>
 
                 </tr>
@@ -305,7 +305,7 @@
                     <td width="39.3%" height="40" ></td>
                     <!-- <td width="5%" style="border: 1; transform: rotate(270deg) translate(-5%, -20%); position: relative; vertical-align:middle; transform-origin:0 0;" rowspan="2"> Signature</td> -->
                     <td width="5%" height="40" class="a" rowspan="2" style="padding-left:10px;">
-                    <img width="20" height="80" src="{{  URL::to('/') }}/css/forms/signature.png" alt="signature"></td>
+                    <img width="20" height="80" src="<?php echo e(URL::to('/')); ?>/css/forms/signature.png" alt="signature"></td>
                     <td width="36.1%" height="40" rowspan="2" style="border-bottom: 1px;"></td>
 
                 </tr>
@@ -370,7 +370,7 @@
                     <td width="45%" height="50"><?php 
                  
                     ?></td>
-                    <td rowspan="4" height="50" class="a"> <img width="20" height="80" src="{{  URL::to('/') }}/css/forms/signature.png" alt="signature"></td>
+                    <td rowspan="4" height="50" class="a"> <img width="20" height="80" src="<?php echo e(URL::to('/')); ?>/css/forms/signature.png" alt="signature"></td>
                     <td rowspan="4" width="33.2%" height="50"></td>
                 </tr>
                 <tr >
@@ -403,7 +403,7 @@
                     <td width="18%"height="50" class="bg-color">Full Name </td>
                     <td width="45%" height="50">
                     </td>
-                    <td rowspan="4" height="50" class="a"> <img width="20" height="80" src="{{  URL::to('/') }}/css/forms/signature.png" alt="signature"></td>
+                    <td rowspan="4" height="50" class="a"> <img width="20" height="80" src="<?php echo e(URL::to('/')); ?>/css/forms/signature.png" alt="signature"></td>
                     <td rowspan="4" width="33.2%" height="50"></td>
                 </tr>
                 <tr >

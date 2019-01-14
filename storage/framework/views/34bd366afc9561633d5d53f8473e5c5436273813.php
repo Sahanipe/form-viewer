@@ -58,19 +58,19 @@
     <div style="width: 100%; text-align: center;line-height: 0.5px;margin-top:-30px;">
         <h3 class="sinhala-font" style="margin-top:40px; padding: 0; font-size: 18px; "> 1987 සමාගම් (ලේකම්වරයන් පිළිබඳ) නියෝග</h3>
         <h3 class="sinhala-font" style="font-size: 18px; "> (1982 අංක 17 දරන සමාගම් පනත යටතේය )</h3>
-        <h3 class="tamil-font" style="font-size:11px;">(1987 ஆம் ஆண்டpன் கம்பனிகள் (செயலாளா;கள்) ஒலூங்குவிதிகள்)</h3>
-        <h3 class="tamil-font" style="font-size:11px;">(1982 ஆம் ஆண்டpன் 17 ஆம் இலக்க கம்பனிகள் சட்டத்தின் கீழ்)</h3>
+        <h3 class="tamil-font" style="font-size:11px;">(1987 ஆம் ஆண்டின் கம்பனிகள் (செயலாளர்கள்) ஒலூங்குவிதிகள்)</h3>
+        <h3 class="tamil-font" style="font-size:11px;">(1982 ஆம் ஆண்டின் 17 ஆம் இலக்க கம்பனிகள் சட்டத்தின் கீழ்)</h3>
         <h3 style="font-size:15px; margin: 15px;">COMPANIES (SECRETARIES) REGULATIONS 1987</h3>
         <h3 style="font-size:15px; margin: 13px;">(Under the Companies Act, No 17 of 1982)</h3>
     </div>
     <div style="width: 100%;margin-top:-40px; text-align: center;line-height: 0.5px;">
         <h3 class="sinhala-font" style="font-size: 24px; margin-top:60px; ">ලේකම්වරයෙක් වශයෙන් ලියාපදිංචි කිරීමේ සහතිකය</h3>
-        <h3 class="tamil-font2" style="font-size:13px;">செயலாளH பதிவூச் சான்றிதழ</h3>
+        <h3 class="tamil-font2" style="font-size:13px;">செயலாளர்  பதிவுச் சான்றிதழ</h3>
         <h3 style="font-size:18px; margin: 20px;">CERTIFICATE OF REGISTRATION AS A SECRETARY</h3>
     </div>
     <div style="margin-left:10px;">
         <span class="sinhala-font" style="font-size:13px;">ලියාපදිංචි අංකය</span><br>
-        <span class="tamil-font1" style="font-size:9px;">பதிவூ இலக்கம் &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....................................................</span><br>
+        <span class="tamil-font1" style="font-size:9px;">பதிவு இலக்கம் &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;....................................................</span><br>
         <span style="font-size:12px;">Registration No.</span>
     </div>
     <div style="margin-left:100px; margin-top:-50px; font-size:40px;">&#125;</div>
@@ -83,18 +83,18 @@
     
     <div style="line-height: 2">..................................................................................................................................................................</div>
     <div>..................................................................................................................................................................</div>
-    <div class="tamil-font1" style="line-height: 2">1987 ஆம் ஆண்டின் கம்பனிகள் (செயலாளா;கள்) ஓழங்குவிதிகளின் கீழ்
-செயலாளராக இந்நாளன்று பதிவூ செய்யப்பட்டுள்ளாH எனவூம் அதன்முலமாக இலங்கையில் கம்பனிகள்
-தொடா;பாகவூள்ள சட்டத்தின் கீழ் கூட்டpணைக்கப ;பட்ட ஏதேனும் கம ;பனியின் செயலாளர் என்றவாறு
-செயல்படுவதற்கு தகைமையூடையாh; எனவூம் நான் இத்தால் சான்றுப ;படுத்துகிறேன்.</div>
+    <div class="tamil-font1" style="line-height: 2">1987 ஆம் ஆண்டின் கம்பனிகள் (செயலாளர்கள்) ஓழங்குவிதிகளின் கீழ்
+செயலாளராக இந்நாளன்று பதிவு செய்யப்பட்டுள்ளாH எனவும் அதன்முலமாக இலங்கையில் கம்பனிகள்
+தொடர்பாகவுள்ள சட்டத்தின் கீழ் கூட்டிணைக்கப்பட்ட ஏதேனும் கம்பனியின் செயலாளர் என்றவாறு
+செயல்படுவதற்கு தகைமையுடையார் எனவும் நான் இத்தால் சான்றுப்படுத்துகிறேன்.</div>
     <br>
     <div class="english-font" style="line-height: 2; text-indent: 30px; font-size: 12px;">I hereby certify that
         ............................................................................................................................................................<br>
         ...................................................................................................................................................................................................is this day registered as a Secretary under the Companies (Secretaries) Regulations 1987, and is thereby qualified to act as Secretary of any Company incorporated under the Law relating to Companies in Sri Lanka.</div>
     
     <div class="sinhala-font" style="line-height: 2; text-indent: 35px;">20 ............................................. මස ......................................... දින කොළඹ දී මවිසින් අත්සන් කර දෙන ලදී.</div>
-    <div class="tamil-font1" style="line-height: 2; text-indent: 35px;">20 ................................................................... மாதம் .......................................................... ஆம் நாளாகிய இன்று கொழம ;பில் ககப்படக்
-ககாடுக்கப்பட்டது .</div>
+    <div class="tamil-font1" style="line-height: 2; text-indent: 35px;">20 ................................................................... மாதம் .......................................................... ஆம் நாளாகிய இன்று கொழம்பில் எனது
+    <br>கைப்படக்கொடுக்கப்பட்டது .</div>
     <div class="english-font" style="line-height: 2; text-indent: 35px; margin-top:0px;">Given under my hand at Colombo this ................................................day of.......................... 20 ..................... </div>
 
     <div><img width="200px" height="200px" style="margin-left:80px;margin-top:9px; margin-bottom:0px;" src="<?php echo e(asset('/form-images/redSeal.jpg')); ?>" alt="gov_logo"></div>
@@ -102,7 +102,7 @@
     <div style="margin-left:500px;margin-top:-160px;">......................................</div>
     <div style="margin-left:500px;margin-top:-5px;">
         <span class="sinhala-font" style="font-size:13px;">&nbsp;&nbsp;&nbsp;&nbsp;සමාගම් රෙජිස්ට්‍රාර් ජනරාල්</span><br>
-        <span class="tamil-font" style="font-size:10px;">கம்பனிகள் பதிவாளா; நாயகம</span><br>
+        <span class="tamil-font" style="font-size:10px;">கம்பனிகள் பதிவாளர் நாயகம</span><br>
         <span style="font-size:12px; margin-left:-50px">Registrar General of Companies </span>
     </div>
     <div style="margin-left:500px;margin-top:40px;">.......................................</div>

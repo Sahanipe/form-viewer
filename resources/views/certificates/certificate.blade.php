@@ -86,11 +86,12 @@
         <span style="font-size: 10px;"> සමාගම් රෙජිස්ටාර් (රාජකාරී ඉටුකිරීම)</span><br>
         <span style="font-size: 8px;"> நிறுவனங்களின் பதிவாளர் (கடமைகளில் கலந்துகொள்வது)<br> </span>
     </div>
-    <div style="margin-top:20px; margin-left:58px; text-align: left; line-height: 10px;" >
-        <span style="font-size: 8px;">සටහන:&nbsp;&nbsp;&nbsp;1.මෙම සහතිකය පෞද්ගලික සමාගමක් සදහා වේ.5(2) වගන්තිය සමග කියවෙන 3 වන වගන්තිය 2. II කොටසෙහි ප්‍රතිපාදන අදාල වේ-3(2) වගන්තිය </span><br>
-        <span style="font-size: 6px;">குறிப்பு:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.இந்த சான்றிதழ் தனியாH கம்பனிக்குரியது பிரிவூ 3 ஐ பிரிவூ 5(2) உடன் சேHத்து வாசிக்கவூம் 2</span><br>
+    <div style="margin-left:58px; text-align: left; line-height: 10px;" >
+        <span style="font-size: 8px;" class="sinhala-font">සටහන:&nbsp;&nbsp;&nbsp;1.මෙම සහතිකය පෞද්ගලික සමාගමක් සදහා වේ.5(2) වගන්තිය සමග කියවෙන 3 වන වගන්තිය 2. II කොටසෙහි ප්‍රතිපාදන අදාල වේ-3(2) වගන්තිය </span><br>
+        <span style="font-size: 6px;" class="tamil-font">குறிப்பு:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.இந்த சான்றிதழ் தனியாH கம்பனிக்குரியது பிரிவூ 3 ஐ பிரிவூ 5(2) உடன் சேHத்து வாசிக்கவூம் 2</span><br>
         <span style="font-size: 8px;">NOTE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.This Certificate is for a Private Company – Section 3 read with Section 5(2) 2. The Provisions of Part II apply –Section 3(2)</span>
     </div>
+    
 
 </body>
 

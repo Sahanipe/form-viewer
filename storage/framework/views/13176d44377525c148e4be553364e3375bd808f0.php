@@ -157,7 +157,7 @@
         <tr>
             <!-- <td width="10%"></td> -->
             <td width="100%" align="center" >
-<b><span class='tamil-font' style="font-size: 16px;">செயலாளரொருவராகப் பதிவூ செய்யப்படுவதற்கான தனிப்பட்ட <br> ஒருவரின் விண்ணப்பம்</span>
+<b><span class='tamil-font' style="font-size: 16px;">செயலாளரொருவராகப் பதிவு செய்யப்படுவதற்கான தனிப்பட்ட <br> ஒருவரின் விண்ணப்பம்</span>
 <br><span class='tamil-font' style="font-size: 12px;">(ஒழுங்குவிதி 6(2) ஐப் பின்பற்றியது)</span></b></td>
             <!-- <td width="10%"></td> -->
         </tr>
@@ -169,7 +169,7 @@
     <table width="100%">
         <tr>
             <td width="100%" align="center" style="font-size: 18px; "><b>APPLICATION
-                    FOR THE REGISTRATION AS A SECRETARY
+                    FOR REGISTRATION AS A SECRETARY
                     BY AN INDIVIDUAL<br><span style="font-size: 16px;">(Pursuant to Regulation 6(2))</span></b></td>
         </tr>
     </table>
@@ -177,18 +177,18 @@
     <br>
     <table width="100%">
         <tr>
-            <td width="70%"></td>
-            <td width="13%" style="font-size: 13px;" class="sinhala-font">අයදුම්පත් අංකය</td>
+            <td width="69%"></td>
+            <td width="14%" style="font-size: 13px;" class="sinhala-font">අයදුම්පත් අංකය</td>
             <td width="2%" rowspan="3" style="font-size:42px;">&#125;</td>
             <td width="15%" rowspan="3"></td>
         </tr>
         <tr>
-            <td width="70%"></td>
-            <td width="13%"><span class='tamil-font'>விண்ணப்ப இல.</span></td>
+            <td width="69%"></td>
+            <td width="14%"><span class='tamil-font' style="font-size: 10px;">விண்ணப்ப இல.</span></td>
         </tr>
         <tr>
-            <td width="70%"></td>
-            <td width="13%" style="font-size: 11px;">Application No.</td>
+            <td width="69%"></td>
+            <td width="14%" style="font-size: 11px;">Application No.</td>
         </tr>
     </table>
     <br>
@@ -202,7 +202,7 @@
         </tr>
         <tr>
             <td width="72%"></td>
-            <td width="13%"><span class='tamil-font'>பதிவூ இல.</span></td>
+            <td width="13%"><span class='tamil-font'>பதிவு இல.</span></td>
         </tr>
         <tr>
             <td width="72%"></td>
@@ -214,20 +214,20 @@
     <table width="100%">
         <tr>
             <td width="2%" class="sinhala-font">1.</td>
-            <td width="24%" class="sinhala-font">අයදුම්කරුගේ සම්පූර්ණ නම</td>
+            <td width="27%" class="sinhala-font">අයදුම්කරුගේ සම්පූර්ණ නම</td>
             <td width="2%" rowspan="3" style="font-size:50px;">&#125;</td>
-            <td width="72%"></td>
+            <td width="69%"></td>
         </tr>
         <tr>
             <td width="2%" class="tamil-font"></td>
-            <td width="24%" class="tamil-font">விண்ணப்பத்தாரரின் முழப்பெயர</td>
-            <td width="72%"> &emsp;</td>
+            <td width="27%" class="tamil-font" style="font-size: 10px;">விண்ணப்பத்தாரரின் முழப்பெயர</td>
+            <td width="69%"> &emsp;</td>
           
         </tr>
         <tr>
             <td width="2%"></td>
-            <td width="24%">Full Name of Applicant</td>
-            <td width="72%"></td>
+            <td width="27%">Full Name of Applicant</td>
+            <td width="69%"></td>
         </tr>
     </table>
     <br>
@@ -253,19 +253,19 @@
     <table width="100%">
         <tr>
             <td width="2%" class="sinhala-font">3.</td>
-            <td width="25%" class="sinhala-font">ව්‍යාපාර නාමයක් ඇත්නම් එය</td>
+            <td width="28%" class="sinhala-font">ව්‍යාපාර නාමයක් ඇත්නම් එය</td>
             <td width="2%" rowspan="3" style="font-size:50px;">&#125;</td>
-            <td width="71%"></td>
+            <td width="68%"></td>
         </tr>
         <tr>
             <td width="2%" class="tamil-font"></td>
-            <td width="25%" class="tamil-font">வியாபாரப் பெயர், ஏதும் இருப்பிள் </td>
-            <td width="71%"> &emsp;</td>
+            <td width="28%" class="tamil-font">வியாபாரப் பெயர், ஏதும் இருப்பிள் </td>
+            <td width="68%"> &emsp;</td>
         </tr>
         <tr>
             <td width="2%"></td>
-            <td width="25%">Business Name,if any</td>
-            <td width="71%"></td>
+            <td width="28%">Business Name,if any</td>
+            <td width="68%"></td>
         </tr>
     </table>
     <br>
@@ -273,18 +273,18 @@
     <table width="100%">
         <tr>
             <td width="2%" class="sinhala-font">4.</td>
-            <td width="16%" class="sinhala-font">ව්‍යාපාරයේ ලිපිනය</td>
+            <td width="19%" class="sinhala-font">ව්‍යාපාරයේ ලිපිනය</td>
             <td width="2%" rowspan="3" style="font-size:50px;">&#125;</td>
-            <td width="80%" rowspan="3">  &emsp;</td>
+            <td width="77%" rowspan="3">  &emsp;</td>
         </tr>
         <tr>
             <td width="2%" class="tamil-font"></td>
-            <td width="16%" class="tamil-font">வியாபாரத்தல முகவர</td>
+            <td width="19%" class="tamil-font">வியாபாரத்தல முகவர</td>
 
         </tr>
         <tr>
             <td width="2%"></td>
-            <td width="16%">Business Address</td>
+            <td width="19%">Business Address</td>
 
         </tr>
     </table>
@@ -295,19 +295,19 @@
     <table width="100%">
         <tr>
             <td width="2%" class="sinhala-font">5.</td>
-            <td width="32%" class="sinhala-font">අයදුම්කරු ශ්‍රි ලංකාවේ පුරවැසියෙක්ද?</td>
+            <td width="38%" class="sinhala-font">අයදුම්කරු ශ්‍රි ලංකාවේ පුරවැසියෙක්ද?</td>
             <td width="2%" rowspan="3" style="font-size:50px;">&#125;</td>
-            <td width="64%"></td>
+            <td width="58%"></td>
         </tr>
         <tr>
             <td width="2%" class="tamil-font"></td>
-            <td width="32%" class="tamil-font">விண்ணப்பக்காரர் ஓர் இலங்ககைப் பிரசையா?</td>
-            <td width="64%"> &emsp;</td>
+            <td width="38%" class="tamil-font">விண்ணப்பக்காரர் ஓர் இலங்ககைப் பிரசையா?</td>
+            <td width="58%"> &emsp;</td>
         </tr>
         <tr>
             <td width="2%"></td>
-            <td width="32%">Is Appliant a Citizen of Sri Lanka</td>
-            <td width="64%"></td>
+            <td width="38%">Is Appliant a Citizen of Sri Lanka</td>
+            <td width="58%"></td>
         </tr>
     </table>
     <br>
@@ -506,7 +506,7 @@
         </tr>
         <tr>
             <td width="2%" class="tamil-font"></td>
-            <td width="98%" class="tamil-font">(ஆ)&nbsp;விண்ணப்பக்காரர் கடனிறுக்க வகையற்றவர் அல்லது வங்குறௌத்தானவர் என நீதித் தீர்ப்பு
+            <td width="98%" class="tamil-font">(ஆ)&nbsp;விண்ணப்பக்காரர் கடனிறுக்க வகையற்றவர் அல்லது வங்குறொத்தானவர் என நீதித் தீர்ப்பு
 அளிக்கப்பட்டவரா?</td>
         </tr>
         <tr>
@@ -532,7 +532,7 @@
         </tr>
         <tr>
             <td width="2%" class="tamil-font"></td>
-            <td width="98%" class="tamil-font">(இ)&nbsp; (ஆ) வூக்கான விடை “ஆம்” எனில்இ அவரின் கடனிறுக்க வகையற்ற தன்மை அல்லது வங்குறௌத்து
+            <td width="98%" class="tamil-font">(இ)&nbsp; (ஆ) வூக்கான விடை "ஆம்" எனில், அவரின் கடனிறுக்க வகையற்ற தன்மை அல்லது வங்குறௌத்து
 நிலைமை ஆனது தவிர்க்க முடியாத நட்டத்திலிருந்து அல்லது துரதிஷ்டத்திலிருந்து ஏற்பட்டதென்பது
 குறித்து விண்ணப்பக்காரர் நீதிமன்றத்தால் சான்றிதழொன்று வழங்கப்பட்டுள்ளவரா?</td>
         </tr>
@@ -560,7 +560,7 @@
         <tr>
             <td width="2%" class="tamil-font"></td>
             <td width="98%" class="tamil-font">(ஈ) ஒழுக்கக் குறைப்பாடு சம்பந்தப்பட்ட ஏதேனும் தவறுக்காக இலங்கையிலோ அல்லது
-வேறெங்கேனுமோ தகுதிவாய்ந்த நீதிமன்றமொன்றினால் விண்ணப்பக்காரர் தண்டிக்கப்பட்டவரா?</td>
+வேறெங்கேனுமோ தகுதி வாய்ந்த நீதிமன்றமொன்றினால் விண்ணப்பக்காரர் தண்டிக்கப்பட்டவரா?</td>
         </tr>
         <tr>
             <td width="2%"></td>
@@ -584,7 +584,7 @@
         </tr>
         <tr>
             <td width="2%" class="tamil-font"></td>
-            <td width="98%" class="tamil-font">(உ)&nbsp; (ஈ) வூக்கான விடை “ஆம்” எனில், அக்குற்றத் தீர்ப்பானது மேன்முறையீட்டில் இலதாக்கப்பட்டதா
+            <td width="98%" class="tamil-font">(உ)&nbsp; (ஈ) வூக்கான விடை "ஆம்" எனில், அக்குற்றத் தீர்ப்பானது மேன்முறையீட்டில் இலதாக்கப்பட்டதா
 அல்லது விண்ணப்பக்காரர் மன்னிக்கப்பட்டவரா?</td>
         </tr>
         <tr>
@@ -748,7 +748,7 @@
         </tr>
         <tr height="40">
             <td style="text-indent:60px; line-height: 2;" class="tamil-font" style="font-size: 11px;">&nbsp;&nbsp;&nbsp;
-            20.................. மாதம் ................. ஆம் தேதி ........................ ல் எனது முன்னிலையில்
+            20.................. மாதம் ................. ஆம்தேதி ........................ ல் எனது முன்னிலையில்
 கையொப்பமிடப்பட்டது.
             </td>
         </tr>

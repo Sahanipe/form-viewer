@@ -126,12 +126,12 @@
     <table style="border: 0;" width="100%">
         <tbody>
         <tr>
-            <td style="border: 0; color:#000000">
+            <td style="border: 0; color:#000000; padding:0">
                 <b><u>DECLARATION UNDER SECTION 4(1)(a) OF THE ACT</u></b>
             </td>
         </tr>
         <tr>
-            <td style="border: 0; ">I/We declare that to the best
+            <td style="border: 0; text-align:justify; padding:0; padding-bottom:10px;">I/We declare that to the best
                 of my/our knowledge the name of this proposed
                 company is not identical or simillar to that of any existing
                 company</td>
@@ -150,12 +150,12 @@
         </tr>
         <tr>
             <td width="7%" style="border: 0; "></td>
-            <td width="93%" style=" border:0; padding: 0;">
+            <td width="93%" style=" border:0; padding: 0;text-align:justify">
                 <ul>
-                    <li>The Articles of Association of the proposed Company
+                    <li >The Articles of Association of the proposed Company
                         shall
                         be as set out in the first schedule to the Act.</li>
-                    <li>The articles of Association of the proposed Company
+                    <li >The articles of Association of the proposed Company
                         shall
                         be as set out in the Annexure "A" signed by
                         each
@@ -165,29 +165,9 @@
         </tr>
         </tbody>
     </table>
-    <br>
+    
 
-    <!-- <table style="border-color: #FFFFFF; border-top-color: #000000;" width="100%">
-         <tbody>
-             <tr>
-                 <td style="border:0; color:  #212121;">
-                     <b>
-                         <u>INITIAL DIRECTORS</u>
-                     </b>
-                 </td>
-             </tr>
-             <tr>
-                 <td style="border:0; font-size:12.5px;">The following persons are the
-                     initial directors of the proposed company and
-                     signify their consent by signing below and certify that each
-                     one
-                     of them is not disqualified from being appointed or holding
-                     office
-                     as a directory of a company</td>
-             </tr>
-         </tbody>
-     </table>
-     <br>-->
+   
 
     <hr/>
 
@@ -196,17 +176,17 @@
    
 
 
-    <table style="border: 1" width="100%" autosize="1">
+    <table style="border: 1; padding:0" width="100%" autosize="1">
         <tbody>
 
       
         <tr>
-            <td colspan="5" style="width: 509pt; border-bottom; border:1px solid #000;border-top:1px solid #fff; border-right:1px solid #fff; border-left:1px solid #fff; word-break: break-all; font-size: 14px;">
-                <font style="font-size:15px"><b>
+            <td colspan="5" style="width: 509pt; border-bottom; border:1px solid #000;border-top:1px solid #fff; border-right:1px solid #fff; border-left:1px solid #fff; word-break: break-all; font-size: 14px; text-align:justify;">
+                <font style="font-size:15px; "><b>
                         <u>INITIAL DIRECTORS</u>
                     </b></font>
-                <Br/>
-                <span style=" word-break: break-all;">The following persons are the initial directors of the proposed company and signify their consent by<br/> signing below and  certify that each one of them is not disqualified from being appointed or holding office<br/> as a directory of a company</span>
+                <br/>
+                <span style=" word-break: break-all; ">The following persons are the initial directors of the proposed company and signify their consent by signing below and  certify that each one of them is not disqualified from being appointed or holding office<br/> as a directory of a company</span>
 
             </td>
         </tr>
@@ -321,7 +301,7 @@
               
             </td>
             <td rowspan="2" class="a" style="width:30pt;">  <img width="20" height="80" src="{{asset('/form-images/signature.png')}}" alt="signature"></td>
-            <td rowspan="2" style="border:0;border-bottom:1px solid #000; width:62pt;" ></td>
+            <td rowspan="2" style="border:0;border-bottom:1px solid #000; width:72pt;" ></td>
             <td style="border:0; width:101pt;"></td>
         </tr>
         <tr >
@@ -331,7 +311,7 @@
 
                
             </td>
-            <td style="border:0;border-bottom:1px solid #000; width:193pt;" height="70" > </td>
+            <td style="border:0;border-bottom:1px solid #000; width:101pt;" height="70" > </td>
         </tr>
         </tbody>
     </table>
@@ -357,7 +337,7 @@
             </td>
             <td style="width:194pt;" colspan="2"></td>
             <td style="width:30pt;" rowspan="2" class="a">  <img width="20" height="80" src="{{asset('/form-images/signature.png')}}" alt="signature"></td>
-            <td rowspan="2" style="border:0; width:62pt;" ></td>
+            <td rowspan="2" style="border:0; width:72pt;" ></td>
             <td style="border:0; width:101pt;"></td>
         </tr>
         <tr >
@@ -366,7 +346,7 @@
             <td style="width:194pt;" colspan="2" height="70" >
                
             </td>
-            <td width="20%" style="border:0;border-bottom:1px solid #000; width:193pt;" height="70" ></td>
+            <td width="20%" style="border:0;border-bottom:1px solid #000; width:101pt;" height="70" ></td>
         </tr>
         </tbody>
     </table>
@@ -374,9 +354,9 @@
     <table>
         <tbody>
         <tr >
-            <td style="border:#fff solid 1px;border-right:#000 solid 1px; width:179pt;"></td>
-            <td style="width:137pt; border-top: #fff;" class="bg-color" align="right" height="35" >Total Number of Shares</td>
-            <td style="width:193pt; border-top: #fff;"> </td>
+            <td style="border:#fff solid 1px;border-right:#000 solid 1px; width:20pt;" ></td>
+            <td style="width:296pt; border-top: #fff;" class="bg-color" align="left" height="35"  >Total Number of Shares</td>
+            <td style="width:203pt; border-top: #fff;"> </td>
         </tr>
         </tbody>
     </table>
@@ -491,13 +471,19 @@
                         <b><u>SIGNATURE OF INITIAL SHAREHOLDERS:</u></b></font>
             </td>
         </tr>
+        <!-- <tr  >
+            <td style="width:82pt;" height="40" class="bg-color">Full Name </td>
+            <td style="width:229pt;" height="40"></td>
+            <td style="width:28pt;"  height="40" rowspan="4" class="a"><img width="20" height="80" src="{{asset('/form-images/signature.png')}}" alt="signature"></td>
+            <td style="width:170pt;" height="40" rowspan="4" ></td>
+        </tr> -->
 
       
         <tr>
             <td style="width:108pt;" height="80%" align="center" class="bg-color" >Full Name</td>
-            <td style="width:223pt;" height="80%"></td>
-            <td style="width:41pt;" height="80%" class="a"><img width="20" height="80" src="{{asset('/form-images/signature.png')}}" alt="signature"></td>
-            <td style="width:138pt;" height="80%"></td>
+            <td style="width:204pt;" height="80%"></td>
+            <td style="width:28pt;" height="80%" class="a"><img width="20" height="80" src="{{asset('/form-images/signature.png')}}" alt="signature"></td>
+            <td style="width:170pt;" height="80%"></td>
         </tr>
         </tbody>
     </table>

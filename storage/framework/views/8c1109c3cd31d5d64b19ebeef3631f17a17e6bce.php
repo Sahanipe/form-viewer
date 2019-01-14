@@ -30,7 +30,7 @@
 
             .sinhala-font {
                 font-size: 14px;
-                font-family:'examplefont', sans-serif;
+                font-family:'iskpota', sans-serif;
             }
 
             .tamil-font {

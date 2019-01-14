@@ -77,9 +77,9 @@
             <tbody>
                 <tr >
                     <td width="23%" height="40" style="border: 0;"> Company Number</td>
-                    <td width="7%"  height="40" class="bg-color">&nbsp;</td>
-                    <td width="7%"  height="40" class="bg-color">&nbsp;</td>
-                    <td width="63%" height="40" class="bg-color">&nbsp;</td>
+                    <td width="7%"  height="40" >&nbsp;</td>
+                    <td width="7%"  height="40" >&nbsp;</td>
+                    <td width="63%" height="40" >&nbsp;</td>
                 </tr>
             </tbody>
         </table>
@@ -106,7 +106,7 @@
                 <tr>
                     <td width="26%"  class="bg-color" >Registered Address</br>
                         <span style="font-size: 12px;"><I>(Physical Address in Sri Lnaka and must not be a PO Box
-                            address)<br><br></I></span>
+                            Address)<br><br></I></span>
                     </td>
                     <td width="74%" height="80">&nbsp;</td>
                 </tr>
@@ -143,10 +143,10 @@
                     <td width="7%" style="border: 0; "></td>
                     <td width="93%" style=" border:0; padding: 0;">
                         <ul>
-                            <li>The Articles of Association of the proposed Company
+                            <li>The Articles of Association of the proposed company
                                 shall
                                 be as set out in the first schedule to the Act.</li>
-                            <li>The articles of Association of the proposed Company
+                            <li>The articles of Association of the proposed company
                                 shall
                                 be as set out in the Annexure "A" signed by
                                 each

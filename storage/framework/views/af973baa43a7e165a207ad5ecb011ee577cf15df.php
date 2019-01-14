@@ -78,7 +78,7 @@
                         <td rowspan="3" style="font-size:14px;">&nbsp;&nbsp; 79/S</td>
                     </tr>
                     <tr>
-                        <td style="font-size:12px;">Tamil</td>
+                        <td style="font-size:10px;"  class="tamil-font">கம்பனிகள்</td>
                     </tr>
                     <tr>
                         <td style="font-size:12px;">Companies</td>
@@ -92,10 +92,10 @@
     <br>
     <!-- <div style=" margin-top:30px;"> -->
 
-        <table width="28%" height="50px;" style="border: 1px solid black" align="right">
+        <table width="31%" height="50px;" style="border: 1px solid black" align="right">
             <tbody>
                 <tr>
-                    <td width="15%"></td>
+                    <td width="17%"></td>
                     <td style="font-size:12px; " class="sinhala-font">ගාස්තුව රු.</td>
                     <td style="font-size:38px;" rowspan="3">
                         &#125;
@@ -103,11 +103,11 @@
                     <td rowspan="3" style="font-size:14px;" >&nbsp;&nbsp; 10000.00/=</td>
                 </tr>
                 <tr>
-                    <td width="15%"></td>
-                    <td style="font-size:12px;">Tamil</td>
+                    <td width="17%"></td>
+                    <td style="font-size:9px;" class="tamil-font">கட்டணம் ரூ.</td>
                 </tr>
                 <tr>
-                    <td width="15%"></td>
+                    <td width="17%"></td>
                     <td style="font-size:12px;">Fee Rs.</td>
                 </tr>
             </tbody>
@@ -133,7 +133,7 @@
     <table width="100%">
         <tr>
             <!-- <td width="10%"></td> -->
-            <td width="100%" align="center" style="font-size: 28px; font-family:'iskpota', sans-serif;"><b>ව්‍යාපාරික ආයතනයේ හෝ සංස්ථාපිත ආයතනයක් විසින් ලේකම්වරයෙකු වශයෙන් ලියාපදිංචි කරන ලෙස ඉල්ලීම<br><span style="font-size: 18px;">(6(2) නියෝගයට අනතුරුවයි)</span></b></td>
+            <td width="100%" align="center" style="font-size: 28px; font-family:'iskpota', sans-serif;"><b>ව්‍යාපාරික ආයතනයක් හෝ සංස්ථාපිත ආයතනයක් විසින් ලේකම්වරයෙකු වශයෙන් ලියාපදිංචි කරන ලෙස ඉල්ලීම<br><span style="font-size: 18px;">(6(2) නියෝගයට අනතුරුවයි)</span></b></td>
             <!-- <td width="10%"></td> -->
         </tr>
         <tr height="20px;">
@@ -159,7 +159,7 @@
     <table width="100%">
         <tr>
             <td width="100%" align="center" style="font-size: 18px;"><b>APPLICATION
-                    FOR THE REGISTRATION AS A SECRETARY<br>
+                    THE REGISTRATION AS A SECRETARY<br>
                     BY A FIRM OR CORPORATE BODY<br><span style="font-size: 16px;">(Pursuant to Regulation 6(2))</span></b></td>
         </tr>
     </table>
@@ -226,19 +226,19 @@
     <table width="100%">
         <tr>
             <td width="2%" class="sinhala-font">2.</td>
-            <td width="58%" class="sinhala-font">ව්‍යාපාරික ආයතනයේ/ සංස්ථාපිත ආයතනයේ ලියාපදිංචි අංකය :</td>
+            <td width="56%" class="sinhala-font">ව්‍යාපාරික ආයතනයේ/ සංස්ථාපිත ආයතනයේ ලියාපදිංචි අංකය :</td>
             <td style="font-size:50px;" width="2%" rowspan="3">&#125;</td>
-            <td width="38%"></td>
+            <td width="40%"></td>
         </tr>
         <tr>
             <td width="2%" class="tamil-font"></td>
-            <td width="58%" class="tamil-font"> குழுமத்தின் / கூட்டுத்தாபனத்தின் பதிவூ இலக்கம</td>
-            <td width="38%"> &emsp;</td>
+            <td width="56%" class="tamil-font"> குழுமத்தின் / கூட்டுத்தாபனத்தின் பதிவு இலக்கம</td>
+            <td width="40%"> &emsp;</td>
         </tr>
         <tr>
             <td width="2%"></td>
-            <td width="58%">Registration Number of Firm/Corporation:</td>
-            <td width="38%"></td>
+            <td width="56%">Registration Number of Firm/Corporation:</td>
+            <td width="40%"></td>
         </tr>
     </table>
     <br>
@@ -247,19 +247,19 @@
     <table width="100%">
         <tr>
             <td width="2%" class="sinhala-font">3.</td>
-            <td width="32%" class="sinhala-font">ව්‍යාපාරයේ/ සංස්ථාවේ
+            <td width="35%" class="sinhala-font">ව්‍යාපාරයේ/ සංස්ථාවේ
                 ලිපිනය :</td>
             <td style="font-size:50px;" width="2%" rowspan="3">&#125;</td>
-            <td width="63%" rowspan="3"> &emsp;</td>
+            <td width="60%" rowspan="3"> &emsp;</td>
         </tr>
         <tr>
             <td width="2%" class="tamil-font"></td>
-            <td width="32%" class="tamil-font">குழுமத்தின் / கூட்டுத்தாபனத்தின் முகவரி </td>
+            <td width="35%" class="tamil-font">குழுமத்தின் / கூட்டுத்தாபனத்தின் முகவரி </td>
 
         </tr>
         <tr>
             <td width="2%"></td>
-            <td width="32%">Address of Firm/ Corporation:</td>
+            <td width="35%">Address of Firm/ Corporation:</td>
 
         </tr>
     </table>
@@ -269,12 +269,12 @@
     <table width="100%">
         <tr>
             <td width="3%" class="sinhala-font">4.&nbsp;</td>
-            <td width="97%" class="sinhala-font">ව්‍යාපාරයට / සංස්ථාවට ලේකම්වරයකු වශයෙන් කටයුතු කිරීමට ස්වකීය
+            <td width="97%" class="sinhala-font" style="padding-bottom:5px;">ව්‍යාපාරයට / සංස්ථාවට ලේකම්වරයකු වශයෙන් කටයුතු කිරීමට ස්වකීය
                 ව්‍යාපාරයේ ස්වභාවයේ / සංස්ථාවේ සාංගාමික පත්‍රයේ ඉඩ සළසා තිබේ ද?</td>
         </tr>
         <tr>
             <td width="3%" class="tamil-font"></td>
-            <td width="97%" class="tamil-font">குழுமத்தினுடைய வியாபாரத்தின் தன்மை / கூட்டுத்தாபனத்தின் அமைப்புப் புறவிதி குழுமத்தை /
+            <td width="97%" class="tamil-font" style="padding-bottom:5px;">குழுமத்தினுடைய வியாபாரத்தின் தன்மை / கூட்டுத்தாபனத்தின் அமைப்புப் புறவிதி குழுமத்தை /
 கூட்டுத்தாபனத்தை செயலாளர் வேலையைப் பொறுப்பேற்பதற்கு ஏற்பாடளிக்கின்றதா?</td>
         </tr>
         <tr>
@@ -289,7 +289,7 @@
     </table>
     <br>
     
-    <p style="page-break-before:always"></p>
+    <!-- <p style="page-break-before:always"></p> -->
 
     <table width="100%">
         <tr>
@@ -300,9 +300,9 @@
         </tr>
         <tr>
             <td width="3%" class="tamil-font"></td>
-            <td width="97%" class="tamil-font">ஒழுங்குவிதி 2 (1) (ஆ) வின் கீழ் தகைமை பெறும் குழுமத்தின் பங்காளர்கள் அனைவரினதும்
-விபரங்களும்இ கூட்டிணைக்கப்பட்ட குழுவொன்றின் விடயத்தில் பணிப்பாளர்களின் விபரங்களும்: (இவர்கள்
-இந்த ஒழுங்குவிதிகளின் கீழ் தனிப்பட்டவர்களாகவூம் பதிவூ செய்யப்படுதல் வேண்டும்) </td>
+            <td width="97%" class="tamil-font">ஒழுங்குவிதி 2 (1) (ஆ) வின் கீழ் தகைமைபெறும் குழுமத்தின் பங்காளர்கள் அனைவரினதும்
+விபரங்களும் கூட்டிணைக்கப்பட்ட குழுவொன்றின் விடயத்தில் பணிப்பாளர்களின் விபரங்களும்: (இவர்கள்
+இந்த ஒழுங்குவிதிகளின் கீழ் தனிப்பட்டவர்களாகவூம் பதிவூசெய்யப்படுதல் வேண்டும்) </td>
         </tr>
         <tr>
             <td width="3%"></td>
@@ -353,7 +353,7 @@
         <tr>
             <td width="3%" class="tamil-font"></td>
             <td width="97%" class="tamil-font">குழுமத்தின் பங்காளர் / கூட்டுத்தாபனத்தின் பணிப்பாளர் எவரேனும் தகுதிவாய்ந்த
-நீதிமன்றமொன்றினால் </td>
+நீதிமன் றமொன் றினால்- </td>
         </tr>
         <tr>
             <td width="3%"></td>
@@ -392,7 +392,7 @@
         </tr>
         <tr>
             <td width="3%" class="tamil-font"></td>
-            <td width="97%" class="tamil-font">(ஆ) கடனிறுக்க வகையற்றவர் அல்லது வங்குறௌத்தானவர் என நீதித் தீர்ப்பு அளிக்கப்பட்டவரா?</td>
+            <td width="97%" class="tamil-font">(ஆ) கடனிறுக்க வகையற்றவர் அல்லது வங்குறொத்தானவர் என நீதித் தீர்ப்பு அளிக்கப்பட்டவரா?</td>
         </tr>
         <tr>
             <td width="3%"></td>
@@ -415,8 +415,8 @@
         </tr>
         <tr>
             <td width="3%" class="tamil-font"></td>
-            <td width="97%" class="tamil-font">(இ) (ஆ) வூக்கான விடை “ஆம்” எனில்இ அவருடைய கடனிறுக்க வகையற்ற தன்மை அல்லது
-வங்குறௌத்து நிலைமை ஆனது தவிர்க்க முடியாத நட்டத்திலிருந்து அல்லது துரதிஷ்டத்திலிருந்து
+            <td width="97%" class="tamil-font">(இ) (ஆ) வுக்கான விடை "ஆம்" எனில், அவருடைய கடனிறுக்க வகையற்ற தன்மை அல்லது
+வங்குறௌத்து நிலைமை ஆனதுதவிர்க்க முடியாத நட்டத்திலிருந்து அல்லது துரதிஷ்டத்திலிருந்து
 ஏற்பட்டதென்பது குறித்து நீதிமன்றத்தால் சான்றிதழொன்று வழங்க
 ப்பட்டுள்ளதா?</td>
         </tr>
@@ -465,7 +465,7 @@
         </tr>
         <tr>
             <td width="3%" class="tamil-font"></td>
-            <td width="97%" class="tamil-font">(உ) (ஈ) வூக்கான விடை “ஆம்” எனில்இ அக்குற்றத்த Pர்ப்பானது மேன்முறையீட்டில் இலதாக்கப்பட்டதா
+            <td width="97%" class="tamil-font">(உ) (ஈ) வூக்கான விடை "ஆம்" எனில், அக்குற்றத்தீர்ப்பானது மேன்முறையீட்டில் இலதாக்கப்பட்டதா
 அல்லது பங்காளர் / பணிப்பாளர் மன்னிக்கப்பட்டவரா?</td>
         </tr>
         <tr>
@@ -498,9 +498,9 @@
         <tr>
             <td style="line-height: 2; " class="sinhala-font">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ඉහත සඳහන් කරුණු හා දී ඇති උත්තර සැබෑ
                 බවත්, නිවැරදි බවත්
-                .................................................<br>.........................................
-                පදිංචි .........................................................................................
-                වන මම මෙයින් දිවුරා කියා සිටිමි. / ගම්භීරතා පූර්වකව ද සත්‍ය ලෙස ප්‍රකශ කොට
+                ...............................................................<br>..................................................
+                පදිංචි ........................................................................................................
+                වන මම <br>මෙයින් දිවුරා ප්‍රකාශ කර සිටිමි. / ගම්භීරතා පූර්වකව ද සත්‍ය ලෙස ප්‍රකශ කොට
                 සහතික කරමි.</td>
         </tr>
         <tr>

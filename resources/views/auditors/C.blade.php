@@ -57,7 +57,7 @@
                 </tr>
                 <tr style="border: 0; ">
                     <td width="70%" style="border: 0; padding: 0; "></td>
-                    <td width="28%" style="border: 0; padding: 0; font-size:10px; " class="tamil-font" align="center">கம்பனிகள்
+                    <td width="28%" style="border: 0; padding: 0; font-size:10px; " class="tamil-font" align="center">கம்பனி ஏ 7 அ
                     </td>   
                 </tr>
                 <tr style="border: 0; ">
@@ -84,7 +84,7 @@
                 <tr style="border: 0;">
                     <td style="border: 0;">
                         <center><span class="sinhala-font" style="font-size:14px;"><b>සමාගම්වල (ගණන් පරීක්ෂකයන් පිළිබඳ) නියෝග 1964</b></span><br
-                                style="font-size:10px;"><span class="tamil-font" style="font-size:10px;"><b>1987 ஆம் ஆண்டின் கம்பனிகள் (செயலாளர்கள்) ஒழுங்குவிதிகள ;</b></span><br style="font-size:12px;"><span class="english-font" style="font-size:12px;"><b>THE COMPANIES (AUDITORS) REGULATIONS, 1964</b></span></center>
+                                style="font-size:10px;"><span class="tamil-font" style="font-size:10px;"><b>1964 ஆம் ஆண்டுக் கம்பனிகள் (கணக்காய்வாளர்) ஒழுங்குவிதிகள்</b></span><br style="font-size:12px;"><span class="english-font" style="font-size:12px;"><b>THE COMPANIES (AUDITORS) REGULATIONS, 1964</b></span></center>
                     </td>
                 </tr>
             </table>
@@ -94,7 +94,7 @@
                 <tr style="border:0; padding: 0;">
                     <td style="border:0;padding: 0; font-size: 18px;">
                         <center><span class="sinhala-font" style="font-size:20px;"><b>ලියාපදිංචි කිරීමේ සහතිකය</b></span><br style="font-size:18px;"><span class="tamil-font"
-                                style="font-size:15px;"><b>பதிவுச் சான்றிதழ் பத்திரம</b></span><br style="font-size:17px;"><span class="english-font"
+                                style="font-size:15px;"><b>பதிவுச் சான்றிதழ் பத்திரம்</b></span><br style="font-size:17px;"><span class="english-font"
                                 style="font-size:16px;"><b>CERTIFICATE OF REGISTRATION</b></span></center>
                     </td>
                 </tr>
@@ -104,7 +104,7 @@
                 <tr style="border: 0;">
                     <td style="border: 0;">
                         <center><span class="sinhala-font" style="font-size:10px;">(7 ආ වැනි නියෝගය අනුවයි)</span><br style="font-size:9px;"><span class="tamil-font"
-                                style="font-size:9px;">(7 அ ஆம் ஒழுங்கு விதியின்படி)</span><br style="font-size:9px;"><span class="english-font"
+                                style="font-size:9px;">(7 ஆ ஆம் பிரமாணப்படி)</span><br style="font-size:9px;"><span class="english-font"
                                 style="font-size:10px;"><i>(Persuant to Regulation 7b)</i></span></center>
                     </td>
                 </tr>
@@ -128,8 +128,8 @@
                 <tr style="border: 0;">
                     <td width="27%"  style="border: 0; padding: 0; ">
                         
-                        <span class="tamil-font" style="font-size:9px;">பதிவு இய./</span>
-                        <span class="english-font" style="font-size:9px;">REGISTRATION NO.</span>
+                        <span class="tamil-font" style="font-size:9px;">பதிவு இல. /</span>
+                        <span class="english-font" style="font-size:9px;">Registered No.</span>
                     </td>
                     <td width="71%" style="border: 0; padding: 0;"></td>
                 </tr>
@@ -194,37 +194,37 @@
             <table width="100%" style="border: 0; line-height: 21px">
                 <tr style="border: 0; ">
                     <td width="100%" style="border: 0; padding: 0; " class="tamil-font" align="">
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.....................................................................................................................................................................................................................
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;......................................................................................................................................................................................................................................
                     </td>
                 </tr>
                 <tr style="border: 0; ">
                     <td width="100%" style="border: 0; padding: 0; " class="tamil-font" align="">
-                    ..............................................................................................................................................................................................................
+                    .......................................................................................................................................................................................................................................
                     </td>
                 </tr>
                 <tr style="border: 0; ">
                     <td width="100%" style="border: 0; padding: 0; " class="tamil-font" align="">
-                    கைள்விதரரின்முழுப்பெயர் ........................................................................................
+                    ஆகியோர்களைப் பங்காளராகக் கொண்ட .................................................................................................................................................................................
                     </td>
                 </tr>
                 <tr style="border: 0; ">
                     <td width="100%" style="border: 0; padding: 0; " class="tamil-font" align="">
-                    ......................................................................................................................................................................................
+                    ............................................................................................................................................................................................................................
                     </td>
                 </tr>
                 <tr style="border: 0; ">
                     <td width="100%" style="border: 0; padding: 0; " class="tamil-font" align="">
-                    கைள்விதர ரின்முழுப்பெயர்கைள்.............................................................................................................
+                    எனும் வியாபார முகவரியில் இயங்கும்................................................................................................................................................................
                     </td>
                 </tr>
                 <tr style="border: 0; ">
                     <td width="100%" style="border: 0; padding: 0; " class="tamil-font" align="">
-                    ..........................................................................................................
+                    ..........................................................................................................................................................................................................................................
                     </td>
                 </tr>
                 <tr style="border: 0; ">
                     <td width="100%" style="border: 0; padding: 0; " class="tamil-font" align="">
-                        கைள்விதர ரின்முழுப்பெயர்கைள்கைள்விதர ரின்முழுப்பெயர்கைள் கைள்விதர ரின்முழுப்பெயர்கைள் கைள்விதர.
+                    எனும் நிறுவனம் 1964 ஆம் ஆண்டின் கம்பனிகள் (கணக்காய்வாளர்) ஒழுங்குவிதிகளின் படி பதிவு செய்யப்பட்டுள்ளது என உறுதிப்படுத்துகின்றேன்.
                     </td>
                 </tr>
             </table>
@@ -232,12 +232,12 @@
             <table width="100%" style="border: 0; line-height: 21px">
                 <tr style="border: 0; ">
                     <td width="100%" style="border: 0; padding: 0; " class="tamil-font" align="">
-                    20 ...... கைள்விதரரின் முழுப் பெயர்கைள்விதரரின் முழுப் பெயர்கைள்விதரரின் முழுப் பெயர்.
+                    20............. ஆம் ஆண்டு செப்டெம்பர் மாதம் 30 ஆம் திகதி வரையில் பதிவுச் சான்றிதழ் பத்திரம் செல்லுபடியாகும்.
                     </td>
                 </tr>
                 <tr style="border: 0; ">
                     <td width="100%" style="border: 0; padding: 0; " class="tamil-font" align="">
-                        20 ...... கைள்விதரரின்............................ முழுப் ....................................  பெயர்கைள்விதரரின் முழுப் பெயர்கைள்விதரரின் முழுப் பெயர்.
+                    20................ ஆம் ஆண்டு ................................. மாதம் .................. ஆம் திகதியன்று என்னால் கையொப்பமிட்டு வழங்கப்பட்டது.
                     </td>
                 </tr> 
             </table>
@@ -296,7 +296,7 @@
 
                 <br>
                 <br>
-                <br>
+                
                 
                 
                 
@@ -307,13 +307,13 @@
                 </tr>
                 <tr style="border: 0;margin-right: 20px; ">
                     <td width="50%" style="border: 0; padding: 0;"></td>
-                    <td width="50%" style="border: 0; padding: 0;"align="right"><center><span class="english-font">..........................................................................................................</span><br><span class="sinhala-font">සමාගම් රෙජිස්ට්‍රාර් ජනරාල්/</span><span class="tamil-font">ள்விதரரின் முழுப் பெயர்கை</span><br><span  class="english-font">Register General Of Companies</span></center></td>
+                    <td width="50%" style="border: 0; padding: 0;"align="right"><center><span class="english-font">..........................................................................................................</span><br><span class="sinhala-font">සමාගම් රෙජිස්ට්‍රාර් ජනරාල්/</span><span class="tamil-font">கம்பனிகள் பதிவாளர் நாயகம்</span><br><span  class="english-font">Register General Of Companies</span></center></td>
                 </tr>
                 <br>
                 
                 <tr style="border: 0;margin-right: 20px; ">
                     <td width="50%" style="border: 0; padding: 0;"></td>
-                    <td width="50%" style="border: 0; padding: 0;"align="right"><center><span class="english-font">..........................................................................................................</span><br><span class="sinhala-font">සමාගම් රෙජිස්ට්‍රාර් (රා.ඉ)/</span><span class="tamil-font">ள்விதரரின் முழுப் பெயர்கை</span><br><span  class="english-font">REGISTRAR OF COMPANIES (A.D)</span></center></td>
+                    <td width="50%" style="border: 0; padding: 0;"align="right"><center><span class="english-font">..........................................................................................................</span><br><span class="sinhala-font">සමාගම් රෙජිස්ට්‍රාර් (රා.ඉ)/</span><span class="tamil-font">கம்பனிகள் பதிவாளர் நாயகம்</span><br><span  class="english-font">REGISTRAR OF COMPANIES (A.D)</span></center></td>
                 </tr>
             </table>
 

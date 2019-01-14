@@ -39,7 +39,7 @@
 <body>
     <section class="form-body">
         <header class="form-header">
-        <div style="margin-left:300px; "><img src="<?php echo e(asset('/form-images/govlogo.jpg')); ?>" width="100px;" height="100px" alt="govlogo"></div>
+        <div style="margin-left:300px; "><img src="<?php echo e(asset('/form-images/govlogo.jpg')); ?>" width="120px;" height="120px" alt="govlogo"></div>
         <!-- <br>
         <br> -->
             <!-- <table width="100%" height="8%" style="border: 0; padding: 0;">
@@ -61,7 +61,6 @@
                     </td>
                 </tr>
             </table>
-            <br>
 
             <table width="100%" style="border:0;">
                 <tr style="border:0;">
@@ -72,7 +71,7 @@
                     <td width="78%" style="border:0;"></td>
                 </tr>
             </table>
-            <br>
+            
           
 
             <table width="100%" style="border:0;padding: 0;">
@@ -94,11 +93,11 @@
                     </td>
                 </tr>
             </table>
-            <hr style="width: 150px; color: #000000;" >
+            <hr style="width: 150px; color: #000000;  margin-top:9px" >
 
             <table style="border:0;">
                 <tr style="border:0;">
-                    <td style="border:0; line-height: 2" class="sinhala-font">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <td style="border:0; line-height:1.5" class="sinhala-font">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         1987 අංක 3 දරන පොදු කොන්ත්‍රාත් ගිවිසුම් පනතේ 11(1) වගන්තිය පරිදි (අ)<br>
                         blank හි blank
                         හා (ආ) <br> blank
@@ -117,7 +116,7 @@
                     </td>
                 </tr>
                 <tr style="border:0;">
-                    <td style="border:0; line-height: 2" class="tamil-font">(இ) ------------------------------------------------------------தொடா;பில் (அ)------------------------------------------------------------------------------- 
+                    <td style="border:0; line-height: 1.5" class="tamil-font">(இ) ------------------------------------------------------------தொடா;பில் (அ)------------------------------------------------------------------------------- 
 -------------------------------------------------------- ஐச் சோ;ந்த ---------------------------------------------------------------------------------------------
 --------------------------------------------------------------- என்பவருக்கும் (ஆ)----------------------------------------------------------------------------
 ஐச் சோ;ந்த என்பவருக்குமிடையில் இரண்டாயிரத்து ---------------------------------------------------------------------------------------
@@ -128,7 +127,7 @@
                     </td>
                 </tr>
                 <tr style="border:0;">
-                    <td style="text-indent: 30;border:0;  line-height: 2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <td style="text-indent: 30;border:0;  line-height: 1.5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         I hereby certify that a Public Contract for (c) <br>dated the  --blank--  day of   blank Two Thousand
                         and<br> enetered into between(a)<br> of<br> and(b) --blank--  of is this day registered pursuant to Section 11(1) of
                         the Public Contracts Act No.3 of 1987 and this Certificate shall remain in force for a period
@@ -136,7 +135,7 @@
                     </td>
                 </tr>
             </table>
-            <br>
+          
 
             <table width="100%" style="border:0;">
                 <tr style="border:0;">
@@ -180,16 +179,17 @@
                     </td>
                 </tr>
             </table> -->
-            <table width="100%" style="border:0">
-                <tr  style="border:0">
-                    <td width="70%"  style="border:0">
+            <div style="margin-left:30px; margin-top:-40px"><img width="230" height="230"  src="<?php echo e(asset('/form-images/redSeal.jpg')); ?>" alt="Logo EROC"></div>
+            <!-- <table width="100%" style="border:0">
+                <tr  style="border:0"> -->
+                    <!-- <td width="70%"  style="border:0">
                         <table width="80%" align="center" style="padding:0; border:0"> 
                             <tr  style="border:0">
-                                <td  style="border:0" ><img src="<?php echo e(asset('/form-images/redSeal.jpg')); ?>" width="180px;" height="180px" alt="redSeal"></td>
+                                <td  style="border:0" ><img src="<?php echo e(asset('/form-images/redSeal.jpg')); ?>" width="220px;" height="220px" alt="redSeal"></td>
                             </tr>
                         </table>
-                    </td>
-                    <td width="30%"  style="border:0">
+                    </td> -->
+                    <!-- <td width="30%"  style="border:0">
                         <table width="100%" align="right" style="padding:0; border:0">
                             <tr  style="border:0">
                                 <td style="border:0; padding: 0;">
@@ -205,10 +205,17 @@
                     </td>
                 </tr>
             </table>
-            <br>
+          -->
+          <div style="line-height: 2; margin-left:500px; margin-top:-150px; ">........................................</div>
+            <div style="margin-left:500px;margin-top:-5px;">
+            <span style="font-size:12px;" class="sinhala-font">පොදු කොන්ත්‍රාත් ගිවිසුම් රෙජිස්ට්‍රාර්.</span><br>
+            <span class="tamil-font" style="font-size:10px;">பகிரங்க ஒப்பந்தங்கள் பதிவாளர்</span><br>
+            <span style="font-size:12px;">Registrar of Public Contracts</span>
+        </div>
+        <br>  <br>  <br>  <br>  <br>
             <hr style="width:350px; color: #000000; text-align: left;"  align="left">
             <br>
-            <br>
+           
 
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; padding: 0;">
@@ -272,8 +279,7 @@
             <br>
             <!-- <p style="page-break-before:always"></p> -->
 
-            <br>
-            <br>
+           
 
             <table style="border: 0;">
                 <tr style="border: 0;">
@@ -362,10 +368,7 @@
                     </td>
                 </tr>
             </table>
-            <br>
-            <br>
-            <br>
-            <br>
+           
 
 
             <table width="100%" style="border: 0;">

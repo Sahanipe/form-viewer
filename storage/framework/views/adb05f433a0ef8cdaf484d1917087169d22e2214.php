@@ -32,7 +32,7 @@
             font-family:'iskpota', sans-serif;
         }
         .tamil-font{
-            font-size: 10px;
+            font-size: 9px;
             font-family:'latha', sans-serif;
         }
     </style>
@@ -41,7 +41,7 @@
 <body>
     <section class="form-body">
         <header class="form-header">
-        <div style="margin-left:300px; "><img src="<?php echo e(asset('/form-images/govlogo.jpg')); ?>" width="100px;" height="100px" alt="govlogo"></div>
+        <div style="margin-left:300px; "><img src="<?php echo e(asset('/form-images/govlogo.jpg')); ?>" width="120px;" height="120px" alt="govlogo"></div>
             <table width="100%" height="8%" style="border: 0; padding: 0;">
                 <tr style="border: 0;padding: 0;">
                     <td style="border: 0; padding: 0; font-size:16px;">
@@ -49,21 +49,20 @@
                     </td>
                 </tr>
             </table>
-            <br>
 
             <table width="100%" style="border:0;">
                 <tr style="border:0;">
-                    <td width="20%" style="border:0;"><span style="font-size: 17px;" class="sinhala-font"><b>සහතික පත්‍ර අංකය</b></span><br><span
-                            style="font-size: 14px;"><b><span class="tamil-font" style="font-size: 12px;">சான்றிதழ் இலக்கம்</span></b></span><br><span style="font-size: 14px;"><b>Certificate
+                    <td width="20%" style="border:0;"><span style="font-size: 17px; padding:3px" class="sinhala-font"><b>සහතික පත්‍ර අංකය</b></span><br><span
+                            style="font-size: 14px;"><b><span class="tamil-font" style="font-size: 11px; padding:3px">சான்றிதழ் இலக்கம்</span></b></span><br><span style="font-size: 14px;"><b>Certificate
                             No.</b></span></td>
                     <td width="2%" style="border:0; font-size: 45px;">&#125;</td>
                     <td width="78%" style="border:0;"></td>
                 </tr>
             </table>
-            <br>
+        
           
 
-            <table width="100%" style="border:0;padding: 0;">
+            <table width="100%" style="border:0;padding: 0; margin-top:2px;">
                 <tr style="border:0;padding: 0;">
                     <td style="border:0; padding: 0;  font-size: 16px;" class="sinhala-font">
                         <center><b>ටෙන්ඩර්කරුවකු සඳහා හෝ වෙනුවෙන් අනුයෝජිතයෙකු, උප අනුයෝජිතයෙකු, නියෝජිතයෙකු හෝ
@@ -84,11 +83,11 @@
                     </td>
                 </tr>
             </table>
-            <hr style="width: 150px; color: #000000;" >
+            <hr style="width: 150px; color: #000000; margin-top:9px" >
 
             <table style="border:0;">
                 <tr style="border:0;">
-                    <td style="border:0; line-height: 1.7; font-size: 13px;" class="sinhala-font"> blank  හි
+                    <td style="border:0; line-height: 1.5; font-size: 13px;" class="sinhala-font"> blank  හි
                      blank යන
                         අය (අ)
                          blank 
@@ -106,7 +105,7 @@
                     <td style="border:0; text-indent: 300; font-size: 13; line-height: 2"></td>
                 </tr>
                 <tr style="border:0;">
-                    <td style="border:0; text-indent: 600;line-height: 2;" class="tamil-font">………………………. ஐச் சேர்த்த ……………………….. என்பவர் (அ) …………………………. கேள்வி தொடர்பில் (ஆ) …………………. என்பவரின் (இ) ……………………………. ஆக இத்தால் பதிவு ……………………….  செய்யப்பட்டுள்ளார் என்பதுடன் மேற் குறிப்பிடப்பெற்றுள்ள ……………………………… க்கு ஒப்பந்தம் அளிக்கப்பட்டால் அத்தகைய ஒப்பந்தம் அளிக்கப்பட்டு 60 நாட்களுக்குள் அவ்வொப்பந்தம் பதிவு செய்யப்படுவதற்கு விண்ணப்பிக்கப்படல் வேண்டும் எனும் நிபந்தனைக்கு அமைய, இச்சான்றிதழானது இதிலிடப்பட்டுள்ள தேதி முதல் ஓராண்டு காலத்திற்கு வலுவில் இருத்தல் வேண்டுமென இத்தால் நான் அத்தாட்சிப்படுத்துகிறேன்<br><br>
+                    <td style="border:0; text-indent: 600;line-height: 1.5;" class="tamil-font">………………………. ஐச் சேர்த்த ……………………….. என்பவர் (அ) …………………………. கேள்வி தொடர்பில் (ஆ) …………………. என்பவரின் (இ) ……………………………. ஆக இத்தால் பதிவு ……………………….  செய்யப்பட்டுள்ளார் என்பதுடன் மேற் குறிப்பிடப்பெற்றுள்ள ……………………………… க்கு ஒப்பந்தம் அளிக்கப்பட்டால் அத்தகைய ஒப்பந்தம் அளிக்கப்பட்டு 60 நாட்களுக்குள் அவ்வொப்பந்தம் பதிவு செய்யப்படுவதற்கு விண்ணப்பிக்கப்படல் வேண்டும் எனும் நிபந்தனைக்கு அமைய, இச்சான்றிதழானது இதிலிடப்பட்டுள்ள தேதி முதல் ஓராண்டு காலத்திற்கு வலுவில் இருத்தல் வேண்டுமென இத்தால் நான் அத்தாட்சிப்படுத்துகிறேன்<br><br>
                     </td>
                 </tr>
                 <tr style="border:0;">
@@ -114,7 +113,7 @@
                 </tr>
                 </tr>
                 <tr style="border:0;">
-                    <td style="border:0;line-height: 2">I,hereby certify that <br>
+                    <td style="border:0;line-height:1.3">I,hereby certify that <br>
                         of&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
                         is hereby
                         registered as (c) <br> &emsp;&emsp;&emsp;&emsp;&emsp;of (b)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -126,17 +125,17 @@
                         application to register the contract within 60 days of such award of contract shall be made.</td>
                 </tr>
             </table>
-            <br>
+          
 
-            <table width="100%" style="border:0;">
+            <table width="100%" style="border:0; margin-top:4px;">
                 <tr>
                     <td width="6%" style="border:0;"></td>
-                    <td width="94%" style="border:0; padding-bottom:8px;" class="sinhala-font">.................................................මස
+                    <td width="94%" style="border:0; padding-bottom:3px;" class="sinhala-font">.................................................මස
                         ..............................වන දින වන අද දින කොළඹ දී මගේ අත්සන යටතේ දෙන ලදී.</td>
                 </tr>
                 <tr>
                     <td width="6%" style="border:0;"></td>
-                    <td width="94%" style="border:0; padding-bottom:8px; " class="tamil-font">
+                    <td width="94%" style="border:0; padding-bottom:3px; " class="tamil-font">
                     …………….. மாதம் …………. ஆம் நாளாகிய இன்று எனது கையொப்பமிடப்பட்டு கொழும்பில் கொடுக்கப்பட்டது. 
                     </td>
                 </tr>
@@ -147,14 +146,23 @@
                         .......................................................</td>
                 </tr>
             </table>
-            <br>
-            <br>
-            <table width="100%" style="border:0">
+          
+            <div style="margin-left:30px; margin-top:-5px"><img width="230" height="230"  src="<?php echo e(asset('/form-images/redSeal.jpg')); ?>" alt="Logo EROC"></div>
+         
+            <div style="line-height: 2; margin-left:500px; margin-top:-150px; ">........................................</div>
+            <div style="margin-left:500px;margin-top:-5px;">
+            <span style="font-size:12px;" class="sinhala-font">පොදු කොන්ත්‍රාත් ගිවිසුම් රෙජිස්ට්‍රාර්.</span><br>
+            <span class="tamil-font" style="font-size:10px;">பகிரங்க ஒப்பந்தங்கள் பதிவாளர்</span><br>
+            <span style="font-size:12px;">Registrar of Public Contracts</span>
+        </div>
+
+        <br> <br> <br><br>
+            <!-- <table width="100%" style="border:0">
                 <tr  style="border:0">
                     <td width="70%"  style="border:0">
                         <table width="80%" align="center" style="padding:0; border:0"> 
                             <tr  style="border:0">
-                                <td  style="border:0" ><img src="<?php echo e(asset('/form-images/redSeal.jpg')); ?>" width="180px;" height="180px" alt="redSeal"></td>
+                                <td  style="border:0; padding:0" ><img src="<?php echo e(asset('/form-images/redSeal.jpg')); ?>" width="220px;" height="220px" alt="redSeal"></td>
                             </tr>
                         </table>
                     </td>
@@ -173,9 +181,9 @@
                         </table>
                     </td>
                 </tr>
-            </table>
+            </table> -->
 
-            <p style="page-break-before:always"></p>
+            <!-- <p style="page-break-before:always"></p> -->
 
             <!-- <table width="100%" style="border:0;">
                 <tr>
@@ -198,18 +206,18 @@
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; ">
                     <td width="2%" style="border: 0; padding: 0;" class="sinhala-font">(අ)</td>
-                    <td width="25%" style="border: 0; padding: 0;" class="sinhala-font">ටෙන්ඩරයේ ස්වභාවය</td>
+                    <td width="25%" style="border: 0; padding: 0; padding-left:2px;" class="sinhala-font">&nbsp;ටෙන්ඩරයේ ස්වභාවය</td>
                     <td width="4%" style="border: 0; padding: 0; font-size: 54px;" rowspan="3">&#125;</td>
                     <td width="69%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0; ">
                     <td width="2%" style="border: 0;padding: 0;" class="tamil-font">(அ)</td>
-                    <td width="25%" style="border: 0; padding: 0;" class="tamil-font">கேள்விப்பத்திரத்தின் தன்மை</td>
+                    <td width="25%" style="border: 0; padding: 0; padding-left:2px;" class="tamil-font">&nbsp;கேள்விப்பத்திரத்தின் தன்மை</td>
                     <td width="69%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;padding: 0;">(a)</td>
-                    <td width="25%" style="border: 0; padding: 0;">Nature of Tenderer</td>
+                    <td width="25%" style="border: 0; padding: 0; padding-left:2px;">&nbsp;Nature of Tenderer</td>
                     <td width="69%" style="border: 0; padding: 0;"></td>
                 </tr>
             </table>
@@ -217,19 +225,19 @@
 
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; padding: 0;">
-                    <td width="3%" style="border: 0; padding: 0;" class="sinhala-font">(ආ)</td>
-                    <td width="21%" style="border: 0; padding: 0;" class="sinhala-font">ටෙන්ඩර්කරුගේ නම</td>
+                    <td width="3%" style="border: 0; padding: 0; " class="sinhala-font">(ආ)</td>
+                    <td width="21%" style="border: 0; padding: 0;padding-left:-1px; " class="sinhala-font">&nbsp;ටෙන්ඩර්කරුගේ නම</td>
                     <td width="4%" style="border: 0; padding: 0; font-size: 54px;" rowspan="3">&#125;</td>
                     <td width="72%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="3%" style="border: 0;padding: 0;" class="tamil-font">(ஆ)</td>
-                    <td width="21%" style="border: 0; padding: 0;" class="tamil-font">கேள்விதாரரின் பெயர்</td>
+                    <td width="21%" style="border: 0; padding: 0; padding-left:-2px;" class="tamil-font">&nbsp;கேள்விதாரரின் பெயர்</td>
                     <td width="72%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="3%" style="border: 0;padding: 0;">(b)</td>
-                    <td width="21%" style="border: 0; padding: 0;">Name of Tenderer</td>
+                    <td width="21%" style="border: 0; padding: 0; padding-left:-2px;">&nbsp;Name of Tenderer</td>
                     <td width="72%" style="border: 0; padding: 0;"></td>
                 </tr>
             </table>
@@ -237,20 +245,20 @@
 
             <table width="100%" style="border: 0;">
                 <tr style="border: 0; padding: 0;">
-                    <td width="2%" style="border: 0; padding: 0;" class="sinhala-font">(ඇ)</td>
-                    <td width="95%" style="border: 0; padding: 0;" class="sinhala-font">ටෙන්ඩර්කරු සඳහා හෝ වෙනුවෙන්
+                    <td width="2%" style="border: 0;  padding-top:-10px;padding-left:-1px;" class="sinhala-font" align="top">(ඇ)</td>
+                    <td width="88%" style="border: 0; padding: 0;" class="sinhala-font">ටෙන්ඩර්කරු සඳහා හෝ වෙනුවෙන්
                         අනුයෝජිතයා ද,උප අනුයොජිතයා ද,නියොජිතයා ද නැතහොත් නාමිකයා ද යන වග සඳහන් කරන්න</td>
-                    <td width="3%" style="border: 0; padding: 0; font-size: 54px;" rowspan="3">&#125;</td>
+                    <td width="10%" style="border: 0; padding: 0; font-size: 54px;" rowspan="3">&#125;</td>
                     <!-- <td width="74%" style="border: 0; padding: 0;"></td> -->
                 </tr>
                 <tr style="border: 0;">
-                    <td width="2%" style="border: 0;padding: 0;" class="tamil-font">(இ)</td>
-                    <td width="95%" style="border: 0; padding: 0;" class="tamil-font">கேள்விதாரருக்காக அல்லது அவர் சார்பில் ஒரு முகவரா, துணை முகவரா, பிரதிநிதியா அல்லது நியமத்தராவெனக் குறிப்பிடுக.</td>
+                    <td width="2%" style="border: 0;padding: 0; padding-top:-12px;" class="tamil-font">(இ)</td>
+                    <td width="88%" style="border: 0; padding: 0; padding-left:-1px;" class="tamil-font">கேள்விதாரருக்காக அல்லது அவர் சார்பில் ஒரு முகவரா, துணை முகவரா, பிரதிநிதியா அல்லது நியமத்தராவெனக் குறிப்பிடுக.</td>
                     <!-- <td width="74%" style="border: 0; padding: 0;"></td> -->
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;padding: 0;">(c)</td>
-                    <td width="95%" style="border: 0; padding: 0;">State whether Agent, Sub-Agent, Representative or Nominee, for or on behalf of a tenderer</td>
+                    <td width="88%" style="border: 0; padding: 0; padding-left:-2px;">State whether Agent, Sub-Agent, Representative or Nominee, for or on behalf of a tenderer</td>
                     <!-- <td width="74%" style="border: 0; padding: 0;"></td> -->
                 </tr>
             </table>
@@ -276,9 +284,9 @@
                 </tr> -->
             <!-- </table> -->
 
-            <hr style="width: 500px; text-align: left; color: #000000;"  >
+           
 
-            <span style="font-size: 10px;">CM 028014 - 15,000 (2018/08)</span><span class="sinhala-font" style="font-size: 10px;">ශ්‍රී ලංකා රජයේ මුද්‍රණ දෙපාර්තුමේන්තුව</span>
+           
 </body>
 
 </html>

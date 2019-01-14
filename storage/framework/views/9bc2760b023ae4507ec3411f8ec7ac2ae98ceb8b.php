@@ -81,7 +81,7 @@
                 </tr>
                 <tr style="border: 0;" >
                     <!-- <td style="border: 0;" width="80%"></td> -->
-                    <td width="50%" style="border: 0; padding: 0px; font-size:13px;" class="tamil-font" align="center">படிமம் பஒச 1 </td>
+                    <td width="50%" style="border: 0; padding: 0px; font-size:13px;" class="tamil-font" align="center">படிவம் பஒச 1 </td>
                 </tr>
                 <tr style="border: 0;" >
                     <!-- <td style="border: 0;" width="80%"></td> -->
@@ -217,7 +217,7 @@
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td style="border: 0;   padding: 0;" class="tamil-font">விண்ணப்பதாரர் கேள்விதரரகவோ அல்லது அவர் சார்பிலோ முகவராக , துணைமுகவராக  , பிரதிநிதியாக அல்லது நியமத்தரா எனக் குறிப்பிடுக (பஒச 10 ஆம் படிவதிக்கான முகவர் நியமனச் சான்றிதழ் இணைக்குக </td>
+                    <td style="border: 0;   padding: 0;" class="tamil-font">விண்ணப்பதாரர் கேள்விதாரருக்காகவோ அல்லது அவர் சார்பிலோ முகவராக , துணைமுகவராக  , பிரதிநிதியாக அல்லது நியமத்தரா எனக் குறிப்பிடுக (பஒச 10 ஆம் படிவதிக்கான முகவர் நியமனச் சான்றிதழ் இணைக்குக </td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0; padding: 0;"></td>
@@ -284,7 +284,7 @@
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;"></td>
-                    <td width="30%" style="border: 0; padding: 0; " class="tamil-font">அத்தகைய கேள்விதரரின் நாட்டினம் </td>
+                    <td width="30%" style="border: 0; padding: 0; " class="tamil-font">அத்தகைய கேள்விதாரரின் நாட்டினம் </td>
                     <td width="66%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
@@ -304,7 +304,7 @@
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0;"></td>
-                    <td width="59%" style="border: 0; padding: 0; " class="tamil-font">கேள்விதாரர் பகிரங்க அல்லது தனியார் கொம்பனியாக இருக்குமிடத்து -</td>
+                    <td width="59%" style="border: 0; padding: 0; " class="tamil-font">கேள்விதாரர் பகிரங்க அல்லது தனியார் கம்பனியொன்றாக இருக்குமிடத்து -</td>
                     <td width="39%" style="border: 0; padding: 0;"></td>
                 </tr>
                 <tr style="border: 0;">
@@ -456,7 +456,7 @@
                 </tr>
                 <tr style="border: 0;">
                     <td width="3%" style="border: 0; padding: 0;"></td>
-                    <td style="border: 0;   padding: 0;" class="tamil-font">கேள்விதாரர ஒரு குழமம் அல்லது ஆட்களின் கூட்டிணைப்பாக இருக்குமிடத்துஇ குழுமத்தின் பங்காளர் அல்லது கூட்டிணைப்பின் ஆள் ஒவ்வொருவரும் தொடர்பாக பின்வரும் விபரங்களைத் தருக. </td>
+                    <td style="border: 0;   padding: 0;" class="tamil-font">கேள்விதாரர ஒரு குழுமம் அல்லது ஆட்களின் கூட்டிணைப்பாக இருக்குமிடத்து, குழுமத்தின் பங்காளர் அல்லது கூட்டிணைப்பின் ஆள் ஒவ்வொருவரும் தொடர்பாக பின்வரும் விபரங்களைத் தருக. </td>
                 </tr>
                 <tr style="border: 0;">
                     <td width="3%" style="border: 0; padding: 0;"></td>
@@ -510,7 +510,7 @@
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0; padding: 0;"></td>
-                    <td style="border: 0;   padding: 0; text-indent: 30px;" class="tamil-font">மேற்போந்த விண்ணப்பத்தில் உள்ள விபரங்கள் எனது/எங்களது நம்பிக்கைக்கு எட்டிய அளவில் உண்மையானவையயும் செம்மையானவையும் என ………………………………. ஆகிய நான்/நாங்கள் சத்தியம் செய்கி றேன்/கிறோம். <br>  <br> </td> 
+                    <td style="border: 0;   padding: 0; text-indent: 30px;" class="tamil-font">மேற்போந்த விண்ணப்பத்தில் உள்ள விபரங்கள் எனது/எங்களது நம்பிக்கைக்கு எட்டிய அளவில் உண்மையானவையயும் செம்மையானவையும் என ………………………………. ஆகிய நான்/நாங்கள் சத்தியம் செய்கி றேன்/கிறோம். <br>பயபக்தியகவும், விசுவாசமாகவும், மெய்யாகவும் வெளிப்படுத்தி உறுதிப்படுத்துகிறேன்./கிறோம்.  <br> </td> 
                 </tr>
                 <tr style="border: 0;">
                     <td width="2%" style="border: 0; padding: 0; " height="10"></td>
@@ -533,15 +533,21 @@
 
             <table width="100%" style="border:0;">
                 <tr>
-                    <td width="60%" style="border:0; padding: 0;"></td>
+                    <td width="40%" style="border:0; padding: 0;">
+                    <center>................................................................</center>
+                    </td>
+                    <td width="20%" style="border:0; padding: 0;"></td>
                     <td width="40%" style="border:0; padding: 0;">
                         <center>................................................................</center>
                     </td>
                 </tr>
                 <tr>
-                    <td width="60%" style="border:0; padding: 0;"></td>
+                    <td width="40%" style="border:0; padding: 0;">
+                    <center><span class="sinhala-font">මුද්‍රාව/<span><span class="tamil-font">இலட்ச்சனை</span>/Seal</center>
+                    </td>
+                    <td width="20%" style="border:0; padding: 0;"></td>
                     <td width="40%" style="border:0; padding: 0; ">
-                        <center><span class="sinhala-font">අත්සන/<span><span class="tamil-font">கையொப்பம/</span><br>Signature</center>
+                        <center><span class="sinhala-font">අත්සන<span><span class="tamil-font">/கையொப்பம்/</span><br>Signature</center>
                     </td>
                 </tr>
             </table>
@@ -573,14 +579,20 @@
           
             <table width="100%" style="border:0;">
                 <tr>
-                    <td width="50%" style="border:0; padding: 0;"></td>
-                    <td width="50%" style="border:0; padding: 0;">
+                    <td width="45%" style="border:0; padding: 0;">
+                    <center>................................................................</center>
+                    </td>
+                    <td width="10%" style="border:0; padding: 0;"></td>
+                    <td width="45%" style="border:0; padding: 0;">
                         <center>................................................................</center>
                     </td>
                 </tr>
                 <tr>
-                    <td width="50%" style="border:0; padding: 0;"></td>
-                    <td width="50%" style="border:0; padding: 0;font-size:11px;">
+                    <td width="45%" style="border:0; padding: 0;">
+                    <center><span class="sinhala-font">මුද්‍රාව/<span><span class="tamil-font">இலட்ச்சனை</span>/Seal</center>
+                    </td>
+                    <td width="10%" style="border:0; padding: 0;"></td>
+                    <td width="45%" style="border:0; padding: 0;font-size:11px;">
                         <center><span class="sinhala-font">සාමවිනිසුරු / දිවුරුම් කොමසාරිස් .</span><br><span class="tamil-font">சமாதான நீதிவான்/சத்தியப்படுத்தும் ஆளுநர்</span><br>Justice of the Peace /Commissioner for Oaths</center>
                     </td>
                 </tr>
@@ -594,9 +606,9 @@
 
             <table width="100%" style="border:0;">
                 <tr style="border:0;">
-                    <td style="border:0;" class="sinhala-font">මෙම ප්‍රකාශය තැනැත්තකු සම්බන්ධයෙන් වන විට එම තැනැත්තා විසින් ද, ව්‍යාපාර
-                        ආයතනයක් හෝ කොන්සෝටියමක් වන විට ව්‍යාපාර ආයතනයේ හෝ කොන්සෝටියමයේ සියළුම හෝ හවුල්කරුවන්ගේ බහුතරයක්
-                        විසින් දිවුරා ප්‍රකාශ කළ/ප්‍රතිඥා දිය යුතුය.</td>
+                    <td style="border:0;" class="sinhala-font">මෙම ප්‍රකාශය තැනැත්තකු සම්බන්ධයෙන් වන විට එම තැනැත්තා විසින් ද, සංස්ථාවක් වන විට එහි අධ්‍යක්ෂවරයෙකු හෝ ලේකම් විසින් ද, ව්‍යාපාර
+                        ආයතනයක් හෝ කොන්සෝටියමක් වන විට ව්‍යාපාර ආයතනයේ හෝ කොන්සෝටියමයේ සියළුම හෝ හවුල්කරුවන්ගෙන් බහුතරයක්
+                        විසින් දිවුරා ප්‍රකාශ කළ/ප්‍රතිඥා දිය/යුතුය.</td>
                 </tr>
                 <tr style="border:0;">
                     <td style="border:0;" class="tamil-font">இக்கூற்று, தனியார் ஒருவரின் விடயத்தில் அவராலும், கூட்டுத்தாபனம் ஒன்றின் விடயத்தில் அதன் பணிப்பாளர் ஒருவரால் அல்லது செயலாளராலும் குழுமம் அல்லது கூட்டிணைப்பு ஒன்றின் விடயத்தில் எல்லா அல்லது அதிகப்படியான பங்காளர்களால் அல்லது கூட்டிணைப்பின் ஆட்களாலும் சத்தியம் செய்யப்படல் அல்லது உறுதிப்படுத்தப்படல் வேண்டும்.</td>
