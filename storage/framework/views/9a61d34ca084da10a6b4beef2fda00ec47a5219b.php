@@ -72,7 +72,7 @@
         <div class="sinhala-font" style="text-indent: 50;line-height: 2">20 ....................... ක්වූ ................................ මස .......................... වැනි දින මවිසින් අත්සන් කොට දෙන ලදී</div>
         <div class="tamil-font" style="text-indent: 50;line-height: 2;">20............. ஆம் ஆண்டு செப்டெம்பர் மாதம் ................. ஆம் திகதியன்று எனது கையொப்பம் இடப்பட்டுக் கொடுக்கப்பட்டது.</div>
         <div class="english-font" style="text-indent: 50;line-height: 2">Given under my hand this  day of ,</div>
-        <div style="margin-left:40px;"><img width="230" height="230" src="{{asset('/form-images/redSeal.jpg')}}" alt="Logo EROC"></div>
+        <div style="margin-left:40px;"><img width="230" height="230" src="<?php echo e(asset('/form-images/redSeal.jpg')); ?>" alt="Logo EROC"></div>
         
         <div style="line-height: 2; margin-left:500px;  margin-top:-170px;">........................................</div>
         <div style="margin-left:500px;margin-top:-5px;">

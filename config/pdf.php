@@ -51,7 +51,7 @@ return [
 		],
 		'iskpota' => [
 			'R'  => 'iskpota.ttf',    // regular font
-			'B'  => 'iskpota.ttf',       // optional: bold font
+			'B'  => 'iskpotab.ttf',       // optional: bold font
 			'I'  => 'iskpota.ttf',     // optional: italic font
 			'BI' => 'iskpota.ttf', // optional: bold-italic font
 			'useOTL' => 0xFF,    // required for complicated langs like Persian, Arabic and Chinese
@@ -73,6 +73,15 @@ return [
 			'useOTL' => 0xFF,    // required for complicated langs like Persian, Arabic and Chinese
 			'useKashida' => 75,  // required for complicated langs like Persian, Arabic and Chinese
 		],
+
+		'certificate' => [
+			'R'  => 'certificate.ttf',    // regular font
+			'B'  => 'certificate.ttf',       // optional: bold font
+			'I'  => 'certificate.ttf',     // optional: italic font
+			'BI' => 'certificate.ttf', // optional: bold-italic font
+			// 'useOTL' => 0xFF,    // required for complicated langs like Persian, Arabic and Chinese
+			// 'useKashida' => 75,  // required for complicated langs like Persian, Arabic and Chinese
+		]
 		// ...add as many as you want.
 	]
 	// ...
